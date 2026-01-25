@@ -3,123 +3,170 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Admin Panel - DSSSB Smart Notes</title>
+    <title>Super Admin - DSSSB Notes</title>
     <style>
-        body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; color: #333; }
-        .container { max-width: 600px; margin: auto; }
-        .card { background: white; padding: 20px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.05); margin-bottom: 20px; border: 1px solid #e1e4e8; }
-        h3 { margin-top: 0; font-size: 18px; color: #444; }
-        label { font-size: 13px; font-weight: 600; color: #666; display: block; margin-bottom: 5px; margin-top: 15px; }
-        input, select, textarea { width: 100%; padding: 12px; border: 1px solid #ddd; border-radius: 8px; font-size: 14px; box-sizing: border-box; background: #fafafa; }
-        .btn { width: 100%; padding: 12px; border: none; border-radius: 8px; font-size: 15px; font-weight: 600; cursor: pointer; margin-top: 15px; }
-        .btn-primary { background: #007bff; color: white; }
-        .btn-dark { background: #2c3e50; color: white; }
-        .btn-success { background: #28a745; color: white; }
-        textarea { height: 120px; resize: vertical; }
-        .status { font-size: 13px; margin-top: 10px; text-align: center; font-weight: bold; }
-        .success { color: green; } .error { color: red; }
+        body { font-family: 'Segoe UI', sans-serif; background: #eef2f5; padding: 20px; color: #333; }
+        .container { max-width: 600px; margin: auto; background: white; padding: 25px; border-radius: 12px; box-shadow: 0 4px 15px rgba(0,0,0,0.05); }
+        
+        h2 { text-align: center; color: #007bff; margin-bottom: 20px; }
+        
+        label { font-weight: 600; font-size: 13px; margin-top: 15px; display: block; color: #555; }
+        input, select, textarea { width: 100%; padding: 12px; margin-top: 5px; border: 1px solid #ddd; border-radius: 8px; box-sizing: border-box; background: #fafafa; }
+        textarea { height: 100px; resize: vertical; }
+
+        /* Type Selector */
+        .type-selector { background: #e3f2fd; padding: 15px; border-radius: 8px; margin-bottom: 20px; border: 1px solid #90caf9; }
+        .type-selector label { margin-top: 0; color: #0d47a1; }
+
+        /* Dynamic Sections */
+        .input-group { display: none; }
+        .input-group.active { display: block; animation: fadeIn 0.3s; }
+
+        @keyframes fadeIn { from { opacity: 0; transform: translateY(-5px); } to { opacity: 1; transform: translateY(0); } }
+
+        .btn { width: 100%; padding: 14px; margin-top: 20px; border: none; border-radius: 8px; font-weight: bold; cursor: pointer; color: white; font-size: 16px; }
+        .btn-add { background: #28a745; } .btn-add:hover { background: #218838; }
+        .btn-copy { background: #007bff; } .btn-copy:hover { background: #0056b3; }
+        .btn-load { background: #343a40; }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h2 style="text-align: center; color: #007bff;">Admin Dashboard</h2>
+        <h2>⚡ DSSSB Admin Panel</h2>
 
-        <div class="card" style="border-top: 4px solid #2c3e50;">
-            <h3>📥 Step 1: Import Old Data</h3>
-            <textarea id="importBox" placeholder='Paste your full tests.json code here...'></textarea>
-            <button class="btn btn-dark" onclick="loadData()">Load Existing Data 🔄</button>
-            <div id="importStatus" class="status"></div>
+        <label>Step 1: Paste Old Data (from tests.json)</label>
+        <textarea id="importBox" style="height: 60px;" placeholder="Paste JSON here..."></textarea>
+        <button class="btn btn-load" onclick="loadData()">🔄 Load Data</button>
+
+        <hr style="margin: 25px 0; border: 0; border-top: 1px solid #eee;">
+
+        <div class="type-selector">
+            <label>Step 2: What do you want to add?</label>
+            <select id="contentType" onchange="toggleFields()">
+                <option value="test">📝 Mock Test</option>
+                <option value="pdf">📚 PDF Note</option>
+                <option value="notice">🔔 Important Notice</option>
+            </select>
         </div>
 
-        <div class="card" style="border-top: 4px solid #007bff;">
-            <h3>➕ Step 2: Add New Test</h3>
-            
-            <label>Category / Folder</label>
+        <div id="testFields" class="input-group active">
+            <label>Select Folder</label>
             <select id="testCategory">
-                <option value="Assistant Superintendent">👮‍♂️ Assistant Superintendent</option>
+                <option value="Assistant Superintendent">👮‍♂️ Asst. Superintendent</option>
                 <option value="MTS">🏢 MTS</option>
                 <option value="PRT">👨‍🏫 PRT</option>
                 <option value="TGT">📘 TGT</option>
                 <option value="PGT">🎓 PGT</option>
-                <option value="" disabled>──────────</option>
+                <option disabled>──────────</option>
                 <option value="English">🅰️ English</option>
                 <option value="Hindi">🕉️ Hindi</option>
                 <option value="Math">🧮 Math</option>
                 <option value="Reasoning">🧠 Reasoning</option>
                 <option value="GK">🌍 GK</option>
             </select>
-
-            <label>Test Title</label>
-            <input type="text" id="testName" placeholder="e.g. Hindi Mock Test 01">
-
-            <label>Test Link (URL)</label>
-            <input type="text" id="testUrl" placeholder="Paste Link here (Google Form / PDF / Website)">
-
-            <label>Badge (Optional)</label>
+            <label>Test Name</label>
+            <input type="text" id="testName" placeholder="e.g. MTS Full Mock 01">
+            <label>Test Link</label>
+            <input type="text" id="testUrl" placeholder="Link to Google Form/Site">
+            <label>Badge</label>
             <select id="testBadge">
                 <option value="">None</option>
                 <option value="NEW">✨ NEW</option>
-                <option value="FREE">🎁 FREE</option>
                 <option value="LIVE">🔴 LIVE</option>
             </select>
-
-            <label>Test ID (Unique)</label>
-            <input type="text" id="testId" placeholder="e.g. hin_05">
-
-            <button class="btn btn-primary" onclick="addTest()">Add Test to List 🚀</button>
+            <label>Unique ID</label>
+            <input type="text" id="testId" placeholder="e.g. mts_01">
         </div>
 
-        <div class="card" style="border-top: 4px solid #28a745;">
-            <h3>📤 Step 3: Get New Code</h3>
-            <textarea id="exportBox" readonly></textarea>
-            <button class="btn btn-success" onclick="copyCode()">Copy Final Code 📋</button>
+        <div id="pdfFields" class="input-group">
+            <label>PDF Title</label>
+            <input type="text" id="pdfTitle" placeholder="e.g. History Notes Part 1">
+            <label>Size / Description</label>
+            <input type="text" id="pdfSize" placeholder="e.g. 2.5 MB • 50 Pages">
+            <label>PDF Download Link</label>
+            <input type="text" id="pdfUrl" placeholder="Google Drive Link">
         </div>
+
+        <div id="noticeFields" class="input-group">
+            <label>Notice Title</label>
+            <input type="text" id="noticeTitle" placeholder="e.g. Admit Card Released">
+            <label>Date / Tag</label>
+            <input type="text" id="noticeDate" placeholder="e.g. Today / Urgent">
+            <label>Short Description</label>
+            <input type="text" id="noticeDesc" placeholder="e.g. Check official website for details.">
+        </div>
+
+        <button class="btn btn-add" onclick="addItem()">➕ Add Item</button>
+
+        <hr style="margin: 25px 0; border: 0; border-top: 1px solid #eee;">
+        <label>Step 3: Copy New Code</label>
+        <textarea id="exportBox" readonly></textarea>
+        <button class="btn btn-copy" onclick="copyCode()">📋 Copy Code</button>
     </div>
 
     <script>
-        let currentData = { "Assistant Superintendent": [], "MTS": [], "PRT": [], "TGT": [], "PGT": [], "English": [], "Hindi": [], "Math": [], "Reasoning": [], "GK": [] };
+        let data = { "pdfs": [], "notices": [] }; // Default structure
 
         function loadData() {
-            const input = document.getElementById('importBox').value;
-            const status = document.getElementById('importStatus');
-            if (!input.trim()) { status.innerHTML = "<span class='error'>Box is empty!</span>"; return; }
             try {
-                currentData = JSON.parse(input);
-                status.innerHTML = "<span class='success'>Data Loaded! ✅</span>";
-                updateExportBox();
-            } catch (e) { status.innerHTML = "<span class='error'>Invalid JSON! ❌</span>"; }
+                const input = document.getElementById('importBox').value;
+                if(!input) return alert("Paste data first!");
+                data = JSON.parse(input);
+                if(!data.pdfs) data.pdfs = [];
+                if(!data.notices) data.notices = [];
+                alert("Data Loaded! Now add items.");
+                updateOutput();
+            } catch(e) { alert("Invalid JSON!"); }
         }
 
-        function addTest() {
-            const name = document.getElementById('testName').value;
-            const category = document.getElementById('testCategory').value;
-            const url = document.getElementById('testUrl').value;
-            const badge = document.getElementById('testBadge').value;
-            const id = document.getElementById('testId').value;
+        function toggleFields() {
+            document.querySelectorAll('.input-group').forEach(el => el.classList.remove('active'));
+            const type = document.getElementById('contentType').value;
+            document.getElementById(type + 'Fields').classList.add('active');
+        }
 
-            if (!name || !category || !url || !id) { alert("Please fill all fields (Link is mandatory!)"); return; }
-
-            const newTest = { name: name, id: id, url: url, badge: badge };
+        function addItem() {
+            const type = document.getElementById('contentType').value;
             
-            if (!currentData[category]) currentData[category] = [];
-            currentData[category].push(newTest);
-
-            document.getElementById('testName').value = '';
-            document.getElementById('testUrl').value = '';
-            document.getElementById('testId').value = '';
-            updateExportBox();
-            alert("Test Added! Check Step 3.");
+            if (type === 'test') {
+                const cat = document.getElementById('testCategory').value;
+                if(!data[cat]) data[cat] = [];
+                data[cat].push({
+                    name: document.getElementById('testName').value,
+                    url: document.getElementById('testUrl').value,
+                    badge: document.getElementById('testBadge').value,
+                    id: document.getElementById('testId').value
+                });
+            } 
+            else if (type === 'pdf') {
+                data.pdfs.push({
+                    title: document.getElementById('pdfTitle').value,
+                    size: document.getElementById('pdfSize').value,
+                    url: document.getElementById('pdfUrl').value
+                });
+            } 
+            else if (type === 'notice') {
+                data.notices.push({
+                    title: document.getElementById('noticeTitle').value,
+                    date: document.getElementById('noticeDate').value,
+                    desc: document.getElementById('noticeDesc').value
+                });
+            }
+            
+            updateOutput();
+            alert("Item Added!");
+            // Inputs clear nahi kar raha taaki aap jaldi aur add kar sakein
         }
 
-        function updateExportBox() {
-            document.getElementById('exportBox').value = JSON.stringify(currentData, null, 4);
+        function updateOutput() {
+            document.getElementById('exportBox').value = JSON.stringify(data, null, 4);
         }
 
         function copyCode() {
-            document.getElementById("exportBox").select();
-            document.execCommand("copy");
-            alert("Code Copied! Paste it in tests.json on GitHub.");
+            document.getElementById('exportBox').select();
+            document.execCommand('copy');
+            alert("Copied! Update tests.json on GitHub.");
         }
     </script>
 </body>
