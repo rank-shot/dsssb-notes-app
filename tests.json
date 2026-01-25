@@ -6,14 +6,14 @@
     "PGT": [],
     "English": [
         {
-            "name": "PYQ Mock",
-            "id": "01"
+            "name": "Demo Test (Link Check)",
+            "id": "demo_01",
+            "url": "https://www.google.com",
+            "badge": "NEW"
         }
     ],
     "Hindi": [],
     "Math": [],
     "Reasoning": [],
-    "GK": [],
-    "pdfs": [],
-    "notices": []
+    "GK": []
 }
