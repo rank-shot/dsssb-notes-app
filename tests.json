@@ -10,10 +10,18 @@
             "id": "demo_01",
             "url": "https://www.google.com",
             "badge": "NEW"
+        },
+        {
+            "name": "Eng Pyq",
+            "url": "https://dsssbsmartnotes.github.io/dsssb-mts-cbt/eng-pyq-01.html",
+            "badge": "NEW",
+            "id": "eng_01"
         }
     ],
     "Hindi": [],
     "Math": [],
     "Reasoning": [],
-    "GK": []
+    "GK": [],
+    "pdfs": [],
+    "notices": []
 }
