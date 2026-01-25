@@ -22,7 +22,7 @@
         
         <div class="search-box">
             <span class="search-icon">🔍</span>
-            <input type="text" id="searchInput" placeholder="Search tests or PDFs..." onkeyup="searchContent()">
+            <input type="text" id="searchInput" placeholder="Search tests (e.g. English)..." onkeyup="searchContent()">
         </div>
 
         <div id="home-section" class="tab-content active-tab">
@@ -34,25 +34,13 @@
                         <p>Join DSSSB Special Classes</p>
                     </div>
                 </div>
-                <div class="slide fade">
-                    <div class="banner-box" style="background: linear-gradient(45deg, #a18cd1, #fbc2eb);">
-                        <h3>📝 Free Mock Tests</h3>
-                        <p>Attempt Daily Quizzes</p>
-                    </div>
-                </div>
-                <div class="slide fade">
-                    <div class="banner-box" style="background: linear-gradient(45deg, #84fab0, #8fd3f4);">
-                        <h3>📚 PDF Notes</h3>
-                        <p>Download Topic-wise Notes</p>
-                    </div>
-                </div>
             </div>
 
             <div class="grid-container" style="margin-top: 20px;">
                 <a href="https://t.me/DSSSBSmartNotes" target="_blank" class="social-card telegram">
                     <div class="icon">✈️</div><h3>Telegram</h3><p>Join Channel</p>
                 </a>
-                <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank" class="social-card youtube">
+                <a href="https://youtube.com" target="_blank" class="social-card youtube">
                     <div class="icon">▶️</div><h3>YouTube</h3><p>Watch Classes</p>
                 </a>
             </div>
@@ -68,6 +56,12 @@
                 <div class="folder-card" onclick="openSubject('PRT')">
                     <div class="icon">👨‍🏫</div><h3>PRT</h3><p>Mock Tests</p>
                 </div>
+                <div class="folder-card" onclick="openSubject('TGT')">
+                    <div class="icon">📘</div><h3>TGT</h3><p>Mock Tests</p>
+                </div>
+                <div class="folder-card" onclick="openSubject('PGT')">
+                    <div class="icon">🎓</div><h3>PGT</h3><p>Mock Tests</p>
+                </div>
             </div>
 
             <div class="section-title">📚 Subject Practice</div>
@@ -81,6 +75,9 @@
                 <div class="folder-card" onclick="openSubject('Math')">
                     <div class="icon">🧮</div><h3>Maths</h3>
                 </div>
+                <div class="folder-card" onclick="openSubject('Reasoning')">
+                    <div class="icon">🧠</div><h3>Reasoning</h3>
+                </div>
                 <div class="folder-card" onclick="openSubject('GK')">
                     <div class="icon">🌍</div><h3>G.K.</h3>
                 </div>
@@ -93,18 +90,9 @@
                 <div class="pdf-card">
                     <div class="pdf-icon">📄</div>
                     <div class="pdf-info">
-                        <h3>English Vocabulary.pdf</h3>
-                        <p>Size: 2.5 MB • 500+ Words</p>
+                        <h3>Vocabulary Booster.pdf</h3>
+                        <p>Coming Soon</p>
                     </div>
-                    <button class="download-btn">⬇️</button>
-                </div>
-                <div class="pdf-card">
-                    <div class="pdf-icon">📄</div>
-                    <div class="pdf-info">
-                        <h3>DSSSB GK Booster.pdf</h3>
-                        <p>Size: 4.1 MB • History & Polity</p>
-                    </div>
-                    <button class="download-btn">⬇️</button>
                 </div>
             </div>
         </div>
@@ -112,30 +100,12 @@
         <div id="notice-section" class="tab-content" style="display:none;">
             <div class="section-title">🔔 Important Updates</div>
             <div class="notice-card">
-                <span class="date">Today</span>
-                <h3>MTS Admit Card Released</h3>
-                <p>Download your admit card from the official website.</p>
-            </div>
-            <div class="notice-card">
-                <span class="date">Yesterday</span>
-                <h3>New English Quiz Added</h3>
-                <p>Check the English section for Noun Practice Set 02.</p>
+                <span class="date">New</span>
+                <h3>Welcome to DSSSB App</h3>
+                <p>App is live now. Check all mock tests.</p>
             </div>
         </div>
 
-        <div id="search-results" style="display:none;">
-            <div class="section-title">🔍 Search Results</div>
-            <div id="search-items"></div>
-        </div>
-
-    </div>
-
-    <div id="announcement-modal" class="modal">
-        <div class="modal-content">
-            <h3>📢 Update</h3>
-            <p>Welcome to DSSSB Smart Notes! Check out the new PDF section.</p>
-            <button onclick="closeModal()">OK</button>
-        </div>
     </div>
 
     <div id="test-list-container" style="display:none;">
@@ -160,6 +130,14 @@
             <span class="nav-text">Notices</span>
         </div>
     </nav>
+
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js');
+            });
+        }
+    </script>
 
     <script src="./script.js"></script>
 </body>
