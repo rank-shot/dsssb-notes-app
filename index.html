@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSSSB Smart Notes</title>
+    <link rel="manifest" href="./manifest.json">
+    <meta name="theme-color" content="#007bff">
+    <link rel="apple-touch-icon" href="./icon-192.png">
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header>
+        <h1>DSSSB Smart Notes</h1>
+        <p>Your Success Partner</p>
+    </header>
+    <div class="container">
+        <div class="card">
+            <h2>📢 Latest Updates</h2>
+            <p>DSSSB Exam dates announced. Check notifications.</p>
+        </div>
+        <div class="card">
+            <h2>📝 Mock Tests</h2>
+            <button onclick="startTest()">Start English Mock Test</button>
+        </div>
+        <div id="test-area" style="display:none; margin-top: 20px;">
+            <h3>Question 1:</h3>
+            <p>What is the synonym of 'Abandon'?</p>
+            <button>Keep</button> <button>Leave</button>
+        </div>
+    </div>
+    <script>
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js');
+            });
+        }
+    </script>
+    <script src="./script.js"></script>
+</body>
+</html>
