@@ -2,40 +2,165 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>DSSSB Smart Notes</title>
     <link rel="manifest" href="./manifest.json">
     <meta name="theme-color" content="#007bff">
-    <link rel="apple-touch-icon" href="./icon-192.png">
     <link rel="stylesheet" href="./style.css">
 </head>
 <body>
+
     <header>
-        <h1>DSSSB Smart Notes</h1>
-        <p>Your Success Partner</p>
+        <div class="header-top">
+            <button class="icon-btn" onclick="shareApp()">📤</button>
+            <h1>DSSSB Notes</h1>
+            <button class="icon-btn" onclick="toggleDarkMode()">🌙</button>
+        </div>
     </header>
+
     <div class="container">
-        <div class="card">
-            <h2>📢 Latest Updates</h2>
-            <p>DSSSB Exam dates announced. Check notifications.</p>
+        
+        <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="searchInput" placeholder="Search tests or PDFs..." onkeyup="searchContent()">
         </div>
-        <div class="card">
-            <h2>📝 Mock Tests</h2>
-            <button onclick="startTest()">Start English Mock Test</button>
+
+        <div id="home-section" class="tab-content active-tab">
+            
+            <div class="slider-container">
+                <div class="slide fade">
+                    <div class="banner-box" style="background: linear-gradient(45deg, #ff9a9e, #fad0c4);">
+                        <h3>🚀 New Batch Started</h3>
+                        <p>Join DSSSB Special Classes</p>
+                    </div>
+                </div>
+                <div class="slide fade">
+                    <div class="banner-box" style="background: linear-gradient(45deg, #a18cd1, #fbc2eb);">
+                        <h3>📝 Free Mock Tests</h3>
+                        <p>Attempt Daily Quizzes</p>
+                    </div>
+                </div>
+                <div class="slide fade">
+                    <div class="banner-box" style="background: linear-gradient(45deg, #84fab0, #8fd3f4);">
+                        <h3>📚 PDF Notes</h3>
+                        <p>Download Topic-wise Notes</p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="grid-container" style="margin-top: 20px;">
+                <a href="https://t.me/DSSSBSmartNotes" target="_blank" class="social-card telegram">
+                    <div class="icon">✈️</div><h3>Telegram</h3><p>Join Channel</p>
+                </a>
+                <a href="https://youtube.com/@YOUR_CHANNEL" target="_blank" class="social-card youtube">
+                    <div class="icon">▶️</div><h3>YouTube</h3><p>Watch Classes</p>
+                </a>
+            </div>
+
+            <div class="section-title">🏆 Full Mock Tests</div>
+            <div class="grid-container">
+                <div class="folder-card" onclick="openSubject('Assistant Superintendent')">
+                    <div class="icon">👮‍♂️</div><h3>Asst. Sup.</h3><p>Mock Tests</p>
+                </div>
+                <div class="folder-card" onclick="openSubject('MTS')">
+                    <div class="icon">🏢</div><h3>MTS</h3><p>Mock Tests</p>
+                </div>
+                <div class="folder-card" onclick="openSubject('PRT')">
+                    <div class="icon">👨‍🏫</div><h3>PRT</h3><p>Mock Tests</p>
+                </div>
+            </div>
+
+            <div class="section-title">📚 Subject Practice</div>
+            <div class="grid-container">
+                <div class="folder-card" onclick="openSubject('English')">
+                    <div class="icon">🅰️</div><h3>English</h3>
+                </div>
+                <div class="folder-card" onclick="openSubject('Hindi')">
+                    <div class="icon">🕉️</div><h3>Hindi</h3>
+                </div>
+                <div class="folder-card" onclick="openSubject('Math')">
+                    <div class="icon">🧮</div><h3>Maths</h3>
+                </div>
+                <div class="folder-card" onclick="openSubject('GK')">
+                    <div class="icon">🌍</div><h3>G.K.</h3>
+                </div>
+            </div>
         </div>
-        <div id="test-area" style="display:none; margin-top: 20px;">
-            <h3>Question 1:</h3>
-            <p>What is the synonym of 'Abandon'?</p>
-            <button>Keep</button> <button>Leave</button>
+
+        <div id="pdf-section" class="tab-content" style="display:none;">
+            <div class="section-title">📥 Free PDF Notes</div>
+            <div id="pdf-list">
+                <div class="pdf-card">
+                    <div class="pdf-icon">📄</div>
+                    <div class="pdf-info">
+                        <h3>English Vocabulary.pdf</h3>
+                        <p>Size: 2.5 MB • 500+ Words</p>
+                    </div>
+                    <button class="download-btn">⬇️</button>
+                </div>
+                <div class="pdf-card">
+                    <div class="pdf-icon">📄</div>
+                    <div class="pdf-info">
+                        <h3>DSSSB GK Booster.pdf</h3>
+                        <p>Size: 4.1 MB • History & Polity</p>
+                    </div>
+                    <button class="download-btn">⬇️</button>
+                </div>
+            </div>
+        </div>
+
+        <div id="notice-section" class="tab-content" style="display:none;">
+            <div class="section-title">🔔 Important Updates</div>
+            <div class="notice-card">
+                <span class="date">Today</span>
+                <h3>MTS Admit Card Released</h3>
+                <p>Download your admit card from the official website.</p>
+            </div>
+            <div class="notice-card">
+                <span class="date">Yesterday</span>
+                <h3>New English Quiz Added</h3>
+                <p>Check the English section for Noun Practice Set 02.</p>
+            </div>
+        </div>
+
+        <div id="search-results" style="display:none;">
+            <div class="section-title">🔍 Search Results</div>
+            <div id="search-items"></div>
+        </div>
+
+    </div>
+
+    <div id="announcement-modal" class="modal">
+        <div class="modal-content">
+            <h3>📢 Update</h3>
+            <p>Welcome to DSSSB Smart Notes! Check out the new PDF section.</p>
+            <button onclick="closeModal()">OK</button>
         </div>
     </div>
-    <script>
-        if ('serviceWorker' in navigator) {
-            window.addEventListener('load', () => {
-                navigator.serviceWorker.register('./sw.js');
-            });
-        }
-    </script>
+
+    <div id="test-list-container" style="display:none;">
+        <div class="list-header">
+            <h3 id="subject-title">Subject</h3>
+            <button onclick="closeList()" class="close-btn">❌</button>
+        </div>
+        <div id="test-items"></div>
+    </div>
+
+    <nav class="bottom-nav">
+        <div class="nav-item active" onclick="switchTab('home')">
+            <span class="nav-icon">🏠</span>
+            <span class="nav-text">Home</span>
+        </div>
+        <div class="nav-item" onclick="switchTab('pdf')">
+            <span class="nav-icon">📚</span>
+            <span class="nav-text">PDFs</span>
+        </div>
+        <div class="nav-item" onclick="switchTab('notice')">
+            <span class="nav-icon">🔔</span>
+            <span class="nav-text">Notices</span>
+        </div>
+    </nav>
+
     <script src="./script.js"></script>
 </body>
 </html>
