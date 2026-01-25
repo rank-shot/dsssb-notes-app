@@ -10,7 +10,10 @@ window.addEventListener('load', async () => {
     } catch (error) {
         console.error("❌ Database Error:", error);
         // Agar load na ho paye to user ko batayein
-        document.body.insertAdjacentHTML('beforeend', '<p style="text-align:center; color:red; margin-top:20px;">Error loading tests. Please refresh.</p>');
+        const container = document.querySelector('.container');
+        if(container) {
+            container.insertAdjacentHTML('beforeend', '<p style="text-align:center; color:red; margin-top:20px;">Error loading tests. Please refresh.</p>');
+        }
     }
 });
 
@@ -39,18 +42,32 @@ function openSubject(subject) {
                 const btn = document.createElement('button');
                 btn.className = 'test-btn';
                 
-                // Agar Badge hai (Jaise 'New' ya 'Imp') to use add karein
+                // --- A. Badge HTML Generate karein ---
                 let badgeHTML = '';
                 if (test.badge && test.badge !== 'None') {
-                    // Badge ka color decide karein
-                    let badgeColor = test.badge === 'New' ? '#28a745' : '#dc3545'; // Green for New, Red for Imp
-                    badgeHTML = `<span style="background:${badgeColor}; color:white; padding:2px 6px; border-radius:4px; font-size:10px; margin-left:8px; vertical-align:middle;">${test.badge}</span>`;
+                    // Badge ka color decide karein (New=Green, Imp=Red)
+                    let badgeColor = test.badge === 'New' ? '#28a745' : '#dc3545';
+                    badgeHTML = `<span class="badge" style="background:${badgeColor}; color:white; padding:2px 6px; border-radius:4px; font-size:10px; margin-left:8px;">${test.badge}</span>`;
                 }
 
-                // Button ka text set karein
-                btn.innerHTML = `📝 ${test.name} ${badgeHTML}`;
+                // --- B. Attempts HTML Generate karein ---
+                let attemptsHTML = '';
+                if (test.attempts) {
+                    attemptsHTML = `<span class="attempts" style="font-size:12px; color:#666; background:#f0f2f5; padding:4px 8px; border-radius:20px;">👥 ${test.attempts}</span>`;
+                }
+
+                // --- C. Button ka HTML Structure ---
+                // Flexbox use kar rahe hain: Left mein Name+Badge, Right mein Attempts
+                btn.innerHTML = `
+                    <div style="display:flex; align-items:center;">
+                        <span style="font-size:16px;">📝</span> &nbsp; 
+                        <span>${test.name}</span> 
+                        ${badgeHTML}
+                    </div>
+                    ${attemptsHTML}
+                `;
                 
-                // Click karne par Link open ho
+                // --- D. Click Event ---
                 btn.onclick = () => openTestLink(test.url);
                 
                 itemsDiv.appendChild(btn);
@@ -72,8 +89,6 @@ function openSubject(subject) {
 // 3. List Band karne ka Logic
 function closeList() {
     const listContainer = document.getElementById('test-list-container');
-    
-    // Animation ke liye class hata kar hide karein (optional, simple display none bhi chalega)
     listContainer.style.display = 'none';
 }
 
