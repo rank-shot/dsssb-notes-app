@@ -4,7 +4,12 @@
     "PRT": [],
     "TGT": [],
     "PGT": [],
-    "English": [],
+    "English": [
+        {
+            "name": "PYQ Mock",
+            "id": "01"
+        }
+    ],
     "Hindi": [],
     "Math": [],
     "Reasoning": [],
