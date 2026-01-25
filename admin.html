@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin Panel - DSSSB Smart Notes</title>
+    <style>
+        body { font-family: 'Segoe UI', sans-serif; background: #f0f2f5; margin: 0; padding: 20px; color: #333; }
+        .container { max-width: 600px; margin: auto; }
+
+        /* Cards Design */
+        .card {
+            background: white;
+            padding: 20px;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+            margin-bottom: 20px;
+            border: 1px solid #e1e4e8;
+        }
+
+        h3 { margin-top: 0; font-size: 18px; color: #444; display: flex; align-items: center; gap: 8px; }
+        
+        /* Form Elements */
+        label { font-size: 13px; font-weight: 600; color: #666; display: block; margin-bottom: 5px; margin-top: 15px; }
+        input, select, textarea {
+            width: 100%;
+            padding: 12px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            font-size: 14px;
+            box-sizing: border-box;
+            background: #fafafa;
+            font-family: monospace;
+        }
+        input:focus, select:focus, textarea:focus { outline: none; border-color: #007bff; background: white; }
+        
+        /* Buttons */
+        .btn {
+            width: 100%;
+            padding: 12px;
+            border: none;
+            border-radius: 8px;
+            font-size: 15px;
+            font-weight: 600;
+            cursor: pointer;
+            margin-top: 15px;
+            transition: 0.2s;
+        }
+        .btn-primary { background: #007bff; color: white; }
+        .btn-primary:hover { background: #0056b3; }
+        
+        .btn-dark { background: #2c3e50; color: white; }
+        .btn-dark:hover { background: #1a252f; }
+        
+        .btn-success { background: #28a745; color: white; }
+        .btn-success:hover { background: #218838; }
+
+        /* Output Box */
+        textarea { height: 120px; resize: vertical; }
+
+        /* Status Messages */
+        #status { font-size: 13px; margin-top: 10px; text-align: center; font-weight: bold; }
+        .success { color: green; }
+        .error { color: red; }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h2 style="text-align: center; color: #007bff;">Admin Dashboard</h2>
+
+        <div class="card" style="border-top: 4px solid #2c3e50;">
+            <h3>📥 Step 1: Import Old Data</h3>
+            <p style="font-size: 12px; color: #666; margin-bottom: 10px;">Go to your <b>tests.json</b> file on GitHub, copy everything, and paste it here.</p>
+            <textarea id="importBox" placeholder='Paste your full JSON here... e.g. { "English": [] }'></textarea>
+            <button class="btn btn-dark" onclick="loadData()">Load Existing Data 🔄</button>
+            <div id="importStatus"></div>
+        </div>
+
+        <div class="card" style="border-top: 4px solid #007bff;">
+            <h3>➕ Step 2: Add New Test</h3>
+            
+            <label>Test Title</label>
+            <input type="text" id="testName" placeholder="e.g. MTS Full Mock Test 01">
+
+            <label>Folder / Category</label>
+            <select id="testCategory">
+                <option value="Assistant Superintendent">👮‍♂️ Assistant Superintendent</option>
+                <option value="MTS">🏢 MTS</option>
+                <option value="PRT">👨‍🏫 PRT</option>
+                <option value="TGT">📘 TGT</option>
+                <option value="PGT">🎓 PGT</option>
+                <option value="" disabled>──────────</option>
+                <option value="English">🅰️ English</option>
+                <option value="Hindi">🕉️ Hindi</option>
+                <option value="Math">🧮 Math</option>
+                <option value="Reasoning">🧠 Reasoning</option>
+                <option value="GK">🌍 GK</option>
+            </select>
+
+            <label>Test ID (Unique Code)</label>
+            <input type="text" id="testId" placeholder="e.g. mts_full_05">
+
+            <button class="btn btn-primary" onclick="addTest()">Add Test to List 🚀</button>
+        </div>
+
+        <div class="card" style="border-top: 4px solid #28a745;">
+            <h3>📤 Step 3: Get New Code</h3>
+            <p style="font-size: 12px; color: #666; margin-bottom: 10px;">Copy this code and replace everything in your <b>tests.json</b> file.</p>
+            <textarea id="exportBox" readonly></textarea>
+            <button class="btn btn-success" onclick="copyCode()">Copy Final Code 📋</button>
+        </div>
+    </div>
+
+    <script>
+        // Default Structure (Agar user ke paas koi data nahi hai)
+        let currentData = {
+            "Assistant Superintendent": [], "MTS": [], "PRT": [], "TGT": [], "PGT": [],
+            "English": [], "Hindi": [], "Math": [], "Reasoning": [], "GK": []
+        };
+
+        // Function 1: Load Data
+        function loadData() {
+            const input = document.getElementById('importBox').value;
+            const status = document.getElementById('importStatus');
+            
+            if (!input.trim()) {
+                status.innerHTML = "<span class='error'>Box is empty!</span>";
+                return;
+            }
+
+            try {
+                currentData = JSON.parse(input);
+                status.innerHTML = "<span class='success'>Data Loaded Successfully! ✅</span>";
+                updateExportBox(); // Load hone par niche bhi dikhaye
+            } catch (e) {
+                status.innerHTML = "<span class='error'>Invalid JSON! Please copy carefully. ❌</span>";
+            }
+        }
+
+        // Function 2: Add Test
+        function addTest() {
+            const name = document.getElementById('testName').value;
+            const category = document.getElementById('testCategory').value;
+            const id = document.getElementById('testId').value;
+
+            if (!name || !category || !id) {
+                alert("Please fill all fields!");
+                return;
+            }
+
+            // Object banakar sahi array mein push karein
+            const newTest = { name: name, id: id };
+            
+            if (!currentData[category]) {
+                currentData[category] = []; // Agar category nahi hai to bana do
+            }
+
+            currentData[category].push(newTest);
+
+            // Inputs clear karein
+            document.getElementById('testName').value = '';
+            document.getElementById('testId').value = '';
+
+            // Naya code generate karein
+            updateExportBox();
+            alert("Test Added! Now copy the code from Step 3.");
+        }
+
+        // Function 3: Update Export Box
+        function updateExportBox() {
+            const jsonStr = JSON.stringify(currentData, null, 4);
+            document.getElementById('exportBox').value = jsonStr;
+        }
+
+        // Function 4: Copy to Clipboard
+        function copyCode() {
+            const copyText = document.getElementById("exportBox");
+            copyText.select();
+            document.execCommand("copy");
+            alert("Code Copied! Now paste it in tests.json on GitHub.");
+        }
+    </script>
+
+</body>
+</html>
