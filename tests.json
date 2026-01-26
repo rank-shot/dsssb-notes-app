@@ -6,7 +6,7 @@
     "PGT": [],
     "English": [
         {
-            "name": "https://dsssbsmartnotes.github.io/dsssb-mts-cbt/eng-pyq-01.html",
+            "name": "ENGLISH",
             "id": "demo_01",
             "url": "https://www.google.com",
             "badge": "NEW"
@@ -16,6 +16,12 @@
             "url": "https://dsssbsmartnotes.github.io/dsssb-mts-cbt/eng-pyq-01.html",
             "badge": "NEW",
             "id": "eng_01"
+        },
+        {
+            "name": "SYNONYMS",
+            "url": "https://dsssbsmartnotes.github.io/dsssb-mts-cbt/S.html",
+            "badge": "NEW",
+            "id": "ENG 01"
         }
     ],
     "Hindi": [],
