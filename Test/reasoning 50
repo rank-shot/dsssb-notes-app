@@ -1,0 +1,1052 @@
+[
+    {
+        "ans": 1,
+        "difficulty": "Medium",
+        "op_en": [
+            "Mother's mother",
+            "Mother's sister",
+            "Sister",
+            "Mother"
+        ],
+        "op_hi": [
+            "माता की माता",
+            "माता की बहन",
+            "बहन",
+            "माता"
+        ],
+        "q_en": "In a certain code language,<br>A @ B means ‘A is the mother of B’,<br>A – B means ‘A is the brother of B’,<br>A ÷ B means ‘A is the wife of B’ and<br>A &amp; B means ‘A is the father of B’.<br>How is R related to G if ‘R @ P – C ÷ D &amp; G’?",
+        "q_hi": "एक निश्चित कूट भाषा में,<br>A @ B का अर्थ है 'A, B की माता है',<br>A – B का अर्थ है 'A, B का भाई है',<br>A ÷ B का अर्थ है 'A, B की पत्नी है' और<br>A &amp; B का अर्थ है 'A, B का पिता है'।<br>यदि ‘R @ P – C ÷ D &amp; G’ है, तो R, G से किस प्रकार संबंधित है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Given expression: R @ P – C ÷ D &amp; G<br>1) R @ P &rarr; R is the mother of P.<br>2) P – C &rarr; P is the brother of C.<br>3) C ÷ D &rarr; C is the wife of D.<br>4) D &amp; G &rarr; D is the father of G.<br>From the relations, C and D are the parents of G (C is mother, D is father). P is the brother of C. R is the mother of P and C. Therefore, R is the maternal grandmother (Mother's mother) of G.<br><br><b>Solution (HI):</b><br>दी गई अभिव्यक्ति: R @ P – C ÷ D &amp; G<br>1) R @ P &rarr; R, P की माता है।<br>2) P – C &rarr; P, C का भाई है।<br>3) C ÷ D &rarr; C, D की पत्नी है।<br>4) D &amp; G &rarr; D, G का पिता है।<br>इन संबंधों से, C और D, G के माता-पिता हैं (C माता है, D पिता है)। P, C का भाई है। R, P और C की माता है। इसलिए, R, G की नानी (माता की माता) है।<br><br><b>Short Trick:</b><br>Trace backwards from G: G's father is D, D's wife is C (G's mother), C's brother is P, P's mother is R. So, R is C's mother &rarr; G's mother's mother.",
+        "topic": "Blood Relation"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "Mother's father",
+            "Mother's brother's son",
+            "Mother's son",
+            "Brother's son"
+        ],
+        "op_hi": [
+            "माता के पिता",
+            "माता के भाई का पुत्र",
+            "माता का पुत्र",
+            "भाई का पुत्र"
+        ],
+        "q_en": "In a certain code language,<br>A @ B means ‘A is the son of B’,<br>A – B means ‘A is the brother of B’,<br>A ÷ B means ‘A is the wife of B’ and<br>A &amp; B means ‘A is the father of B’.<br>How is R related to G if ‘R @ P – C ÷ D &amp; G’?",
+        "q_hi": "एक निश्चित कूट भाषा में,<br>A @ B का अर्थ है 'A, B का पुत्र है',<br>A – B का अर्थ है 'A, B का भाई है',<br>A ÷ B का अर्थ है 'A, B की पत्नी है' और<br>A &amp; B का अर्थ है 'A, B का पिता है'।<br>यदि ‘R @ P – C ÷ D &amp; G’ है, तो R, G से किस प्रकार संबंधित है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Given expression: R @ P – C ÷ D &amp; G<br>1) R @ P &rarr; R is the son of P.<br>2) P – C &rarr; P is the brother of C.<br>3) C ÷ D &rarr; C is the wife of D.<br>4) D &amp; G &rarr; D is the father of G.<br>Here, C (mother) and D (father) are the parents of G. P is the brother of C, making P the maternal uncle of G. R is the son of P. Thus, R is the son of G's mother's brother.<br><br><b>Solution (HI):</b><br>दी गई अभिव्यक्ति: R @ P – C ÷ D &amp; G<br>1) R @ P &rarr; R, P का पुत्र है।<br>2) P – C &rarr; P, C का भाई है।<br>3) C ÷ D &rarr; C, D की पत्नी है।<br>4) D &amp; G &rarr; D, G का पिता है।<br>यहाँ, C (माता) और D (पिता), G के माता-पिता हैं। P, C का भाई है, जिससे P, G का मामा बन जाता है। R, P का पुत्र है। इस प्रकार, R, G की माता के भाई का पुत्र है।<br><br><b>Short Trick:</b><br>G's parents are C &amp; D. C's brother is P (Maternal Uncle). R is P's son. Hence, R = Mother's brother's son.",
+        "topic": "Blood Relation"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Medium",
+        "op_en": [
+            "Three",
+            "One",
+            "Four",
+            "Two"
+        ],
+        "op_hi": [
+            "तीन",
+            "एक",
+            "चार",
+            "दो"
+        ],
+        "q_en": "Six boxes, D, E, F, G, H and Z, are kept one over the other but not necessarily in the same order. Only G is kept above E. Only H is kept between E and Z. Only two boxes are kept between H and F. How many boxes are kept between E and D?",
+        "q_hi": "छह डिब्बे, D, E, F, G, H और Z, एक के ऊपर एक रखे गए हैं लेकिन जरूरी नहीं कि इसी क्रम में हों। E के ऊपर केवल G रखा गया है। E और Z के बीच केवल H रखा गया है। H और F के बीच केवल दो डिब्बे रखे गए हैं। E और D के बीच कितने डिब्बे रखे गए हैं?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Let the positions be 1 to 6 from bottom to top.<br>1) 'Only G is kept above E' &rarr; G is at the topmost position (6) and E is at (5).<br>2) 'Only H is kept between E and Z' &rarr; E is at (5), so H must be at (4) and Z at (3).<br>3) 'Only two boxes are kept between H and F' &rarr; H is at (4), leaving two gaps (3 and 2) means F must be at (1).<br>4) The remaining box D will be at position (2).<br>Arrangement (Top to Bottom): G, E, H, Z, D, F.<br>The boxes between E and D are H and Z (Two boxes).<br><br><b>Solution (HI):</b><br>मान लीजिए कि नीचे से ऊपर तक स्थान 1 से 6 हैं।<br>1) 'E के ऊपर केवल G रखा गया है' &rarr; G सबसे ऊपरी स्थान (6) पर है और E (5) पर है।<br>2) 'E और Z के बीच केवल H रखा गया है' &rarr; E (5) पर है, इसलिए H (4) पर और Z (3) पर होना चाहिए।<br>3) 'H और F के बीच केवल दो डिब्बे रखे गए हैं' &rarr; H (4) पर है, दो स्थान (3 और 2) छोड़ने पर F (1) पर होना चाहिए।<br>4) शेष डिब्बा D स्थान (2) पर होगा।<br>क्रम (ऊपर से नीचे): G, E, H, Z, D, F.<br>E और D के बीच H और Z (दो डिब्बे) हैं।<br><br><b>Short Trick:</b><br>Fix positions directly: Top is G, then E. H is between E and Z &rarr; G - E - H - Z. Two boxes between H and F &rarr; G - E - H - Z - D - F. Between E and D, there are 2 boxes.",
+        "topic": "Puzzle"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Medium",
+        "op_en": [
+            "Three",
+            "Two",
+            "One",
+            "Four"
+        ],
+        "op_hi": [
+            "तीन",
+            "दो",
+            "एक",
+            "चार"
+        ],
+        "q_en": "Each vowel in the word ITINERUNTLY is changed to the letter immediately preceding it in the English alphabetical order, and each consonant is changed to the letter immediately following it in the English alphabetical order. How many letters will appear exactly twice in the group of letters thus formed?",
+        "q_hi": "शब्द ITINERUNTLY के प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके ठीक पहले वाले अक्षर से बदल दिया जाता है, और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला क्रम में उसके ठीक बाद वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह में कितने अक्षर ठीक दो बार दिखाई देंगे?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Word: I T I N E R U N T L Y<br>Vowels (changed to -1): I &rarr; H, E &rarr; D, U &rarr; T<br>Consonants (changed to +1): T &rarr; U, N &rarr; O, R &rarr; S, L &rarr; M, Y &rarr; Z<br>New sequence: H - U - H - O - D - S - T - O - U - M - Z<br>Frequencies of letters in the new sequence:<br>H: 2, U: 2, O: 2, D: 1, S: 1, T: 1, M: 1, Z: 1.<br>Letters appearing exactly twice are H, U, and O (Three letters).<br><br><b>Solution (HI):</b><br>शब्द: I T I N E R U N T L Y<br>स्वर (-1 में बदले गए): I &rarr; H, E &rarr; D, U &rarr; T<br>व्यंजन (+1 में बदले गए): T &rarr; U, N &rarr; O, R &rarr; S, L &rarr; M, Y &rarr; Z<br>नया क्रम: H - U - H - O - D - S - T - O - U - M - Z<br>नए क्रम में अक्षरों की आवृत्ति:<br>H: 2, U: 2, O: 2, D: 1, S: 1, T: 1, M: 1, Z: 1.<br>ठीक दो बार आने वाले अक्षर H, U और O (तीन अक्षर) हैं।<br><br><b>Short Trick:</b><br>Direct mapping: I&rarr;H, T&rarr;U, I&rarr;H, N&rarr;O, E&rarr;D, R&rarr;S, U&rarr;T, N&rarr;O, T&rarr;U, L&rarr;M, Y&rarr;Z. Count duplicates directly: H(2), U(2), O(2). Total = 3.",
+        "topic": "Alphabet Test"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "op_hi": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "q_en": "In a certain code language, ‘CROP’ is coded as ‘2935’ and ‘COPE’ is coded as ‘7352’. What is the code for ‘E’ in that language?",
+        "q_hi": "एक निश्चित कूट भाषा में, ‘CROP’ को ‘2935’ के रूप में और ‘COPE’ को ‘7352’ के रूप में कूटबद्ध किया जाता है। उस भाषा में ‘E’ के लिए कूट क्या है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>CROP = 2, 9, 3, 5<br>COPE = 7, 3, 5, 2<br>The common letters between 'CROP' and 'COPE' are C, O, P.<br>The common digits between '2935' and '7352' are 2, 3, 5.<br>Thus, the codes for C, O, P are 2, 3, 5 in any order.<br>The remaining letter in 'COPE' is 'E' and the remaining digit is '7'. Therefore, 'E' is coded as '7'.<br><br><b>Solution (HI):</b><br>CROP = 2, 9, 3, 5<br>COPE = 7, 3, 5, 2<br>'CROP' और 'COPE' के बीच सामान्य अक्षर C, O, P हैं।<br>'2935' और '7352' के बीच सामान्य अंक 2, 3, 5 हैं।<br>इस प्रकार, C, O, P के कूट किसी भी क्रम में 2, 3, 5 हैं।<br>'COPE' में शेष अक्षर 'E' है और शेष अंक '7' है। इसलिए, 'E' को '7' के रूप में कूटबद्ध किया गया है।<br><br><b>Short Trick:</b><br>Eliminate common parts: C, O, P are common in both words. Numbers 2, 3, 5 are common. The only unique letter in COPE is E, and its unique number is 7.",
+        "topic": "Coding-Decoding"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Medium",
+        "op_en": [
+            "B",
+            "F",
+            "A",
+            "D"
+        ],
+        "op_hi": [
+            "B",
+            "F",
+            "A",
+            "D"
+        ],
+        "q_en": "Six students, A, B, C, D, E and F, are sitting around a circular table facing the centre. F is sitting second to the right of C. Both A and D are immediate neighbours of E. A is sitting to the immediate right of F.<br>Who is sitting to the immediate right of C?",
+        "q_hi": "छह छात्र A, B, C, D, E और F एक वृत्ताकार मेज के चारों ओर केंद्र की ओर मुख करके बैठे हैं। F, C के दायें से दूसरे स्थान पर बैठा है। A और D दोनों E के निकटतम पड़ोसी हैं। A, F के ठीक दायें बैठा है।<br>C के ठीक दायें कौन बैठा है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>1) F is sitting second to the right of C. If C is at position 1, F is at position 3 (Rightwards).<br>2) A is to the immediate right of F. So A is at position 4.<br>3) Both A and D are immediate neighbours of E. Since A is at 4, E must be at 5 and D must be at 6.<br>4) Only position 2 is empty, which is occupied by the remaining student B.<br>Circle from C (Rightwards): C, B, F, A, E, D.<br>The person sitting to the immediate right of C is B.<br><br><b>Solution (HI):</b><br>1) F, C के दायें से दूसरे स्थान पर बैठा है। यदि C स्थान 1 पर है, तो F स्थान 3 पर है (दायें की ओर)।<br>2) A, F के ठीक दायें है। इसलिए A स्थान 4 पर है।<br>3) A और D दोनों E के निकटतम पड़ोसी हैं। चूँकि A 4 पर है, E को 5 पर और D को 6 पर होना चाहिए।<br>4) केवल स्थान 2 खाली है, जिस पर शेष छात्र B बैठेगा।<br>C से (दायें की ओर) वृत्त का क्रम: C, B, F, A, E, D.<br>C के ठीक दायें बैठा व्यक्ति B है।<br><br><b>Short Trick:</b><br>Trace right: C &rarr; _ &rarr; F &rarr; A. Since E is between A &amp; D, it forms A &rarr; E &rarr; D. Full circle: C &rarr; B &rarr; F &rarr; A &rarr; E &rarr; D. Right of C is B.",
+        "topic": "Seating Arrangement"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Only I is true",
+            "Only II is true",
+            "Neither I nor II is true",
+            "Both I and II are true"
+        ],
+        "op_hi": [
+            "केवल I सत्य है",
+            "केवल II सत्य है",
+            "न तो I और न ही II सत्य है",
+            "I और II दोनों सत्य हैं"
+        ],
+        "q_en": "A statement is given followed by two conclusions. Identify which of the given conclusions is/are true based on the given statement.<br><br><strong>Statement:</strong><br>J &lt; Y &lt; O &gt; K &gt; E<br><br><strong>Conclusions:</strong><br>I. E &lt; O<br>II. J &lt; K",
+        "q_hi": "एक कथन और उसके बाद दो निष्कर्ष दिए गए हैं। ज्ञात कीजिए कि दिए गए कथन के आधार पर दिए गए निष्कर्षों में से कौन-सा/से सत्य है/हैं।<br><br><strong>कथन:</strong><br>J &lt; Y &lt; O &gt; K &gt; E<br><br><strong>निष्कर्ष:</strong><br>I. E &lt; O<br>II. J &lt; K",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Statement: J &lt; Y &lt; O &gt; K &gt; E<br>Conclusion I: E &lt; O<br>From the statement, we have O &gt; K &gt; E. This directly implies O &gt; E, which is the same as E &lt; O. So, Conclusion I is true.<br>Conclusion II: J &lt; K<br>From the statement, we have J &lt; Y &lt; O &gt; K. Because the inequality signs face opposite directions between J and K, no definite relation can be established. So, Conclusion II is false.<br>Therefore, Only I is true.<br><br><b>Solution (HI):</b><br>कथन: J &lt; Y &lt; O &gt; K &gt; E<br>निष्कर्ष I: E &lt; O<br>कथन से, हमारे पास O &gt; K &gt; E है। इसका सीधा अर्थ है O &gt; E, जो E &lt; O के समान है। अतः, निष्कर्ष I सत्य है।<br>निष्कर्ष II: J &lt; K<br>कथन से, हमारे पास J &lt; Y &lt; O &gt; K है। चूँकि J और K के बीच असमानता चिह्न विपरीत दिशाओं में हैं, कोई निश्चित संबंध स्थापित नहीं किया जा सकता है। अतः, निष्कर्ष II असत्य है।<br>इसलिए, केवल I सत्य है।<br><br><b>Short Trick:</b><br>Look at the signs. O &gt; K &gt; E &rarr; O &gt; E (True). J &lt; ... &gt; K &rarr; Opposite signs mean no relation (False).",
+        "topic": "Inequalities"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Medium",
+        "op_en": [
+            "A",
+            "I",
+            "B",
+            "E"
+        ],
+        "op_hi": [
+            "A",
+            "I",
+            "B",
+            "E"
+        ],
+        "q_en": "A, B, C, D, E and I live on six different floors of the same building. The lowermost floor in the building is numbered 1, the floor above it is numbered 2 and so on till the topmost floor, which is numbered 6.<br>Only D lives above A. B lives immediately below A. Only C lives below I. Who lives on floor number 3?",
+        "q_hi": "A, B, C, D, E और I एक ही इमारत की छह अलग-अलग मंजिलों पर रहते हैं। इमारत में सबसे निचली मंजिल की संख्या 1 है, उसके ऊपर की मंजिल की संख्या 2 है और इसी तरह सबसे ऊपरी मंजिल की संख्या 6 है।<br>A के ऊपर केवल D रहता है। B, A के ठीक नीचे रहता है। I के नीचे केवल C रहता है। मंजिल संख्या 3 पर कौन रहता है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>1) 'Only D lives above A' &rarr; D must be on the topmost floor (6), and A is on floor 5.<br>2) 'B lives immediately below A' &rarr; B is on floor 4.<br>3) 'Only C lives below I' &rarr; C must be on the lowermost floor (1), and I is on floor 2.<br>4) The remaining person E must occupy the only vacant floor, which is floor 3.<br>Therefore, E lives on floor number 3.<br><br><b>Solution (HI):</b><br>1) 'A के ऊपर केवल D रहता है' &rarr; D सबसे ऊपरी मंजिल (6) पर होना चाहिए, और A मंजिल 5 पर है।<br>2) 'B, A के ठीक नीचे रहता है' &rarr; B मंजिल 4 पर है।<br>3) 'I के नीचे केवल C रहता है' &rarr; C सबसे निचली मंजिल (1) पर होना चाहिए, और I मंजिल 2 पर है।<br>4) शेष व्यक्ति E को एकमात्र खाली मंजिल, जो कि मंजिल 3 है, पर होना चाहिए।<br>इसलिए, E मंजिल संख्या 3 पर रहता है।<br><br><b>Short Trick:</b><br>Top-down fill: 6-D, 5-A (Only D above A). B below A &rarr; 4-B. Bottom-up fill: 1-C, 2-I (Only C below I). Remaining spot 3 is for E.",
+        "topic": "Puzzle"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Medium",
+        "op_en": [
+            "T",
+            "E",
+            "K",
+            "A"
+        ],
+        "op_hi": [
+            "T",
+            "E",
+            "K",
+            "A"
+        ],
+        "q_en": "Each vowel in the word NOTICE is changed to the fourth letter preceding it in the English alphabetical order and then all the letters thus formed are arranged in the English alphabetical order. Which of the following letters will be third from the right in the new letter-cluster thus formed?",
+        "q_hi": "शब्द NOTICE के प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके चार स्थान पहले वाले अक्षर से बदल दिया जाता है और फिर इस प्रकार बने सभी अक्षरों को अंग्रेजी वर्णमाला क्रम में व्यवस्थित किया जाता है। इस प्रकार बने नए अक्षर-समूह में दायें से तीसरा अक्षर निम्नलिखित में से कौन सा होगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Original word: N O T I C E<br>Vowels are O(15), I(9), E(5).<br>Consonants remain unchanged: N, T, C.<br>Vowels minus 4 positions:<br>O - 4 = K(11)<br>I - 4 = E(5)<br>E - 4 = A(1)<br>New letters formed: N, K, T, E, C, A.<br>Arranging alphabetically: A, C, E, K, N, T.<br>The third letter from the right is K.<br><br><b>Solution (HI):</b><br>मूल शब्द: N O T I C E<br>स्वर O(15), I(9), E(5) हैं।<br>व्यंजन अपरिवर्तित रहते हैं: N, T, C.<br>स्वरों में से 4 स्थान घटाने पर:<br>O - 4 = K(11)<br>I - 4 = E(5)<br>E - 4 = A(1)<br>बने नए अक्षर: N, K, T, E, C, A.<br>वर्णमाला क्रम में व्यवस्थित करने पर: A, C, E, K, N, T.<br>दायें से तीसरा अक्षर K है।<br><br><b>Short Trick:</b><br>Change vowels: O&rarr;K, I&rarr;E, E&rarr;A. Set is {N, K, T, E, C, A}. Sorted: A, C, E, K, N, T. 3rd from right = K.",
+        "topic": "Alphabet Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "7",
+            "9",
+            "1",
+            "5"
+        ],
+        "op_hi": [
+            "7",
+            "9",
+            "1",
+            "5"
+        ],
+        "q_en": "In a certain code language, ‘STEM’ is coded as ‘5718’ and ‘MAST’ is coded as ‘9571’. What is the code for ‘A’ in that language?<span style=\"color: white;\"></span>",
+        "q_hi": "एक निश्चित कूट भाषा में, ‘STEM’ को ‘5718’ के रूप में और ‘MAST’ को ‘9571’ के रूप में कूटबद्ध किया जाता है। उस भाषा में ‘A’ के लिए कूट क्या है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>STEM = 5, 7, 1, 8<br>MAST = 9, 5, 7, 1<br>The common letters between 'STEM' and 'MAST' are S, T, M.<br>The common digits between '5718' and '9571' are 5, 7, 1.<br>So, S, T, M are coded as 5, 7, 1 in some order.<br>The only remaining letter in 'MAST' is 'A', and the remaining digit is '9'. Therefore, the code for 'A' is '9'.<br><br><b>Solution (HI):</b><br>STEM = 5, 7, 1, 8<br>MAST = 9, 5, 7, 1<br>'STEM' और 'MAST' के बीच सामान्य अक्षर S, T, M हैं।<br>'5718' और '9571' के बीच सामान्य अंक 5, 7, 1 हैं।<br>अतः, S, T, M को किसी क्रम में 5, 7, 1 के रूप में कूटबद्ध किया गया है।<br>'MAST' में एकमात्र शेष अक्षर 'A' है, और शेष अंक '9' है। इसलिए, 'A' का कूट '9' है।<br><br><b>Short Trick:</b><br>Compare STEM and MAST. Common: S, T, M (5, 7, 1). Unique to MAST is A, and unique number in its code is 9. A = 9.",
+        "topic": "Coding-Decoding"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Three",
+            "Two",
+            "One",
+            "Four"
+        ],
+        "op_hi": [
+            "तीन",
+            "दो",
+            "एक",
+            "चार"
+        ],
+        "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word FORMULA is arranged in reverse English alphabetical order?",
+        "q_hi": "यदि शब्द FORMULA के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के विपरीत क्रम में व्यवस्थित किया जाता है, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Word: F O R M U L A<br>Reverse alphabetical order: U, R, O, M, L, F, A<br>Original: F - O - R - M - U - L - A<br>New: U - R - O - M - L - F - A<br>The letters at the 4th position (M) and 7th position (A) remain unchanged. Total 2 letters.<br><br><b>Solution (HI):</b><br>शब्द: F O R M U L A<br>विपरीत वर्णमाला क्रम: U, R, O, M, L, F, A<br>मूल: F - O - R - M - U - L - A<br>नया: U - R - O - M - L - F - A<br>चौथे स्थान (M) और सातवें स्थान (A) पर अक्षर अपरिवर्तित रहते हैं। कुल 2 अक्षर।<br><br><b>Short Trick:</b><br>Sort FORMULA backwards: U R O M L F A. Compare with original: F O R <b>M</b> U L <b>A</b>. Only M and A match.",
+        "topic": "Alphabet Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "Four",
+            "Two",
+            "Three",
+            "One"
+        ],
+        "op_hi": [
+            "चार",
+            "दो",
+            "तीन",
+            "एक"
+        ],
+        "q_en": "Seven people, R, S, T, U, H, I and J are sitting in a row, facing north.<br>Only two people sit between T and R. Only I sits to the right of S. Only one person sits between R and S. J sits at some place to the right of U but at some place to the left of H.<br>How many people sit between H and U?",
+        "q_hi": "सात व्यक्ति R, S, T, U, H, I और J उत्तर की ओर मुख करके एक पंक्ति में बैठे हैं। T और R के बीच केवल दो व्यक्ति बैठे हैं। S के दायें केवल I बैठा है। R और S के बीच केवल एक व्यक्ति बैठा है। J, U के दायें किसी स्थान पर बैठा है लेकिन H के बायें किसी स्थान पर बैठा है। H और U के बीच कितने व्यक्ति बैठे हैं?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>1) 'Only I sits to the right of S' &rarr; S is 6th and I is 7th.<br>2) 'Only one person sits between R and S' &rarr; R is 4th.<br>3) 'Only two people sit between T and R' &rarr; T is 1st.<br>4) 'J sits at some place to the right of U but left of H' &rarr; U is 2nd, J is 3rd, H is 5th.<br>Arrangement (Left to Right): T, U, J, R, H, S, I.<br>The people between H and U are J and R (Two people).<br><br><b>Solution (HI):</b><br>1) 'S के दायें केवल I बैठा है' &rarr; S छठे और I सातवें स्थान पर है।<br>2) 'R और S के बीच केवल एक व्यक्ति बैठा है' &rarr; R चौथे स्थान पर है।<br>3) 'T और R के बीच केवल दो व्यक्ति बैठे हैं' &rarr; T पहले स्थान पर है।<br>4) 'J, U के दायें लेकिन H के बायें बैठा है' &rarr; U दूसरे, J तीसरे और H पाँचवें स्थान पर है।<br>क्रम (बायें से दायें): T, U, J, R, H, S, I.<br>H और U के बीच J और R (दो व्यक्ति) बैठे हैं।<br><br><b>Short Trick:</b><br>Rightmost is S, I. R is 4th. T is 1st. Empty spots: 2, 3, 5 for U, J, H in order. Arrangement: T U J R H S I. Between U and H are J, R (2 people).",
+        "topic": "Seating Arrangement"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Hard",
+        "op_en": [
+            "Three",
+            "Two",
+            "One",
+            "Four"
+        ],
+        "op_hi": [
+            "तीन",
+            "दो",
+            "एक",
+            "चार"
+        ],
+        "q_en": "Each of A, B, C, D, W, X and Y has an exam on a different day of a week, starting from Monday and ending on Sunday of the same week. D has exam on Thursday. X has exam on one of the days after A and on one of the days before C. Y has exam on one of the days after W but on one of the days before B. W has exam on one of the days after D. How many people have exam between Y and X?",
+        "q_hi": "A, B, C, D, W, X और Y में से प्रत्येक की परीक्षा एक सप्ताह के अलग-अलग दिनों में होती है, जो सोमवार से शुरू होकर उसी सप्ताह के रविवार को समाप्त होती है। D की परीक्षा गुरुवार को है। X की परीक्षा A के बाद किसी एक दिन और C से पहले किसी एक दिन होती है। Y की परीक्षा W के बाद किसी एक दिन लेकिन B से पहले किसी एक दिन होती है। W की परीक्षा D के बाद किसी एक दिन होती है। Y और X के बीच कितने लोगों की परीक्षा है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>1) D is on Thursday.<br>2) W is after D, Y is after W, and B is after Y (W &lt; Y &lt; B). Since D is Thursday, W must be Friday, Y must be Saturday, and B must be Sunday.<br>3) X is after A and before C (A &lt; X &lt; C). The remaining days are Mon, Tue, Wed. So A is Monday, X is Tuesday, and C is Wednesday.<br>Schedule: Mon-A, Tue-X, Wed-C, Thu-D, Fri-W, Sat-Y, Sun-B.<br>Between Y (Saturday) and X (Tuesday), the exams are of C, D, and W (Three people).<br><br><b>Solution (HI):</b><br>1) D की परीक्षा गुरुवार को है।<br>2) W, D के बाद है, Y, W के बाद है, और B, Y के बाद है (W &lt; Y &lt; B)। चूँकि D गुरुवार को है, W शुक्रवार, Y शनिवार और B रविवार को होना चाहिए।<br>3) X, A के बाद और C से पहले है (A &lt; X &lt; C)। शेष दिन सोम, मंगल, बुध हैं। अतः A सोमवार, X मंगलवार और C बुधवार को है।<br>कार्यक्रम: सोम-A, मंगल-X, बुध-C, गुरु-D, शुक्र-W, शनि-Y, रवि-B.<br>Y (शनिवार) और X (मंगलवार) के बीच C, D और W (तीन लोग) की परीक्षा है।<br><br><b>Short Trick:</b><br>D=Thu. After D are W,Y,B &rarr; Fri=W, Sat=Y, Sun=B. Before D are A,X,C &rarr; Mon=A, Tue=X, Wed=C. Between X(Tue) and Y(Sat) are Wed(C), Thu(D), Fri(W). Total 3.",
+        "topic": "Puzzle"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "bu",
+            "ke",
+            "np",
+            "he"
+        ],
+        "op_hi": [
+            "bu",
+            "ke",
+            "np",
+            "he"
+        ],
+        "q_en": "In a certain code language, ‘Suhani Dances Well’ is written as ‘sc he bu’, and ‘Well Done Reeta’ is coded as ‘bu ke np’. How is ‘Well’ coded in that language?",
+        "q_hi": "एक निश्चित कूट भाषा में, 'Suhani Dances Well' को 'sc he bu' लिखा जाता है, और 'Well Done Reeta' को 'bu ke np' के रूप में कूटबद्ध किया जाता है। उस भाषा में 'Well' को कैसे कूटबद्ध किया जाता है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Suhani Dances Well = sc he bu<br>Well Done Reeta = bu ke np<br>The only common word in both sentences is 'Well'.<br>The only common code in both is 'bu'.<br>Therefore, the code for 'Well' is 'bu'.<br><br><b>Solution (HI):</b><br>Suhani Dances Well = sc he bu<br>Well Done Reeta = bu ke np<br>दोनों वाक्यों में एकमात्र सामान्य शब्द 'Well' है।<br>दोनों में एकमात्र सामान्य कूट 'bu' है।<br>इसलिए, 'Well' का कूट 'bu' है।<br><br><b>Short Trick:</b><br>Match common words: 'Well' is common. Match common codes: 'bu' is common. So, Well = bu.",
+        "topic": "Coding-Decoding"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Medium",
+        "op_en": [
+            "P",
+            "M",
+            "S",
+            "J"
+        ],
+        "op_hi": [
+            "P",
+            "M",
+            "S",
+            "J"
+        ],
+        "q_en": "Each vowel in the word ITINERATION is changed to the letter immediately following it in the English alphabetical order, and each consonant is changed to the letter immediately preceding it in the English alphabetical order. Which of the following letters will appear more than twice in the group of letters thus formed?",
+        "q_hi": "शब्द ITINERATION के प्रत्येक स्वर को अंग्रेजी वर्णमाला क्रम में उसके ठीक बाद वाले अक्षर से बदल दिया जाता है, और प्रत्येक व्यंजन को अंग्रेजी वर्णमाला क्रम में उसके ठीक पहले वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह में निम्नलिखित में से कौन सा अक्षर दो से अधिक बार दिखाई देगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Word: I T I N E R A T I O N<br>Vowels (+1): I&rarr;J, E&rarr;F, A&rarr;B, O&rarr;P.<br>Consonants (-1): T&rarr;S, N&rarr;M, R&rarr;Q.<br>New sequence: J - S - J - M - F - Q - B - S - J - P - M.<br>Frequencies: J=3, S=2, M=2, F=1, Q=1, B=1, P=1.<br>The letter 'J' appears 3 times, which is more than twice.<br><br><b>Solution (HI):</b><br>शब्द: I T I N E R A T I O N<br>स्वर (+1): I&rarr;J, E&rarr;F, A&rarr;B, O&rarr;P.<br>व्यंजन (-1): T&rarr;S, N&rarr;M, R&rarr;Q.<br>नया क्रम: J - S - J - M - F - Q - B - S - J - P - M.<br>आवृत्ति: J=3, S=2, M=2, F=1, Q=1, B=1, P=1.<br>अक्षर 'J' 3 बार आता है, जो दो बार से अधिक है।<br><br><b>Short Trick:</b><br>Convert only repeating letters to save time. I appears 3 times, T (2), N (2). I (vowel) &rarr; J. T (consonant) &rarr; S. N (consonant) &rarr; M. J appears 3 times.",
+        "topic": "Alphabet Test"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Three",
+            "Four",
+            "One",
+            "Two"
+        ],
+        "op_hi": [
+            "तीन",
+            "चार",
+            "एक",
+            "दो"
+        ],
+        "q_en": "The position(s) of how many letters will remain unchanged if each of the letters in the word NERVOUS is arranged in reverse English alphabetical order?",
+        "q_hi": "यदि शब्द NERVOUS के प्रत्येक अक्षर को अंग्रेजी वर्णमाला के विपरीत क्रम में व्यवस्थित किया जाता है, तो कितने अक्षरों का स्थान अपरिवर्तित रहेगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Word: N E R V O U S<br>Reverse alphabetical order: V, U, S, R, O, N, E<br>Original: N - E - R - V - <b>O</b> - U - S<br>New: V - U - S - R - <b>O</b> - N - E<br>Only the letter 'O' at the 5th position remains unchanged. Total 1 letter.<br><br><b>Solution (HI):</b><br>शब्द: N E R V O U S<br>विपरीत वर्णमाला क्रम: V, U, S, R, O, N, E<br>मूल: N - E - R - V - <b>O</b> - U - S<br>नया: V - U - S - R - <b>O</b> - N - E<br>केवल 5वें स्थान पर अक्षर 'O' अपरिवर्तित रहता है। कुल 1 अक्षर।<br><br><b>Short Trick:</b><br>Sort NERVOUS backwards: VUS RONE. Compare to original: NER VOUS. Only O matches its original position.",
+        "topic": "Alphabet Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Only II is true",
+            "Neither I nor II is true",
+            "Only I is true",
+            "Both I and II are true"
+        ],
+        "op_hi": [
+            "केवल II सत्य है",
+            "न तो I और न ही II सत्य है",
+            "केवल I सत्य है",
+            "I और II दोनों सत्य हैं"
+        ],
+        "q_en": "A statement is given followed by two conclusions. Identify which of the given conclusions is/are true based on the given statement.<br><br><strong>Statement:</strong><br>O &lt; K &gt; E &gt; Y ≤ J<br><br><strong>Conclusions:</strong><br>I. J &lt; K<br>II. O &lt; Y",
+        "q_hi": "एक कथन और उसके बाद दो निष्कर्ष दिए गए हैं। ज्ञात कीजिए कि दिए गए कथन के आधार पर दिए गए निष्कर्षों में से कौन-सा/से सत्य है/हैं।<br><br><strong>कथन:</strong><br>O &lt; K &gt; E &gt; Y &le; J<br><br><strong>निष्कर्ष:</strong><br>I. J &lt; K<br>II. O &lt; Y",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Statement: O &lt; K &gt; E &gt; Y &le; J<br>Conclusion I (J &lt; K): We have K &gt; E &gt; Y &le; J. Opposite signs between K and J mean no relation can be established. False.<br>Conclusion II (O &lt; Y): We have O &lt; K &gt; E &gt; Y. Opposite signs between O and Y mean no relation can be established. False.<br>Therefore, neither I nor II is true.<br><br><b>Solution (HI):</b><br>कथन: O &lt; K &gt; E &gt; Y &le; J<br>निष्कर्ष I (J &lt; K): हमारे पास K &gt; E &gt; Y &le; J है। K और J के बीच विपरीत चिह्नों का मतलब है कि कोई संबंध स्थापित नहीं किया जा सकता। असत्य।<br>निष्कर्ष II (O &lt; Y): हमारे पास O &lt; K &gt; E &gt; Y है। O और Y के बीच विपरीत चिह्नों का मतलब है कि कोई संबंध स्थापित नहीं किया जा सकता। असत्य।<br>इसलिए, न तो I और न ही II सत्य है।<br><br><b>Short Trick:</b><br>In inequalities, if signs face opposite directions (&lt; and &gt;) between two elements, no conclusion is valid. Both J/K and O/Y have opposite signs between them. Both false.",
+        "topic": "Inequalities"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Medium",
+        "op_en": [
+            "Both conclusions (I) and (II) follow.",
+            "Only conclusion (II) follows.",
+            "Only conclusion (I) follows.",
+            "Neither conclusion (I) nor (II) follows."
+        ],
+        "op_hi": [
+            "(I) और (II) दोनों अनुसरण करते हैं।",
+            "केवल निष्कर्ष (II) अनुसरण करता है।",
+            "केवल निष्कर्ष (I) अनुसरण करता है।",
+            "न तो निष्कर्ष (I) और न ही (II) अनुसरण करता है।"
+        ],
+        "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br><strong>Statements:</strong><br>All testers are drills.<br>All testers are chisels.<br><strong>Conclusions:</strong><br>(I): Some drills are chisels.<br>(II): All chisels are testers.",
+        "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही यह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन सा/से कथनों का तार्किक रूप से अनुसरण करता है/करते हैं।<br><strong>कथन:</strong><br>सभी टेस्टर ड्रिल हैं।<br>सभी टेस्टर छेनी हैं।<br><strong>निष्कर्ष:</strong><br>(I): कुछ ड्रिल छेनी हैं。<br>(II): सभी छेनी टेस्टर हैं।",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Statements:<br>1) All testers are drills.<br>2) All testers are chisels.<br>Conclusion I: Some drills are chisels. Since all testers are both drills and chisels, the intersection of drills and chisels is not empty (it contains at least the testers). So, some drills are chisels is True.<br>Conclusion II: All chisels are testers. We only know testers are chisels, not vice versa. So, False.<br>Therefore, only conclusion (I) follows.<br><br><b>Solution (HI):</b><br>कथन:<br>1) सभी टेस्टर ड्रिल हैं।<br>2) सभी टेस्टर छेनी हैं।<br>निष्कर्ष I: कुछ ड्रिल छेनी हैं। चूँकि सभी टेस्टर ड्रिल और छेनी दोनों हैं, ड्रिल और छेनी का प्रतिच्छेदन खाली नहीं है (इसमें कम से कम टेस्टर शामिल हैं)। अतः, कुछ ड्रिल छेनी हैं, यह सत्य है।<br>निष्कर्ष II: सभी छेनी टेस्टर हैं। हम केवल यह जानते हैं कि टेस्टर छेनी हैं, इसके विपरीत नहीं। अतः, असत्य।<br>इसलिए, केवल निष्कर्ष (I) अनुसरण करता है।<br><br><b>Short Trick:</b><br>Draw a Venn diagram. Testers circle is fully inside Drills and Chisels. This means Drills and Chisels must overlap. So, \"Some drills are chisels\" is always true.",
+        "topic": "Syllogism"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Medium",
+        "op_en": [
+            "Four",
+            "Two",
+            "One",
+            "Three"
+        ],
+        "op_hi": [
+            "चार",
+            "दो",
+            "एक",
+            "तीन"
+        ],
+        "q_en": "Six boxes, F, G, H, I, J and Y, are kept one over the other but not necessarily in the same order. Only one box is kept below G. Only one box is kept above F. Only one box is kept between F and Y. J is kept immediately above F. I is kept at some place below Y. How many boxes are kept between H and I?",
+        "q_hi": "छह डिब्बे F, G, H, I, J और Y एक के ऊपर एक रखे गए हैं, लेकिन जरूरी नहीं कि इसी क्रम में हों। G के नीचे केवल एक डिब्बा रखा गया है। F के ऊपर केवल एक डिब्बा रखा गया है। F और Y के बीच केवल एक डिब्बा रखा गया है। J, F के ठीक ऊपर रखा गया है। I, Y के नीचे किसी स्थान पर रखा गया है। H और I के बीच कितने डिब्बे रखे गए हैं?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Let positions be 1 (bottom) to 6 (top).<br>1) 'Only one box is kept below G' &rarr; G is at 2.<br>2) 'Only one box is kept above F' &rarr; F is at 5.<br>3) 'Only one box is kept between F and Y' &rarr; Y must be at 3.<br>4) 'J is kept immediately above F' &rarr; J is at 6.<br>5) 'I is kept below Y' &rarr; I must be at 1.<br>6) Remaining box H is at 4.<br>Arrangement (Top to Bottom): J, F, H, Y, G, I.<br>The boxes between H(4) and I(1) are Y(3) and G(2). Total 2 boxes.<br><br><b>Solution (HI):</b><br>मान लीजिए कि स्थान 1 (नीचे) से 6 (ऊपर) हैं।<br>1) 'G के नीचे केवल एक डिब्बा है' &rarr; G 2 पर है।<br>2) 'F के ऊपर केवल एक डिब्बा है' &rarr; F 5 पर है।<br>3) 'F और Y के बीच केवल एक डिब्बा है' &rarr; Y 3 पर होना चाहिए।<br>4) 'J, F के ठीक ऊपर है' &rarr; J 6 पर है।<br>5) 'I, Y के नीचे है' &rarr; I 1 पर होना चाहिए।<br>6) शेष डिब्बा H 4 पर है।<br>क्रम (ऊपर से नीचे): J, F, H, Y, G, I.<br>H(4) और I(1) के बीच Y(3) और G(2) हैं। कुल 2 डिब्बे।<br><br><b>Short Trick:</b><br>Bottom-up fill: _, _, _, _, _, _. G is 2nd from bottom. F is 2nd from top. &rarr; _, F, _, _, G, _. J is above F &rarr; J, F, _, _, G, _. Y is separated by 1 from F &rarr; J, F, _, Y, G, _. I is below Y &rarr; J, F, _, Y, G, I. H takes the remaining spot &rarr; J, F, H, Y, G, I. H and I have 2 boxes between them.",
+        "topic": "Puzzle"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Medium",
+        "op_en": [
+            "Three",
+            "Four",
+            "Two",
+            "More than four"
+        ],
+        "op_hi": [
+            "तीन",
+            "चार",
+            "दो",
+            "चार से अधिक"
+        ],
+        "q_en": "Refer to the given letter series and answer the question that follows. Counting to be done from left to right only.<br>(Left) T H K O I U G H L O K E M D R I D U Q D N Z X Z (Right)<br>How many consonants are there in the series, each of which is immediately preceded by a consonant and also immediately followed by a consonant?",
+        "q_hi": "दी गई अक्षर श्रृंखला को देखें और उसके बाद आने वाले प्रश्न का उत्तर दें। गिनती केवल बायें से दायें की जानी चाहिए।<br>(बायां) T H K O I U G H L O K E M D R I D U Q D N Z X Z (दायां)<br>श्रृंखला में ऐसे कितने व्यंजन हैं, जिनमें से प्रत्येक के ठीक पहले एक व्यंजन और ठीक बाद में भी एक व्यंजन है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Series: T H K O I U G H L O K E M D R I D U Q D N Z X Z<br>We need to find the pattern: Consonant - Consonant - Consonant. We are looking for the middle consonant.<br>Let's find all consecutive consonants:<br>1) T H K &rarr; middle is H<br>2) G H L &rarr; middle is H<br>3) M D R &rarr; middle is D<br>4) Q D N &rarr; middle is D<br>5) D N Z &rarr; middle is N<br>6) N Z X &rarr; middle is Z<br>7) Z X Z &rarr; middle is X<br>There are 7 such instances, which is 'More than four'.<br><br><b>Solution (HI):</b><br>श्रृंखला: T H K O I U G H L O K E M D R I D U Q D N Z X Z<br>हमें यह पैटर्न खोजना है: व्यंजन - व्यंजन - व्यंजन। हम बीच वाले व्यंजन की तलाश में हैं।<br>आइए सभी लगातार व्यंजनों को खोजें:<br>1) T H K &rarr; बीच में H है<br>2) G H L &rarr; बीच में H है<br>3) M D R &rarr; बीच में D है<br>4) Q D N &rarr; बीच में D है<br>5) D N Z &rarr; बीच में N है<br>6) N Z X &rarr; बीच में Z है<br>7) Z X Z &rarr; बीच में X है<br>ऐसे 7 उदाहरण हैं, जो 'चार से अधिक' हैं।<br><br><b>Short Trick:</b><br>Scan for clusters of consonants: THK (1), GHL (1), MDR (1), QDNZXZ (4). Total = 1+1+1+4 = 7. 7 &gt; 4, so answer is More than four.",
+        "topic": "Letter Series"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "X = 17, Y = 552",
+            "X = 11, Y = 415",
+            "X = 8, Y = 370",
+            "X = 19, Y = 575"
+        ],
+        "op_hi": [
+            "X = 17, Y = 552",
+            "X = 11, Y = 415",
+            "X = 8, Y = 370",
+            "X = 19, Y = 575"
+        ],
+        "q_en": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is same as that on the right side of ::?<br><br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>X : 272 :: 24 : Y",
+        "q_hi": "निम्नलिखित संख्या-युग्मों में, दूसरी संख्या पहली संख्या पर कुछ गणितीय संक्रियाएं लागू करके प्राप्त की जाती है। X और Y के स्थान पर कौन सी संख्याएँ आनी चाहिए ताकि :: के बाईं ओर की दो संख्याओं द्वारा अनुसरण किया जाने वाला पैटर्न :: के दाईं ओर के पैटर्न के समान हो?<br><br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संक्रियाएँ की जानी चाहिए। उदा. 13 - 13 पर संक्रियाएं जैसे 13 में जोड़ना/घटाना/गुणा करना किया जा सकता है। 13 को 1 और 3 में तोड़कर 1 और 3 पर गणितीय संक्रियाएं करने की अनुमति नहीं है।)<br><br>X : 272 :: 24 : Y",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed here is n : n<sup>2</sup> &minus; n<br>For X : 272 &rarr; 17 : 17<sup>2</sup> &minus; 17 = 289 &minus; 17 = 272. So, X = 17.<br>For 24 : Y &rarr; 24 : 24<sup>2</sup> &minus; 24 = 576 &minus; 24 = 552. So, Y = 552.<br>Therefore, X = 17, Y = 552.<br><br><b>Solution (HI):</b><br>यहाँ अनुसरण किया गया पैटर्न n : n<sup>2</sup> &minus; n है।<br>X : 272 के लिए &rarr; 17 : 17<sup>2</sup> &minus; 17 = 289 &minus; 17 = 272. इसलिए, X = 17.<br>24 : Y के लिए &rarr; 24 : 24<sup>2</sup> &minus; 24 = 576 &minus; 24 = 552. इसलिए, Y = 552.<br>अतः, X = 17, Y = 552.<br><br><b>Short Trick:</b><br>Check the options: 17 &times; 16 = 272, and 24 &times; 23 = 552.",
+        "topic": "Number Analogy"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "HKQ",
+            "PSX",
+            "ILQ",
+            "BEJ"
+        ],
+        "op_hi": [
+            "HKQ",
+            "PSX",
+            "ILQ",
+            "BEJ"
+        ],
+        "q_en": "Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which letter-cluster DOES NOT belong to that group? <br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूहों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। कौन सा अक्षर-समूह उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनके स्थान पर आधारित नहीं है।)",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is:<br>P &rarr; (+3) &rarr; S &rarr; (+5) &rarr; X<br>I &rarr; (+3) &rarr; L &rarr; (+5) &rarr; Q<br>B &rarr; (+3) &rarr; E &rarr; (+5) &rarr; J<br>But in HKQ:<br>H &rarr; (+3) &rarr; K &rarr; (+6) &rarr; Q<br>So, HKQ is the odd one out.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न है:<br>P &rarr; (+3) &rarr; S &rarr; (+5) &rarr; X<br>I &rarr; (+3) &rarr; L &rarr; (+5) &rarr; Q<br>B &rarr; (+3) &rarr; E &rarr; (+5) &rarr; J<br>लेकिन HKQ में:<br>H &rarr; (+3) &rarr; K &rarr; (+6) &rarr; Q<br>इसलिए, HKQ बेजोड़ है।<br><br><b>Short Trick:</b><br>Look at positional differences: P-S-X (16-19-24), I-L-Q (9-12-17), B-E-J (2-5-10) all have difference of 3 and 5. H-K-Q (8-11-17) has difference of 3 and 6.",
+        "topic": "Letter Classification"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "238",
+            "248",
+            "228",
+            "258"
+        ],
+        "op_hi": [
+            "238",
+            "248",
+            "228",
+            "258"
+        ],
+        "q_en": "What should come in place of the question mark (?) in the given series?<br><br>98  108  128  158  198 ?",
+        "q_hi": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>98  108  128  158  198 ?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern is:<br>98 + 10 = 108<br>108 + 20 = 128<br>128 + 30 = 158<br>158 + 40 = 198<br>198 + 50 = 248<br>So, the missing number is 248.<br><br><b>Solution (HI):</b><br>पैटर्न इस प्रकार है:<br>98 + 10 = 108<br>108 + 20 = 128<br>128 + 30 = 158<br>158 + 40 = 198<br>198 + 50 = 248<br>अतः, लुप्त संख्या 248 है।<br><br><b>Short Trick:</b><br>The difference between consecutive terms is increasing by 10 (+10, +20, +30, +40, +50). 198 + 50 = 248.",
+        "topic": "Number Series"
+    },
+    {
+        "ans": 1,
+        "difficulty": "",
+        "op_en": [
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAhCAYAAAC7kad5AAADL0lEQVR42u2ZjY3CMAyFMwIjMAIjMAIbwAhsABvABrABbAAbwAawASP09Cq9k68ktlMqjjs5kgUt+ak/O7ZTUhPt7S0FgoAe0KMF9IAe7Q3Q7/d7s9/vm+1226zX6yfBfU87n8/NcrlsZrNZs1gs2jlvt9tHQzqdTq2Oh8PBPYaccrqZ0B+PRwsopaTKeDw255lOp8WxgP/J0PGco9HI1R+gqVsv6ASFBeGhu93uh+CeBzq8mv0wDg8DZXgfgutPbdDf+4xkAt2qwwtCAUGVQoDs03eezWbT/g4Df2pDqNBAygY90fd4PNZD50KwnAdo33kQeuhJ+O4JedfrtV1bGhF5B+JpmAPjIZ41L5fL947X+nt4JM82AbQhoGvzMPFoCuE39KGBKPA+mTM08ICXyy2Yw0roHKflH4ZLbUckKwNb294DHTF8iPAxmUy+vQ1KwQBM8nAQCzqqD0JGX4yBMBxoYdTLg3PBuL2gw3s4San88UCX4aNvsuRuyYHBtfT+EnTqslqtnn7DPQso9OAauR3pYeGqXqAQvIpK4aGk0PushZgsLW+yPKhkNBqlBJ27DTvDCh+aY7BP7lzC0GKVvyZ0bEmCfaVOlzkC83mSV+1u0qBzbe0Qx/ChFQ6s2XM7go5pOZUKnd7BLYnJurC8W4pgaMCa+I7Sy/JSuRty0Omh+IRH5oT5QVunVGnV5K3kUQKh4RUvLOUJT80rFbL6e6B7xAKXq+poMM/JOll1qQWzFjrzhEzQ74AOY2NdTbze2g0xPPZbNbwJnTARDoaGXgteHkw87zu8B6Q+MT2X2L1OYUL3Wq8v9C546y2lVXISmObpyA3am0KrQiod+DxVjzumczJ4O47dQ0OnFxOoFg+1Ol3OUYLOgxH6dcfDIN4Xd91qievW6J+8nsgFcN0Va1EYLzeOIoFp5ZYsXZG4pJfJk2UpvMzn86fx8gxSe4aQydkbWtyHI1QvULj7zsNbp0vDWaJtUemRUgBTVkVaTEfpm3seAKw9tMmQVjP2T/5dB8AwDkQq64EuQxLG47PmoDZE+1f/kdZA/80W0AN6QP9zjVVSQI8W0AN6QI/2rvYFUbsDt4dTKIQAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAfCAYAAABu1nqnAAADMklEQVR42u2ZjY3iQAyFpwRKoARKoAQ62C1hO4AOoAPoADrY7QA6gA4oIacP6SErZDweiO6Ou7FkAWF+4ufnn0lS1+SPSGoQNOAb8E0a8A34Jg34/wf4y+XS7Xa7brPZdKvV6kG5HpGfn5/u6+urWywW3efn523N8/ncgO/L9Xq9gZRScnU6nXaldebzeXYuDng32W63dxuOx+O4wAusyWRyYyqbWeVaBHjYrXHMg+Xf39/36yi/30kskYj60YAnLQisXDqwY55dZ71e3/7HkHcR7BAh9Tka8HiRRWF1BNRn1yENyQC+l4Qxp9Pptrd1JHUIjQhrMB+N7NkXappsEvNrIzYLvNKIF0Y1wHvrqGh7IPAfY+QkKenK1hAPfHLxUK1hjZoij73MY451wijAa0EvBUSAVxF6NZXMZrN7WAMUTlDht8zLAb/f7+9AM5Y5qED0UuqQzdyPjVi0JnqSxzDdFEYO3VQEeJtKni2gipohcPhtoyAHvGxZLpcP/3EtSg41BLYTk9NrurNUKiJsJMPYwKpYWOpqVECjrMqBlnOcHJMDXlFHhJS6lBI5bJrpR1NNVLvAs6DAfaWPtzWD9WpCMhpVHvDa2zvoRXJ1Lm3WNggu8PaAQCji4f6iEVDszcmJNcw4HA5FtlomDgEvNvNJBA+p6oW3j8YMpRSloGhPn0qGkCZeYWOubnCjNSfE0vgI8BHNkUK9ez/NSEhRNaRKubYrAmgt8DLAFu3fATwOZ19PS91XpE7UNBEp0jKNCXwt+CKBdzq0bIweompzvNKk17molkR6+lQ6EnvF4lng++CXnm6WmCTQPMZTK2gWnumcLB6eKN1EHiGkUnuFpzmijw282CxQPSZ5fbxdIwe82j3G9efjlNLDPhXOSF2KppsUYaRumt99LQGPA4fmSS1oXo9v21ryLM4QOewJNJdqPj4+HubbM4p3xtDaRE30sFcqssUDFF0NRvefkUT7eOu8knosscy0CqC2W/JyPG3x0P0A0itPYHPpxkvTb/fqD2MwDrVgRYC36Yn5fJYOPIyDxTWPA/TQz3tB8s+8c60B/m+QBnwDvgH/lqLuqQHfxJVf+ryaJpMf2VMAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAAfCAYAAABqI6qaAAADHElEQVR42u2ZDa0qMRCFKwEJSEACEpCABByAA3AADsABOAAH4AAJ+3I2OTfz9rUzp7CPcJM2mQSW/s3X+euSutY+2lJD0IA34K014A14aw347wX+eDy6w+HQ7Xa7brPZ/CN4rrTL5dKtVqtusVh0y+Wyn/N+v4+iyHw+76bTab/XMdv5fO51PB6P8hhyyunmAn8+nz2clJIrUDSaB0BKYwH+3YZ5MN//AI55J5OJ1B+QqVs1cELCYrDM/X7/l+CZAhzWzH4Yh41AET6H4Ps3AkeD/uoeyQS6VYUUuD8hldze9nl1nu122/+Ow/1W4AgPHsTcPk6nUx1wLoITU2C+Og/CDS0In6OGPrfbrV/bHmANcI6HKGter9cfT/f6KzxS5BoANgZwbx4mGU8Z/IY98XAosDr8pgDHGsPxnCNK3gyvXr5hiPQ8IXkQIldXgCNmjxEyZrPZj5VBIcBjQsdBRMBtvsBeMB7POM4LnSoPzgWPqAZuraZU4ijAbch4NTHSS3JQoJy12hxwHnoJ6nq9DmFCD66R80SFRVilYHOwAiqEDVmh1UWLMDFGVhRZTqkW5oGUgAMQxnoHzpCh9MndO+hBUYnrAscmCfWdOtzmBMynJKpaL/KAq5eVqEhgTZ7zBBplZFApir0QuBwmGoJS3YhQeHg18RzlFcYgXr9aFuJZJNTXW6dUUdXkqRQpgHDwjvWV8oJS01plov4e8NItNycRtFz1xuSt3JiTV3dGIGuBMy/YZPxJ4HyHkxP2iYAPwwqv8lGN7gInSISAsYHXQlcOP4rhSkLjwXoxfHi4gK8ahAtcPbVXgQ+hR28bo7LS5huvLFRqaKV0tZc5pbqRYjgngpXjKjw28GEN7Vnfu3W4TXY5j7IVlJqLaJC1+ifFAjk5vg8lWpDvqUtiYXkllS1PEYutddkYXCoLGXsJFpDtHaP2jmATsRpOpIsPqhRsMPcOQqnD7aFF4rkl36UMxwC+fd/u1eHQJ1ex4FnthYx1u1J7V//j800NcHEwEKsonquK8308wlHNJWyM1v7T/HBrwBvwBry1Bvz3tj9WbKI6QYiKyAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAiCAYAAAA9BdXXAAADMklEQVR42u2ZjY0iMQyFpwRKoARKoAQ6gA6gA+gAOoAOoAPoADqADighp4f0kDXr2E7YhdtVLFnobseZ+Iv/Al1q8nbpGoIGvUFv0qA36E0a9L8L/X6/p81mk2azWZpMJmmxWKTT6eTawWa1Wql6OBzS9Xr9ryEdj8fHXvf7fdiGPmu+haHvdrs0GAxS13VfFIeAA8nJcDhU7UrW+DR07BH+RwSg6Vc1dEQzF1kul+l8Pj90u90+gY7HYxc6bGFDZdZE1vi0MOBwAJ6gAjCQqssLYGCR9XqtlhxvQ4Sa+zuiocSpTwhKhQVS8xelswo6oDLKvZNF5NZAl2vAucieLpfLIwNl+t5ut4dG+xPsoZGyhsxmibGeZ1WAz9WNFC8AiBxQGQU5YBHoXAPwvb30ewv7ATPSAg94fK6/htfQaYf+lhOs42XEt4yM3EwunSLQIw6NRqNntMEpHACmKB6WBx3TByHjWdhAuT98WuAReNH+hcP9MeiRdLKgI0JZWqw1mAkaGNkTLOiyofcF/+cBlaVWKzERFi9Dh7N0xIpQPoNIhVNU/BuwoHA6MnbmsoWHkoOOaQl/Q2Z42RbJSK3csrRYLF6CDkAEYdXh6JyOA8htNhJBMgo16F6zl+XD8oczu5YRzDavN1RDZy0FrOgIpUUQat98Pn8C08CjV3hRKt+jQWeE4hMRqSl9st4jR2SZmcykyF2jCjrTyGs8JY0Ud4DcrY8OeTNyBHpEPXDaeMsD80pLFXSrob0C3er83wEdUYn9WhqN1n6J4bXfm+GroNcAL4Gea2TyYhL5viN6Qaqp6ZpP0aAohl4LPApdjn3a+t7XBARmRTp6g/VNYTQ4+hfCyNRTDB11ipFmDf21zmA64cUnl9rWoWNP3pzOixGe69tH7wratMT3Ru1C0GXacvGc5oAROjbYt5GwvCziwXDCkFEmb5a58jKdTr/YoyRIcCVZLJtztLSEoMuvdT3NnbY1p8NhwPQuR/2IlAqY8t5g1XS8R9sPAJaWTVnSSmx/5c91AIxSBZXORqDLkgR7fL77x5M/9RtpCfRPSoPeoDfov07QDAG+QW/SoDfoDXqTd8k/dax29O/cyJIAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+        ],
+        "op_hi": [
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAhCAYAAAC7kad5AAADL0lEQVR42u2ZjY3CMAyFMwIjMAIjMAIbwAhsABvABrABbAAbwAawASP09Cq9k68ktlMqjjs5kgUt+ak/O7ZTUhPt7S0FgoAe0KMF9IAe7Q3Q7/d7s9/vm+1226zX6yfBfU87n8/NcrlsZrNZs1gs2jlvt9tHQzqdTq2Oh8PBPYaccrqZ0B+PRwsopaTKeDw255lOp8WxgP/J0PGco9HI1R+gqVsv6ASFBeGhu93uh+CeBzq8mv0wDg8DZXgfgutPbdDf+4xkAt2qwwtCAUGVQoDs03eezWbT/g4Df2pDqNBAygY90fd4PNZD50KwnAdo33kQeuhJ+O4JedfrtV1bGhF5B+JpmAPjIZ41L5fL947X+nt4JM82AbQhoGvzMPFoCuE39KGBKPA+mTM08ICXyy2Yw0roHKflH4ZLbUckKwNb294DHTF8iPAxmUy+vQ1KwQBM8nAQCzqqD0JGX4yBMBxoYdTLg3PBuL2gw3s4San88UCX4aNvsuRuyYHBtfT+EnTqslqtnn7DPQso9OAauR3pYeGqXqAQvIpK4aGk0PushZgsLW+yPKhkNBqlBJ27DTvDCh+aY7BP7lzC0GKVvyZ0bEmCfaVOlzkC83mSV+1u0qBzbe0Qx/ChFQ6s2XM7go5pOZUKnd7BLYnJurC8W4pgaMCa+I7Sy/JSuRty0Omh+IRH5oT5QVunVGnV5K3kUQKh4RUvLOUJT80rFbL6e6B7xAKXq+poMM/JOll1qQWzFjrzhEzQ74AOY2NdTbze2g0xPPZbNbwJnTARDoaGXgteHkw87zu8B6Q+MT2X2L1OYUL3Wq8v9C546y2lVXISmObpyA3am0KrQiod+DxVjzumczJ4O47dQ0OnFxOoFg+1Ol3OUYLOgxH6dcfDIN4Xd91qievW6J+8nsgFcN0Va1EYLzeOIoFp5ZYsXZG4pJfJk2UpvMzn86fx8gxSe4aQydkbWtyHI1QvULj7zsNbp0vDWaJtUemRUgBTVkVaTEfpm3seAKw9tMmQVjP2T/5dB8AwDkQq64EuQxLG47PmoDZE+1f/kdZA/80W0AN6QP9zjVVSQI8W0AN6QI/2rvYFUbsDt4dTKIQAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF4AAAAfCAYAAABu1nqnAAADMklEQVR42u2ZjY3iQAyFpwRKoARKoAQ62C1hO4AOoAPoADrY7QA6gA4oIacP6SErZDweiO6Ou7FkAWF+4ufnn0lS1+SPSGoQNOAb8E0a8A34Jg34/wf4y+XS7Xa7brPZdKvV6kG5HpGfn5/u6+urWywW3efn523N8/ncgO/L9Xq9gZRScnU6nXaldebzeXYuDng32W63dxuOx+O4wAusyWRyYyqbWeVaBHjYrXHMg+Xf39/36yi/30kskYj60YAnLQisXDqwY55dZ71e3/7HkHcR7BAh9Tka8HiRRWF1BNRn1yENyQC+l4Qxp9Pptrd1JHUIjQhrMB+N7NkXappsEvNrIzYLvNKIF0Y1wHvrqGh7IPAfY+QkKenK1hAPfHLxUK1hjZoij73MY451wijAa0EvBUSAVxF6NZXMZrN7WAMUTlDht8zLAb/f7+9AM5Y5qED0UuqQzdyPjVi0JnqSxzDdFEYO3VQEeJtKni2gipohcPhtoyAHvGxZLpcP/3EtSg41BLYTk9NrurNUKiJsJMPYwKpYWOpqVECjrMqBlnOcHJMDXlFHhJS6lBI5bJrpR1NNVLvAs6DAfaWPtzWD9WpCMhpVHvDa2zvoRXJ1Lm3WNggu8PaAQCji4f6iEVDszcmJNcw4HA5FtlomDgEvNvNJBA+p6oW3j8YMpRSloGhPn0qGkCZeYWOubnCjNSfE0vgI8BHNkUK9ez/NSEhRNaRKubYrAmgt8DLAFu3fATwOZ19PS91XpE7UNBEp0jKNCXwt+CKBdzq0bIweompzvNKk17molkR6+lQ6EnvF4lng++CXnm6WmCTQPMZTK2gWnumcLB6eKN1EHiGkUnuFpzmijw282CxQPSZ5fbxdIwe82j3G9efjlNLDPhXOSF2KppsUYaRumt99LQGPA4fmSS1oXo9v21ryLM4QOewJNJdqPj4+HubbM4p3xtDaRE30sFcqssUDFF0NRvefkUT7eOu8knosscy0CqC2W/JyPG3x0P0A0itPYHPpxkvTb/fqD2MwDrVgRYC36Yn5fJYOPIyDxTWPA/TQz3tB8s+8c60B/m+QBnwDvgH/lqLuqQHfxJVf+ryaJpMf2VMAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAAfCAYAAABqI6qaAAADHElEQVR42u2ZDa0qMRCFKwEJSEACEpCABByAA3AADsABOAAH4AAJ+3I2OTfz9rUzp7CPcJM2mQSW/s3X+euSutY+2lJD0IA34K014A14aw347wX+eDy6w+HQ7Xa7brPZ/CN4rrTL5dKtVqtusVh0y+Wyn/N+v4+iyHw+76bTab/XMdv5fO51PB6P8hhyyunmAn8+nz2clJIrUDSaB0BKYwH+3YZ5MN//AI55J5OJ1B+QqVs1cELCYrDM/X7/l+CZAhzWzH4Yh41AET6H4Ps3AkeD/uoeyQS6VYUUuD8hldze9nl1nu122/+Ow/1W4AgPHsTcPk6nUx1wLoITU2C+Og/CDS0In6OGPrfbrV/bHmANcI6HKGter9cfT/f6KzxS5BoANgZwbx4mGU8Z/IY98XAosDr8pgDHGsPxnCNK3gyvXr5hiPQ8IXkQIldXgCNmjxEyZrPZj5VBIcBjQsdBRMBtvsBeMB7POM4LnSoPzgWPqAZuraZU4ijAbch4NTHSS3JQoJy12hxwHnoJ6nq9DmFCD66R80SFRVilYHOwAiqEDVmh1UWLMDFGVhRZTqkW5oGUgAMQxnoHzpCh9MndO+hBUYnrAscmCfWdOtzmBMynJKpaL/KAq5eVqEhgTZ7zBBplZFApir0QuBwmGoJS3YhQeHg18RzlFcYgXr9aFuJZJNTXW6dUUdXkqRQpgHDwjvWV8oJS01plov4e8NItNycRtFz1xuSt3JiTV3dGIGuBMy/YZPxJ4HyHkxP2iYAPwwqv8lGN7gInSISAsYHXQlcOP4rhSkLjwXoxfHi4gK8ahAtcPbVXgQ+hR28bo7LS5huvLFRqaKV0tZc5pbqRYjgngpXjKjw28GEN7Vnfu3W4TXY5j7IVlJqLaJC1+ifFAjk5vg8lWpDvqUtiYXkllS1PEYutddkYXCoLGXsJFpDtHaP2jmATsRpOpIsPqhRsMPcOQqnD7aFF4rkl36UMxwC+fd/u1eHQJ1ex4FnthYx1u1J7V//j800NcHEwEKsonquK8308wlHNJWyM1v7T/HBrwBvwBry1Bvz3tj9WbKI6QYiKyAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAF0AAAAiCAYAAAA9BdXXAAADMklEQVR42u2ZjY0iMQyFpwRKoARKoAQ6gA6gA+gAOoAOoAPoADqADighp4f0kDXr2E7YhdtVLFnobseZ+Iv/Al1q8nbpGoIGvUFv0qA36E0a9L8L/X6/p81mk2azWZpMJmmxWKTT6eTawWa1Wql6OBzS9Xr9ryEdj8fHXvf7fdiGPmu+haHvdrs0GAxS13VfFIeAA8nJcDhU7UrW+DR07BH+RwSg6Vc1dEQzF1kul+l8Pj90u90+gY7HYxc6bGFDZdZE1vi0MOBwAJ6gAjCQqssLYGCR9XqtlhxvQ4Sa+zuiocSpTwhKhQVS8xelswo6oDLKvZNF5NZAl2vAucieLpfLIwNl+t5ut4dG+xPsoZGyhsxmibGeZ1WAz9WNFC8AiBxQGQU5YBHoXAPwvb30ewv7ATPSAg94fK6/htfQaYf+lhOs42XEt4yM3EwunSLQIw6NRqNntMEpHACmKB6WBx3TByHjWdhAuT98WuAReNH+hcP9MeiRdLKgI0JZWqw1mAkaGNkTLOiyofcF/+cBlaVWKzERFi9Dh7N0xIpQPoNIhVNU/BuwoHA6MnbmsoWHkoOOaQl/Q2Z42RbJSK3csrRYLF6CDkAEYdXh6JyOA8htNhJBMgo16F6zl+XD8oczu5YRzDavN1RDZy0FrOgIpUUQat98Pn8C08CjV3hRKt+jQWeE4hMRqSl9st4jR2SZmcykyF2jCjrTyGs8JY0Ud4DcrY8OeTNyBHpEPXDaeMsD80pLFXSrob0C3er83wEdUYn9WhqN1n6J4bXfm+GroNcAL4Gea2TyYhL5viN6Qaqp6ZpP0aAohl4LPApdjn3a+t7XBARmRTp6g/VNYTQ4+hfCyNRTDB11ipFmDf21zmA64cUnl9rWoWNP3pzOixGe69tH7wratMT3Ru1C0GXacvGc5oAROjbYt5GwvCziwXDCkFEmb5a58jKdTr/YoyRIcCVZLJtztLSEoMuvdT3NnbY1p8NhwPQuR/2IlAqY8t5g1XS8R9sPAJaWTVnSSmx/5c91AIxSBZXORqDLkgR7fL77x5M/9RtpCfRPSoPeoDfov07QDAG+QW/SoDfoDXqTd8k/dax29O/cyJIAAAAASUVORK5CYII=\" style=\"height: auto; max-width: 100%;\">"
+        ],
+        "q_en": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAACcCAYAAABBT+T2AAAFm0lEQVR42u2dgU3kMBBFtwRKoARKoAQ6gA6gA+gAOoAOlg6gA+gAOqCEPf3VfTTyJfYkhzbx8r5kLXBxkvWzx2PnlL/ZoaPThiYAKgIqAioC6tr18PCwu7u7222320n1Pj4+9vVU9DNQV6TT09PdZrPZnZyc7L6+vtL1rq6u9vVUXl5egLpGqCoaddlR6jpAXTnUs7OzVB3BB2on4TcLaE4doC4A9ebmZv95fn5ePf7x8fH7OBWgrhjq29vb98irJUwG+fT0BNS1Q/38/PwerWMJkxMk1YmAgbpiqILjubK2jNEnUDuB2gLlY73ZANROoGqHaShhcoJ0cXHxz/wK1JVDVZI0lDAZ4PPzM1B7gxo3F5wwlQkSUDuEaojeD3aCpGUMUDuFWq5HHY7LpzFA7QyqlzcuXsYAtWOokkfoGDigdgjVCVOZIAEVARWoCKgIqAioCKhARUBFPwvg764SUIEKVKAioCKgIqACFahABSpQEVARUIEKVKACFagIqAioCKhABSpQgQpUBFQEVKACFahABSoCKgIqAipQgQpUoAIVARUBFahABSpQgYqAioCKgApUoAK1gCqjOb0xWqY4WckoR3XmvEH6kJKzhL6X3lcvUx95r72+vqbq2oZ6qMhLZo7F9MGgRjOcLCS/UnzNUKOrRFkEuWUtHc1tx0rmPIuFX7+7PWO3rF5aew/8GqTR6Ia7vb3dRyMVRRjDavma+jjVVz0Xj/zseRaD2nIPjCqdBNcod9L7+/vBkJyJTK1opPA715n4YIlS9gbHjHLG5rT39/f9yMnOQXKJiCFNv6u+SibU6ZhWo9nXtJZHZKaYlj/q4lB9g/qsJUgZA3UB9GiJRX+rwbV9lo4THCU35Tl0fzW4+rdW4ld6r82F6vPU2mxRqJkQ7EYuPcpKMNE4XWFaX1odoWa0U0J1mNfParwIuNWpsuE5OiLOgRqtvla7Tq2Z3bjBW6HX8IZ6r5KOaGRXu4aOUXIz1mGmhrwyiWolejWoundHtjkJ40GhOpwMJUFDJq5zGqzWuyPUsd4/JamrRZHW6PJx6qS6Zxf9rmurqJOudklTJhlDIykTatx7a8e4cwx1nAi11lhu8HIktxIo18vMgZl1qgBPDb2LbBMOzTdjJq5jdT0nDhXPjUPru+x1xvxHa/J1s/NxLfyqM11fXzejymqgeiTFRq+NriGomXJIqD5e580urTKJktbBc6aCg0P14jyGYCc/rTWsR4M6gRqvVeZC9XVq2WuZJ0wBOmUrdM5UsMhTmrg4zzZ0dlHfSmSmzKmtBp8LdMo15thjLgLVGaZueAqoWK92jEZYa0kztmTJ7j3/D9As1LhVOOUaiz1P9c1Ovenaw4HWkmLKOlXLiTHp3GPn+CmoWr55Wpq6qb8YVPf0qTcdG16fSlJ0rphEXV5eVsOv6jlCaP5UfZ3HHayWwcaO4XONldr3irtiZb34SG9OJFgMqnr43JRdX9IZZyxesLeAqKEUnstzqH5r7zc+dmuVWgivrVN1H+pYXWw+/LT0hRW+VDJhcCgp099cf04DrlG/6v8oTcm0gQpUoAIVqD8KtZWVArUzqL9FQAUqUIGKgIqAioAKVKACFahARUBFQAUqUIEKVKAioCKgIqACFahABSpQEVARUIEKVKACFagIqAioCKhABSpQgQpUBFQEVKACFahABSo6ko5CEwAVARUB9Qhlm86sdZotPIG6YkVPm5bi+4mB2gHUjAcOUDuEmnkPP1A7gmqrFb9pHKhHAFUj1N4BY2EYqB1CbTkiA7VDqJLtw4bCMFA7hSp5fi2tSoHaMdRo9RnduIDaMVQpGvp6twmonUOV7IxlnwCgHgHUMgwD9QigxjCsst1ugXoMUGMYjmaAQO0cqmSrTqAeEdS42wTUI4EqebcJqAioQEVd6g9BYTrmIy+ymQAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+        "q_hi": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHUAAACcCAYAAABBT+T2AAAFm0lEQVR42u2dgU3kMBBFtwRKoARKoAQ6gA6gA+gAOoAOlg6gA+gAOqCEPf3VfTTyJfYkhzbx8r5kLXBxkvWzx2PnlL/ZoaPThiYAKgIqAioC6tr18PCwu7u7222320n1Pj4+9vVU9DNQV6TT09PdZrPZnZyc7L6+vtL1rq6u9vVUXl5egLpGqCoaddlR6jpAXTnUs7OzVB3BB2on4TcLaE4doC4A9ebmZv95fn5ePf7x8fH7OBWgrhjq29vb98irJUwG+fT0BNS1Q/38/PwerWMJkxMk1YmAgbpiqILjubK2jNEnUDuB2gLlY73ZANROoGqHaShhcoJ0cXHxz/wK1JVDVZI0lDAZ4PPzM1B7gxo3F5wwlQkSUDuEaojeD3aCpGUMUDuFWq5HHY7LpzFA7QyqlzcuXsYAtWOokkfoGDigdgjVCVOZIAEVARWoCKgIqAioCKhARUBFPwvg764SUIEKVKAioCKgIqACFahABSpQEVARUIEKVKACFagIqAioCKhABSpQgQpUBFQEVKACFahABSoCKgIqAipQgQpUoAIVARUBFahABSpQgYqAioCKgApUoAK1gCqjOb0xWqY4WckoR3XmvEH6kJKzhL6X3lcvUx95r72+vqbq2oZ6qMhLZo7F9MGgRjOcLCS/UnzNUKOrRFkEuWUtHc1tx0rmPIuFX7+7PWO3rF5aew/8GqTR6Ia7vb3dRyMVRRjDavma+jjVVz0Xj/zseRaD2nIPjCqdBNcod9L7+/vBkJyJTK1opPA715n4YIlS9gbHjHLG5rT39/f9yMnOQXKJiCFNv6u+SibU6ZhWo9nXtJZHZKaYlj/q4lB9g/qsJUgZA3UB9GiJRX+rwbV9lo4THCU35Tl0fzW4+rdW4ld6r82F6vPU2mxRqJkQ7EYuPcpKMNE4XWFaX1odoWa0U0J1mNfParwIuNWpsuE5OiLOgRqtvla7Tq2Z3bjBW6HX8IZ6r5KOaGRXu4aOUXIz1mGmhrwyiWolejWoundHtjkJ40GhOpwMJUFDJq5zGqzWuyPUsd4/JamrRZHW6PJx6qS6Zxf9rmurqJOudklTJhlDIykTatx7a8e4cwx1nAi11lhu8HIktxIo18vMgZl1qgBPDb2LbBMOzTdjJq5jdT0nDhXPjUPru+x1xvxHa/J1s/NxLfyqM11fXzejymqgeiTFRq+NriGomXJIqD5e580urTKJktbBc6aCg0P14jyGYCc/rTWsR4M6gRqvVeZC9XVq2WuZJ0wBOmUrdM5UsMhTmrg4zzZ0dlHfSmSmzKmtBp8LdMo15thjLgLVGaZueAqoWK92jEZYa0kztmTJ7j3/D9As1LhVOOUaiz1P9c1Ovenaw4HWkmLKOlXLiTHp3GPn+CmoWr55Wpq6qb8YVPf0qTcdG16fSlJ0rphEXV5eVsOv6jlCaP5UfZ3HHayWwcaO4XONldr3irtiZb34SG9OJFgMqnr43JRdX9IZZyxesLeAqKEUnstzqH5r7zc+dmuVWgivrVN1H+pYXWw+/LT0hRW+VDJhcCgp099cf04DrlG/6v8oTcm0gQpUoAIVqD8KtZWVArUzqL9FQAUqUIGKgIqAioAKVKACFahARUBFQAUqUIEKVKAioCKgIqACFahABSpQEVARUIEKVKACFagIqAioCKhABSpQgQpUBFQEVKACFahABSo6ko5CEwAVARUB9Qhlm86sdZotPIG6YkVPm5bi+4mB2gHUjAcOUDuEmnkPP1A7gmqrFb9pHKhHAFUj1N4BY2EYqB1CbTkiA7VDqJLtw4bCMFA7hSp5fi2tSoHaMdRo9RnduIDaMVQpGvp6twmonUOV7IxlnwCgHgHUMgwD9QigxjCsst1ugXoMUGMYjmaAQO0cqmSrTqAeEdS42wTUI4EqebcJqAioQEVd6g9BYTrmIy+ymQAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+        "section": "Reasoning",
+        "solution": "",
+        "topic": ""
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Neither conclusion (I) nor (II) follows.",
+            "Only conclusion (I) follows.",
+            "Both conclusions (I) and (II) follow.",
+            "Only conclusion (II) follows."
+        ],
+        "op_hi": [
+            "निष्कर्ष (I) और (II) दोनों में से कोई भी अनुसरण नहीं करता है।",
+            "केवल निष्कर्ष (I) अनुसरण करता है।",
+            "निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।",
+            "केवल निष्कर्ष (II) अनुसरण करता है।"
+        ],
+        "q_en": "Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.<br><strong>Statements:</strong><br>All iron are weeder.<br>All weeder are drill.<br><strong>Conclusions:</strong><br>(I): Some drill are weeder.<br>(II): All iron are drill.",
+        "q_hi": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़ें। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही यह सामान्य रूप से ज्ञात तथ्यों से भिन्न प्रतीत होती हो, तय करें कि दिए गए निष्कर्षों में से कौन सा तार्किक रूप से कथनों का अनुसरण करता है।<br><strong>कथन:</strong><br>सभी आयरन वीडर हैं।<br>सभी वीडर ड्रिल हैं।<br><strong>निष्कर्ष:</strong><br>(I): कुछ ड्रिल वीडर हैं।<br>(II): सभी आयरन ड्रिल हैं।",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>According to the statements:<br>1. All iron are weeder.<br>2. All weeder are drill.<br>From this, we can conclude that the set of iron is completely inside weeder, and weeder is completely inside drill.<br>Conclusion (I): Some drill are weeder - True (Since all weeder are drill, some drill must be weeder).<br>Conclusion (II): All iron are drill - True (Since all iron are inside weeder and all weeder are inside drill).<br>Therefore, both conclusions (I) and (II) follow.<br><br><b>Solution (HI):</b><br>कथनों के अनुसार:<br>1. सभी आयरन वीडर हैं।<br>2. सभी वीडर ड्रिल हैं।<br>इससे, हम यह निष्कर्ष निकाल सकते हैं कि आयरन का सेट पूरी तरह से वीडर के अंदर है, और वीडर पूरी तरह से ड्रिल के अंदर है।<br>निष्कर्ष (I): कुछ ड्रिल वीडर हैं - सत्य (चूंकि सभी वीडर ड्रिल हैं, कुछ ड्रिल वीडर होने चाहिए)।<br>निष्कर्ष (II): सभी आयरन ड्रिल हैं - सत्य (चूंकि सभी आयरन वीडर के अंदर हैं और सभी वीडर ड्रिल के अंदर हैं)।<br>अतः, निष्कर्ष (I) और (II) दोनों अनुसरण करते हैं।<br><br><b>Short Trick:</b><br>All A are B + All B are C &rarr; All A are C (Conclusion II is True). All B are C &rarr; Some C are B (Conclusion I is True).",
+        "topic": "Syllogism"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "X = 7, Y = 152",
+            "X = 9, Y =  174",
+            "X = 11, Y = 211",
+            "X = 6, Y = 143"
+        ],
+        "op_hi": [
+            "X = 7, Y = 152",
+            "X = 9, Y =  174",
+            "X = 11, Y = 211",
+            "X = 6, Y = 143"
+        ],
+        "q_en": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is same as that on the right side of ::?<br><br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>X : 35 :: 12 : Y",
+        "q_hi": "निम्नलिखित संख्या-युग्मों में, दूसरी संख्या पहली संख्या पर कुछ गणितीय संक्रियाएं लागू करके प्राप्त की जाती है। X और Y के स्थान पर कौन सी संख्याएँ आनी चाहिए ताकि :: के बाईं ओर की दो संख्याओं द्वारा अनुसरण किया जाने वाला पैटर्न :: के दाईं ओर के पैटर्न के समान हो?<br><br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संक्रियाएँ की जानी चाहिए। उदा. 13 - 13 पर संक्रियाएं जैसे 13 में जोड़ना/घटाना/गुणा करना किया जा सकता है। 13 को 1 और 3 में तोड़कर 1 और 3 पर गणितीय संक्रियाएं करने की अनुमति नहीं है।)<br><br>X : 35 :: 12 : Y",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is n : n<sup>2</sup> &minus; 1<br>For X : 35 &rarr; 6 : 6<sup>2</sup> &minus; 1 = 36 &minus; 1 = 35. So, X = 6.<br>For 12 : Y &rarr; 12 : 12<sup>2</sup> &minus; 1 = 144 &minus; 1 = 143. So, Y = 143.<br>Therefore, X = 6, Y = 143.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न n : n<sup>2</sup> &minus; 1 है।<br>X : 35 के लिए &rarr; 6 : 6<sup>2</sup> &minus; 1 = 36 &minus; 1 = 35. इसलिए, X = 6.<br>12 : Y के लिए &rarr; 12 : 12<sup>2</sup> &minus; 1 = 144 &minus; 1 = 143. इसलिए, Y = 143.<br>अतः, X = 6, Y = 143.<br><br><b>Short Trick:</b><br>Check values: 35 is 6<sup>2</sup> &minus; 1. So X = 6. Y will be 12<sup>2</sup> &minus; 1 = 143.",
+        "topic": "Number Analogy"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "GM - BV",
+            "SY - MH",
+            "AG - VP",
+            "LR - GA"
+        ],
+        "op_hi": [
+            "GM - BV",
+            "SY - MH",
+            "AG - VP",
+            "LR - GA"
+        ],
+        "q_en": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group?<br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। कौन सा अक्षर-समूह युग्म उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनके स्थान पर आधारित नहीं है।)",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed in the pairs is:<br>First letter &minus; 5, Second letter + 9<br>G(7) &minus; 5 = B(2); M(13) + 9 = V(22) &rarr; GM - BV<br>A(1 or 27) &minus; 5 = V(22); G(7) + 9 = P(16) &rarr; AG - VP<br>L(12) &minus; 5 = G(7); R(18) + 9 = A(27 or 1) &rarr; LR - GA<br>But in SY - MH:<br>S(19) &minus; 6 = M(13); Y(25) + 9 = H(8 or 34)<br>So, SY - MH is the odd one out.<br><br><b>Solution (HI):</b><br>युग्मों में अनुसरण किया गया पैटर्न है:<br>पहला अक्षर &minus; 5, दूसरा अक्षर + 9<br>G(7) &minus; 5 = B(2); M(13) + 9 = V(22) &rarr; GM - BV<br>A(1 या 27) &minus; 5 = V(22); G(7) + 9 = P(16) &rarr; AG - VP<br>L(12) &minus; 5 = G(7); R(18) + 9 = A(27 या 1) &rarr; LR - GA<br>लेकिन SY - MH में:<br>S(19) &minus; 6 = M(13); Y(25) + 9 = H(8 या 34)<br>इसलिए, SY - MH बेजोड़ है।<br><br><b>Short Trick:</b><br>Difference between corresponding first letters: G-B = 5, A-V = 5, L-G = 5. But S-M = 6.",
+        "topic": "Letter Classification"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "9",
+            "8",
+            "7",
+            "10"
+        ],
+        "op_hi": [
+            "9",
+            "8",
+            "7",
+            "10"
+        ],
+        "q_en": "Each of the digits in the number 586234791 is arranged in ascending order from left to right. What will be the sum of the digits which are second from the left and second from the right in the new number thus formed?",
+        "q_hi": "संख्या 586234791 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किया जाता है। इस प्रकार बनी नई संख्या में बाएं से दूसरे और दाएं से दूसरे अंकों का योग क्या होगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Original number: 586234791<br>Digits arranged in ascending order from left to right: 123456789<br>The digit second from the left is 2.<br>The digit second from the right is 8.<br>Sum = 2 + 8 = 10.<br><br><b>Solution (HI):</b><br>मूल संख्या: 586234791<br>बाएं से दाएं आरोही क्रम में व्यवस्थित अंक: 123456789<br>बाएं से दूसरा अंक 2 है।<br>दाएं से दूसरा अंक 8 है।<br>योग = 2 + 8 = 10.<br><br><b>Short Trick:</b><br>Ascending order means numbers from 1 to 9. Second lowest is 2, second highest is 8. Sum = 10.",
+        "topic": "Number Arrangement"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "XGFT",
+            "XCJT",
+            "PCJL",
+            "PJCL"
+        ],
+        "op_hi": [
+            "XGFT",
+            "XCJT",
+            "PCJL",
+            "PJCL"
+        ],
+        "q_en": "UTSN is related to YRUR in a certain way based on the English alphabetical order. In the same way, HINR is related to LGPV. To which of the given options is TEHP related, following the same logic?",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर UTSN एक निश्चित तरीके से YRUR से संबंधित है। उसी तरह, HINR, LGPV से संबंधित है। समान तर्क का अनुसरण करते हुए, TEHP दिए गए विकल्पों में से किससे संबंधित है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is +4, &minus;2, +2, +4.<br>U(+4) &rarr; Y; T(&minus;2) &rarr; R; S(+2) &rarr; U; N(+4) &rarr; R<br>H(+4) &rarr; L; I(&minus;2) &rarr; G; N(+2) &rarr; P; R(+4) &rarr; V<br>Similarly for TEHP:<br>T(+4) &rarr; X; E(&minus;2) &rarr; C; H(+2) &rarr; J; P(+4) &rarr; T<br>Thus, TEHP is related to XCJT.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न +4, &minus;2, +2, +4 है।<br>U(+4) &rarr; Y; T(&minus;2) &rarr; R; S(+2) &rarr; U; N(+4) &rarr; R<br>H(+4) &rarr; L; I(&minus;2) &rarr; G; N(+2) &rarr; P; R(+4) &rarr; V<br>उसी प्रकार TEHP के लिए:<br>T(+4) &rarr; X; E(&minus;2) &rarr; C; H(+2) &rarr; J; P(+4) &rarr; T<br>इस प्रकार, TEHP, XCJT से संबंधित है।<br><br><b>Short Trick:</b><br>Check first and last letter transformations: T+4 = X, P+4 = T. Only option 2 starts with X and ends with T.",
+        "topic": "Letter Analogy"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "10",
+            "8",
+            "7",
+            "9"
+        ],
+        "op_hi": [
+            "10",
+            "8",
+            "7",
+            "9"
+        ],
+        "q_en": "Each of the digits in the number 68532165974 is arranged in ascending order from left to right. What will be the sum of the digits which are third from the left and third from the right in the new number thus formed?",
+        "q_hi": "संख्या 68532165974 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किया जाता है। इस प्रकार बनी नई संख्या में बाएं से तीसरे और दाएं से तीसरे अंकों का योग क्या होगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Original number: 68532165974<br>Digits arranged in ascending order from left to right: 12345566789<br>The digit third from the left is 3.<br>The digit third from the right is 7.<br>Sum = 3 + 7 = 10.<br><br><b>Solution (HI):</b><br>मूल संख्या: 68532165974<br>बाएं से दाएं आरोही क्रम में व्यवस्थित अंक: 12345566789<br>बाएं से तीसरा अंक 3 है।<br>दाएं से तीसरा अंक 7 है।<br>योग = 3 + 7 = 10.<br><br><b>Short Trick:</b><br>List sorted elements from ends: 1, 2, 3... and ..., 7, 8, 9. The required digits are 3 and 7. Sum = 10.",
+        "topic": "Number Arrangement"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "9",
+            "7",
+            "6",
+            "8"
+        ],
+        "op_hi": [
+            "9",
+            "7",
+            "6",
+            "8"
+        ],
+        "q_en": "If 2 is added to each odd digit and 1 is subtracted from each even digit in the number 7146283, what will be difference between the highest and lowest digits thus formed?",
+        "q_hi": "यदि संख्या 7146283 में प्रत्येक विषम अंक में 2 जोड़ा जाता है और प्रत्येक सम अंक से 1 घटाया जाता है, तो इस प्रकार बने सबसे बड़े और सबसे छोटे अंकों के बीच क्या अंतर होगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Original number: 7146283<br>Adding 2 to each odd digit and subtracting 1 from each even digit:<br>7 + 2 = 9<br>1 + 2 = 3<br>4 &minus; 1 = 3<br>6 &minus; 1 = 5<br>2 &minus; 1 = 1<br>8 &minus; 1 = 7<br>3 + 2 = 5<br>The new digits formed are: 9, 3, 3, 5, 1, 7, 5.<br>Highest digit = 9. Lowest digit = 1.<br>Difference = 9 &minus; 1 = 8.<br><br><b>Solution (HI):</b><br>मूल संख्या: 7146283<br>प्रत्येक विषम अंक में 2 जोड़ने और प्रत्येक सम अंक से 1 घटाने पर:<br>7 + 2 = 9<br>1 + 2 = 3<br>4 &minus; 1 = 3<br>6 &minus; 1 = 5<br>2 &minus; 1 = 1<br>8 &minus; 1 = 7<br>3 + 2 = 5<br>बने नए अंक हैं: 9, 3, 3, 5, 1, 7, 5.<br>सबसे बड़ा अंक = 9. सबसे छोटा अंक = 1.<br>अंतर = 9 &minus; 1 = 8.<br><br><b>Short Trick:</b><br>Max digit generated comes from highest odd (7+2=9). Min digit generated comes from lowest even (2-1=1). Difference = 9 &minus; 1 = 8.",
+        "topic": "Number Arrangement"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "X = 12, Y = 240",
+            "X = 8, Y = 160",
+            "X = 13, Y = 180",
+            "X = 18, Y = 320"
+        ],
+        "op_hi": [
+            "X = 12, Y = 240",
+            "X = 8, Y = 160",
+            "X = 13, Y = 180",
+            "X = 18, Y = 320"
+        ],
+        "q_en": "In the following number-pairs, the second number is obtained by applying certain mathematical operations to the first number. Which numbers should replace X and Y so that the pattern followed by the two numbers on the left side of :: is same as that on the right side of ::?<br><br>(NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)<br><br>X : 55 :: 13 : Y",
+        "q_hi": "निम्नलिखित संख्या-युग्मों में, दूसरी संख्या पहली संख्या पर कुछ गणितीय संक्रियाएं लागू करके प्राप्त की जाती है। X और Y के स्थान पर कौन सी संख्याएँ आनी चाहिए ताकि :: के बाईं ओर की दो संख्याओं द्वारा अनुसरण किया जाने वाला पैटर्न :: के दाईं ओर के पैटर्न के समान हो?<br><br>(नोट: संख्याओं को उनके घटक अंकों में तोड़े बिना, पूर्ण संख्याओं पर संक्रियाएँ की जानी चाहिए। उदा. 13 - 13 पर संक्रियाएं जैसे 13 में जोड़ना/घटाना/गुणा करना किया जा सकता है। 13 को 1 और 3 में तोड़कर 1 और 3 पर गणितीय संक्रियाएं करने की अनुमति नहीं है।)<br><br>X : 55 :: 13 : Y",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is n : n<sup>2</sup> &minus; 9<br>For X : 55 &rarr; 8 : 8<sup>2</sup> &minus; 9 = 64 &minus; 9 = 55. So, X = 8.<br>For 13 : Y &rarr; 13 : 13<sup>2</sup> &minus; 9 = 169 &minus; 9 = 160. So, Y = 160.<br>Therefore, X = 8, Y = 160.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न n : n<sup>2</sup> &minus; 9 है।<br>X : 55 के लिए &rarr; 8 : 8<sup>2</sup> &minus; 9 = 64 &minus; 9 = 55. इसलिए, X = 8.<br>13 : Y के लिए &rarr; 13 : 13<sup>2</sup> &minus; 9 = 169 &minus; 9 = 160. इसलिए, Y = 160.<br>अतः, X = 8, Y = 160.<br><br><b>Short Trick:</b><br>Check values: 55 is near 64 (8<sup>2</sup>). 8<sup>2</sup> &minus; 9 = 55. So X = 8. Then Y = 13<sup>2</sup> &minus; 9 = 160.",
+        "topic": "Number Analogy"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "52",
+            "53",
+            "51",
+            "50"
+        ],
+        "op_hi": [
+            "52",
+            "53",
+            "51",
+            "50"
+        ],
+        "q_en": "What will come in the place of the question mark (?) in the following equation, if ‘÷’ and ‘×’ are interchanged and ‘+’ and ‘−’ are interchanged?<br><br>48 − 8 ÷ 1 + 30 × 5 = ?",
+        "q_hi": "निम्नलिखित समीकरण में प्रश्नवाचक चिह्न (?) के स्थान पर क्या आएगा, यदि ‘÷’ और ‘×’ को आपस में बदल दिया जाए और ‘+’ और ‘−’ को आपस में बदल दिया जाए?<br><br>48 − 8 ÷ 1 + 30 × 5 = ?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Given equation: 48 &minus; 8 &divide; 1 + 30 &times; 5 = ?<br>After interchanging &lsquo;&divide;&rsquo; and &lsquo;&times;&rsquo;, and &lsquo;+&rsquo; and &lsquo;&minus;&rsquo;:<br>Equation becomes: 48 + 8 &times; 1 &minus; 30 &divide; 5 = ?<br>According to BODMAS rule:<br>&rArr; 48 + 8 &times; 1 &minus; 6 = ?<br>&rArr; 48 + 8 &minus; 6 = ?<br>&rArr; 56 &minus; 6 = 50.<br><br><b>Solution (HI):</b><br>दिया गया समीकरण: 48 &minus; 8 &divide; 1 + 30 &times; 5 = ?<br>&lsquo;&divide;&rsquo; और &lsquo;&times;&rsquo; को, तथा &lsquo;+&rsquo; और &lsquo;&minus;&rsquo; को आपस में बदलने के बाद:<br>समीकरण बन जाता है: 48 + 8 &times; 1 &minus; 30 &divide; 5 = ?<br>BODMAS नियम के अनुसार:<br>&rArr; 48 + 8 &times; 1 &minus; 6 = ?<br>&rArr; 48 + 8 &minus; 6 = ?<br>&rArr; 56 &minus; 6 = 50.<br><br><b>Short Trick:</b><br>Write directly with new symbols and solve mentally: 48 + (8&times;1) &minus; (30/5) = 48 + 8 &minus; 6 = 50.",
+        "topic": "Mathematical Operations"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "ILQQ",
+            "IQYT",
+            "ELYM",
+            "ITYQ"
+        ],
+        "op_hi": [
+            "ILQQ",
+            "IQYT",
+            "ELYM",
+            "ITYQ"
+        ],
+        "q_en": "HOEN is related to JKAP in a certain way based on the English alphabetical order. In the same way, SVCE is related to URYG. To which of the given options is GPUO related, following the same logic?",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर HOEN एक निश्चित तरीके से JKAP से संबंधित है। उसी तरह, SVCE, URYG से संबंधित है। समान तर्क का अनुसरण करते हुए, GPUO दिए गए विकल्पों में से किससे संबंधित है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is +2, &minus;4, &minus;4, +2.<br>H(+2) &rarr; J; O(&minus;4) &rarr; K; E(&minus;4) &rarr; A; N(+2) &rarr; P<br>S(+2) &rarr; U; V(&minus;4) &rarr; R; C(&minus;4) &rarr; Y; E(+2) &rarr; G<br>Similarly for GPUO:<br>G(+2) &rarr; I; P(&minus;4) &rarr; L; U(&minus;4) &rarr; Q; O(+2) &rarr; Q<br>Thus, GPUO is related to ILQQ.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न +2, &minus;4, &minus;4, +2 है।<br>H(+2) &rarr; J; O(&minus;4) &rarr; K; E(&minus;4) &rarr; A; N(+2) &rarr; P<br>S(+2) &rarr; U; V(&minus;4) &rarr; R; C(&minus;4) &rarr; Y; E(+2) &rarr; G<br>उसी प्रकार GPUO के लिए:<br>G(+2) &rarr; I; P(&minus;4) &rarr; L; U(&minus;4) &rarr; Q; O(+2) &rarr; Q<br>इस प्रकार, GPUO, ILQQ से संबंधित है।<br><br><b>Short Trick:</b><br>Check first and last letters: G+2 = I, O+2 = Q. Option 1 starts with I and ends with Q.",
+        "topic": "Letter Analogy"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "9",
+            "10",
+            "11",
+            "8"
+        ],
+        "op_hi": [
+            "9",
+            "10",
+            "11",
+            "8"
+        ],
+        "q_en": "Each of the digits in the number 2458653297 is arranged in ascending order from left to right. What will be the sum of the digits which are third from the left and second from the right in the new number thus formed?",
+        "q_hi": "संख्या 2458653297 के प्रत्येक अंक को बाएं से दाएं आरोही क्रम में व्यवस्थित किया जाता है। इस प्रकार बनी नई संख्या में बाएं से तीसरे और दाएं से दूसरे अंकों का योग क्या होगा?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>Original number: 2458653297<br>Digits arranged in ascending order from left to right: 2234556789<br>The digit third from the left is 3.<br>The digit second from the right is 8.<br>Sum = 3 + 8 = 11.<br><br><b>Solution (HI):</b><br>मूल संख्या: 2458653297<br>बाएं से दाएं आरोही क्रम में व्यवस्थित अंक: 2234556789<br>बाएं से तीसरा अंक 3 है।<br>दाएं से दूसरा अंक 8 है।<br>योग = 3 + 8 = 11.<br><br><b>Short Trick:</b><br>List lowest numbers: 2, 2, 3 (third is 3). List highest numbers: 9, 8 (second highest is 8). Sum = 11.",
+        "topic": "Number Arrangement"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "209",
+            "214",
+            "213",
+            "210"
+        ],
+        "op_hi": [
+            "209",
+            "214",
+            "213",
+            "210"
+        ],
+        "q_en": "What should come in place of the question mark (?) in the given series?<br><br>210  212  209  213  208  ?",
+        "q_hi": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>210  212  209  213  208  ?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern is:<br>210 + 2 = 212<br>212 &minus; 3 = 209<br>209 + 4 = 213<br>213 &minus; 5 = 208<br>208 + 6 = 214<br>So, the missing number is 214.<br><br><b>Solution (HI):</b><br>पैटर्न इस प्रकार है:<br>210 + 2 = 212<br>212 &minus; 3 = 209<br>209 + 4 = 213<br>213 &minus; 5 = 208<br>208 + 6 = 214<br>अतः, लुप्त संख्या 214 है।<br><br><b>Short Trick:</b><br>Alternate series: 210, 209, 208 (decreasing by 1). 212, 213, ? (increasing by 1). Next is 214.",
+        "topic": "Number Series"
+    },
+    {
+        "ans": 2,
+        "difficulty": "",
+        "op_en": [
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAfCAYAAAAY7MgsAAADcElEQVR42u1ZDa1yMQydBCQgAQlIwAFIwAE4AAfgAByAA3AADpCwl3OTc9MsW9uN+/3kZU0W3rvhdm1Pe9aOELv8Uwk9BB2ADkCXDkAHoMsvBOB4PMb9fh8/n88k+qDnfD6PetOF5zXyer3Gd1ttxHv3+z1ut9u42WziarUa/sazSQCgcijGgpMw3CPz+TyGEOL7/f4q8NhvuVwOurSF/WoEAeO7t9ut2q7L5RJns5lqjxWroDnNAKYLmyIT/wYAyDDqwb5IBiTB6XQaF561ACD9A8A1gqqR78ImAIIFe6TNj8ejDgAZfCiHUjxDltRkzRQAIMBWNqFKawG4Xq/DO4vFYsxiLw0hoIzBbrcrJs56vR5BKOkOWmmCcnLCjLOyJgUARjyfzyFgXmcRIOjQKq4FAPoIvfTHe4aQDqHD+11UjBsABB7OlDIcmUhkvQDAuZQvsY/FkXxHK+NaAAA+bWBle2mIvvNdS6i7VAVNXRBL0AsA+RIOItskR1oHlYfGagEgrckK9wDdKqziXEI3AYBs1igqd8jluJIcqWWeVcItAFCnpDXSkLZPq5DuchRXBQBKiNmMjLFKkACUuBL6mHklumO2ap1XDQAl+pRUMbUwZjlwXQDAsbRl85Qq30HHURLPAchKYZCxv1wscQ8ArN5cUtBerbsD2On+XCU/CQB8bQIgnQPgsKdjoEMaWMxwq6PA97ShxwuAFmQGSrOF9uZWqUK/rgBJGTDAopaaA9QLgOw+DofD8D+XnBWsqV6ClVtW3869kPHSBqzSOzgrSwA1HcLYzOJuLwAaJeQOslyQvWeAHCKtVcpmdoA1M4fWYTVfxpG7c7yWAqANUQyK1n3I7M8B7gXAQ4lMiFJn5mkccvpKtoWcswiYdnB6+VJeZ1hXHlpQCFJpLw8AXpqSQ1qJUmgPzkJtoodPBKuUhMGaEmt6aW0OSDMc+5AbtTlA8vY3d0Hcy9M8WLOHvCDEJ65Xcu06g68ladAMyE2pUC5vHz1TLA7NdBKmcV4dmhMWALXXB6wWZLiW3TLB2B7Lyz0Oq1qVmLehDBx/bKByfOKW1MO5EEzC6UHHTsLT8mnfswCQnYu32/PwPGxCXHLX9tjLc2UfWpV7f5RJHYNDWFP9Sva/CCoCfuGzxrfwJ5V3mQiALh2ADkCXDkAHoMv08gMKkTb1XdJvDAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAeCAYAAADermvOAAADZklEQVR42u1ZbY0CMRBdCUhAAhJwwDkACTgAB+AAHIADcAAOwAES9vI2eWSy2em8drkcPzrJ5HLQTjvz5rM0baWvpKaaoAJTqQJTgalUganAFNHr9Wq322273++ltVi3Wq3an5+fdr1et+fzOfu84/HYycG5fVbuYenxeLz3QnapDa7Xa6eP1Q2f/RswUKxpmnY6nSbXwZiTyaRb22fshZzonPl8Pri/LyuHYEjuvVwu2fqfTidXL1W3fwOGa8DwJBjgdrt1Ss1ms/d+z2PxOb7HOhgBMhAZh8PhzfisBBjKBQP4HEKU2b24E3QC4z72ztD364Chp282m8HvEfoEbYhg+Mj7kDZygUEaxR44B71eTWcwNEHx9IKs5XL5BkeR3YzJpWAeogBDpT2vQQRh/2KxGPyeUYV06FEJMExjkMuIU2sUnQ0y1LWIsI8C4+V3HJQDzPP5LIrKCNgSYOBY1AM6wDnUdGZTs1I/KFuJmiYHFJsr4SHwLgKl5PYcj0nVgRSwucAwPSKN5jhAKTHqowZDBoZGhQJ9tJFblW4IilLp3HZWBTYXGMq06ZFOVupAStqM9JeAYYFLFV0qGBmknw6xPte7Aa5XZ3KAYSqCPC/lfJrYwUWgNznCUgWOnU1kEMiyrSlZJXY3PAsgW7Ztd0TwWk8v3jGVcuAE/fPJ3sBMW3qdZxYwSvgpxd/WIXh/6YSNvalhTgUmZXzFGRnBQ+xF9EcjxraTpcDYFJMzAUfd0G636/4n21knRbyPTad9jjoonoUIsXcAe3s4q6Vs+VFgbB1KRYvS76v3GTpLrTH2CSZiT+9I59KWXwaGuTiVF6MaQ0NEIQwjgD2Ps9EylIJUYBgRKQNRb2+mwR1paOV9jfIUICVglMGIIeodGimpDmwE2Is8BRg13dnh09Ob90HTkaqZdlSI0tjH5hj7iOcpa71rKGrsAGuHPa8ujHkroxMps1Q0O9mHVfy93++DP4dQdzWVF03++Iu0Zid/eEFkEPs0jr8wEC7an2s8o/P8lHIRMLnPKIwuREQqGuwIwDbePop6Tv1nb2U4GJ1RJ0wcMIcKL+TgBSHqgCKDRsDYTkp9S1PqCPUamtFwlpK+Rr8u87EPnjLm1z7IAI9tn7+NYJex9qm/+X8pVWAqMJUqMBWYSn9FvwiNhmjoxytCAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAfCAYAAADz23MvAAADaklEQVR42u2Zi40iMQyGpwRKoARKoAO2AyiBDqAD6AA6gA6gA0qADihhTt9IP7KiPJwZ7YnTxZK1u5A4sX8/s13f6GuoayZoYDRqYDQwGjUw/kMw3u93v9/v++Px6FrLus1m0//8/PTb7ba/Xq/V553P50EO54bsuYel5/P52YvssXS/3wd9pug2GQyU6bqun8/n2XUYcDabDWtDZi9ySucsl8vo/lBWDWE87b3dbtX6Px6P7L24D7p/DRhaA+MxKI0Sl8ulXywWn/0pz+RzvmcdgCKDCDidTh/mszFgSC6MUWuBkIPxc7fbDTqhH/ezsom8rwBDnsNlY0RYC6gYYexSBJEmasEgjbAHh5BRvamKe8jY6/U6uQ+dvZHX1eZrlIZ1uAcMKYonxYhLsn+1WkW/V/Tkwn0MGEpRyFVkeWuO9nrOk7OVIq/zekEsLxJ6NWC8Xq9R0VcCcwwYOJP0QAccoiZVee5k05nOytmgqwlHLoBH4EUCx5OrtdaTN3N5PadILRhKfXhtrYF1FhH7V1tbGZJLh3nR5sOcEWyhq209vWDWgiGZNvXJsUpOgw4hkL8OhsIrVzilVMkIYapjfa0XA2iqbtSAodSKvLB2xT4PCbCmRPooMHQoqanUkZSMgCzb6om9RMdigQRYy7ZFLpE8O6aX7pjrfFS8U2DgGOH9xLlBsPN0DLnU4ingtq7g5WMnXfamBseaoS9ncI8Dak2pFY9xriN0gZETUALDpo/SlO1NL/DhcBj+FttZxFN8baoMWakq5TSx4h92avZusCJ3cmTkwLB1JRcVOU+rnQtiZ3lrhn3+KHFKb1tzvFHuSX+dJ7emwtFTM0r51b5dwSnlbFTEFPKCIaPk2lfpnZs5atp1O2eMLuC2u0gZSdNlyggexayhU6lMoKYizAOGN5XZgbCUqrBNDlj7rlbKDpPmDBWynILsUdGNeZEdKlM52Ob5KW9TchzPrOPxfMlDv5hM7mS7vFLNrJrA+UnKshM4qaVkBF4y7esmSuAl4dyRuqzHs0pgeKIv5vm5KRtHszUI3dTC2jae3z3PJqPfpjiYjmYQ4hz6YsVTT8+ldFAyYgkMyfG+PdmILr22IlsRUKPbpFdbPaiB8thZgX3IgKe2ut9GU3Vr/wP/ImpgNDAaNTAaGI0aGP8g/QGQl6lR9Bw3BgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAeCAYAAAA8cnC3AAADY0lEQVR42u2ZgW0qMQyGbwRGYARG6Ahs0I7ABnSDsgFsABuUDWCDdoOOcE/fST+yoovj5PR4T1UsRXftJY7t33bsMIyd/jkN3QQdhE4dhA5Cpw7CLwHh5+dnfH9/Hw+HQ3j+/X4fr9fr9PwNhE7os9vtxre3t3G73U7v/O8pIHx9fY3DMIzr9bo47+XlZZprB+sQnO9zdDwep3mr1So7B0JhTw6chO/IEDWsZLzdbtl55/N5ki3Vy+rnyf00EKygPPEUDG9B8YTVPNa0gmCN+v39XdRL4Ht6kQHEExkBGl0ZRAJrpbMH5F8Hge8SBsEwRu57zks/Pz8fyvLeAoIFE+OVSHNPp9Psd4wqmfb7fRb419fXBxCp7k0gKPcxxLAEgjzKSwPiwcgJKqPk+ERAEJiR1Cl5lkRnDfhDxNvn8jlMSyAgZMT7CGEAyyltPW8uGiIgALDSYi6iIo4TAWkOfC8ahhIANrdhVNKKQOHdU17feS4lATpnnAgIVp7IyKWiFtpsNi74QySUOExTFMmF9mAteUHEa0rpUJ58uVymA1aDvyMg2POFuemwBYSXw1sdKFfKZ0FQCohULp7yOpyYg3e1KocCXjkYAQFSZM95pUrZSK6vIVVSubQ8lBZ6AkU98OPj4xGSdtR6kvYCfDvEOwKC9JpLkR5ANvWl+2tgj9o9XRBKIVTTrBFVaV8QMVjasC0pUdOeIU05NvIj8tScI82RIBC8AyoCAnOURjhHatNRqWavBcHytKBK31IqstUTutmR040z1dNhEQgR75EApKQWEoBe11kLwtw1hlJRqYCIRkyNDkNJUK+8jJwJESNGFPCuG2pBUKWllKT1nC01VZp3dqR29GQbljQZ8vIICDkjYgDWw+tZ6cjKjpEiUT+XJQDNS684nvT3eDf3CfYCK3Jnk4soGSOXi7WPVyq3gCAnQz4ZKtrLYAulL57ptbyu+MW3dM6EO2aeGNJ2zKAbvbORMBhMDZbtM3IGSBWGB97L3hoWqJZUJ0erIbxcctnSmehI+ZaKkaa7IzbRQRst63KNVuTOne+2V1jSrOWuMVquKSSXBcNeb0d5DjUb4tV4QEvXy3o8GM/Qr0+Rgy3lwWUffPD+dER/4bPerLVLCV6t9um/Mf8H1EHoIHTqIHQQOon+ALjyMDDvg7P/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+        ],
+        "op_hi": [
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGAAAAAfCAYAAAAY7MgsAAADcElEQVR42u1ZDa1yMQydBCQgAQlIwAFIwAE4AAfgAByAA3AADpCwl3OTc9MsW9uN+/3kZU0W3rvhdm1Pe9aOELv8Uwk9BB2ADkCXDkAHoMsvBOB4PMb9fh8/n88k+qDnfD6PetOF5zXyer3Gd1ttxHv3+z1ut9u42WziarUa/sazSQCgcijGgpMw3CPz+TyGEOL7/f4q8NhvuVwOurSF/WoEAeO7t9ut2q7L5RJns5lqjxWroDnNAKYLmyIT/wYAyDDqwb5IBiTB6XQaF561ACD9A8A1gqqR78ImAIIFe6TNj8ejDgAZfCiHUjxDltRkzRQAIMBWNqFKawG4Xq/DO4vFYsxiLw0hoIzBbrcrJs56vR5BKOkOWmmCcnLCjLOyJgUARjyfzyFgXmcRIOjQKq4FAPoIvfTHe4aQDqHD+11UjBsABB7OlDIcmUhkvQDAuZQvsY/FkXxHK+NaAAA+bWBle2mIvvNdS6i7VAVNXRBL0AsA+RIOItskR1oHlYfGagEgrckK9wDdKqziXEI3AYBs1igqd8jluJIcqWWeVcItAFCnpDXSkLZPq5DuchRXBQBKiNmMjLFKkACUuBL6mHklumO2ap1XDQAl+pRUMbUwZjlwXQDAsbRl85Qq30HHURLPAchKYZCxv1wscQ8ArN5cUtBerbsD2On+XCU/CQB8bQIgnQPgsKdjoEMaWMxwq6PA97ShxwuAFmQGSrOF9uZWqUK/rgBJGTDAopaaA9QLgOw+DofD8D+XnBWsqV6ClVtW3869kPHSBqzSOzgrSwA1HcLYzOJuLwAaJeQOslyQvWeAHCKtVcpmdoA1M4fWYTVfxpG7c7yWAqANUQyK1n3I7M8B7gXAQ4lMiFJn5mkccvpKtoWcswiYdnB6+VJeZ1hXHlpQCFJpLw8AXpqSQ1qJUmgPzkJtoodPBKuUhMGaEmt6aW0OSDMc+5AbtTlA8vY3d0Hcy9M8WLOHvCDEJ65Xcu06g68ladAMyE2pUC5vHz1TLA7NdBKmcV4dmhMWALXXB6wWZLiW3TLB2B7Lyz0Oq1qVmLehDBx/bKByfOKW1MO5EEzC6UHHTsLT8mnfswCQnYu32/PwPGxCXHLX9tjLc2UfWpV7f5RJHYNDWFP9Sva/CCoCfuGzxrfwJ5V3mQiALh2ADkCXDkAHoMv08gMKkTb1XdJvDAAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGYAAAAeCAYAAADermvOAAADZklEQVR42u1ZbY0CMRBdCUhAAhJwwDkACTgAB+AAHIADcAAOwAES9vI2eWSy2em8drkcPzrJ5HLQTjvz5rM0baWvpKaaoAJTqQJTgalUganAFNHr9Wq322273++ltVi3Wq3an5+fdr1et+fzOfu84/HYycG5fVbuYenxeLz3QnapDa7Xa6eP1Q2f/RswUKxpmnY6nSbXwZiTyaRb22fshZzonPl8Pri/LyuHYEjuvVwu2fqfTidXL1W3fwOGa8DwJBjgdrt1Ss1ms/d+z2PxOb7HOhgBMhAZh8PhzfisBBjKBQP4HEKU2b24E3QC4z72ztD364Chp282m8HvEfoEbYhg+Mj7kDZygUEaxR44B71eTWcwNEHx9IKs5XL5BkeR3YzJpWAeogBDpT2vQQRh/2KxGPyeUYV06FEJMExjkMuIU2sUnQ0y1LWIsI8C4+V3HJQDzPP5LIrKCNgSYOBY1AM6wDnUdGZTs1I/KFuJmiYHFJsr4SHwLgKl5PYcj0nVgRSwucAwPSKN5jhAKTHqowZDBoZGhQJ9tJFblW4IilLp3HZWBTYXGMq06ZFOVupAStqM9JeAYYFLFV0qGBmknw6xPte7Aa5XZ3KAYSqCPC/lfJrYwUWgNznCUgWOnU1kEMiyrSlZJXY3PAsgW7Ztd0TwWk8v3jGVcuAE/fPJ3sBMW3qdZxYwSvgpxd/WIXh/6YSNvalhTgUmZXzFGRnBQ+xF9EcjxraTpcDYFJMzAUfd0G636/4n21knRbyPTad9jjoonoUIsXcAe3s4q6Vs+VFgbB1KRYvS76v3GTpLrTH2CSZiT+9I59KWXwaGuTiVF6MaQ0NEIQwjgD2Ps9EylIJUYBgRKQNRb2+mwR1paOV9jfIUICVglMGIIeodGimpDmwE2Is8BRg13dnh09Ob90HTkaqZdlSI0tjH5hj7iOcpa71rKGrsAGuHPa8ujHkroxMps1Q0O9mHVfy93++DP4dQdzWVF03++Iu0Zid/eEFkEPs0jr8wEC7an2s8o/P8lHIRMLnPKIwuREQqGuwIwDbePop6Tv1nb2U4GJ1RJ0wcMIcKL+TgBSHqgCKDRsDYTkp9S1PqCPUamtFwlpK+Rr8u87EPnjLm1z7IAI9tn7+NYJex9qm/+X8pVWAqMJUqMBWYSn9FvwiNhmjoxytCAAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAfCAYAAADz23MvAAADaklEQVR42u2Zi40iMQyGpwRKoARKoAO2AyiBDqAD6AA6gA6gA0qADihhTt9IP7KiPJwZ7YnTxZK1u5A4sX8/s13f6GuoayZoYDRqYDQwGjUw/kMw3u93v9/v++Px6FrLus1m0//8/PTb7ba/Xq/V553P50EO54bsuYel5/P52YvssXS/3wd9pug2GQyU6bqun8/n2XUYcDabDWtDZi9ySucsl8vo/lBWDWE87b3dbtX6Px6P7L24D7p/DRhaA+MxKI0Sl8ulXywWn/0pz+RzvmcdgCKDCDidTh/mszFgSC6MUWuBkIPxc7fbDTqhH/ezsom8rwBDnsNlY0RYC6gYYexSBJEmasEgjbAHh5BRvamKe8jY6/U6uQ+dvZHX1eZrlIZ1uAcMKYonxYhLsn+1WkW/V/Tkwn0MGEpRyFVkeWuO9nrOk7OVIq/zekEsLxJ6NWC8Xq9R0VcCcwwYOJP0QAccoiZVee5k05nOytmgqwlHLoBH4EUCx5OrtdaTN3N5PadILRhKfXhtrYF1FhH7V1tbGZJLh3nR5sOcEWyhq209vWDWgiGZNvXJsUpOgw4hkL8OhsIrVzilVMkIYapjfa0XA2iqbtSAodSKvLB2xT4PCbCmRPooMHQoqanUkZSMgCzb6om9RMdigQRYy7ZFLpE8O6aX7pjrfFS8U2DgGOH9xLlBsPN0DLnU4ingtq7g5WMnXfamBseaoS9ncI8Dak2pFY9xriN0gZETUALDpo/SlO1NL/DhcBj+FttZxFN8baoMWakq5TSx4h92avZusCJ3cmTkwLB1JRcVOU+rnQtiZ3lrhn3+KHFKb1tzvFHuSX+dJ7emwtFTM0r51b5dwSnlbFTEFPKCIaPk2lfpnZs5atp1O2eMLuC2u0gZSdNlyggexayhU6lMoKYizAOGN5XZgbCUqrBNDlj7rlbKDpPmDBWynILsUdGNeZEdKlM52Ob5KW9TchzPrOPxfMlDv5hM7mS7vFLNrJrA+UnKshM4qaVkBF4y7esmSuAl4dyRuqzHs0pgeKIv5vm5KRtHszUI3dTC2jae3z3PJqPfpjiYjmYQ4hz6YsVTT8+ldFAyYgkMyfG+PdmILr22IlsRUKPbpFdbPaiB8thZgX3IgKe2ut9GU3Vr/wP/ImpgNDAaNTAaGI0aGP8g/QGQl6lR9Bw3BgAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+            "<img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGEAAAAeCAYAAAA8cnC3AAADY0lEQVR42u2ZgW0qMQyGbwRGYARG6Ahs0I7ABnSDsgFsABuUDWCDdoOOcE/fST+yoovj5PR4T1UsRXftJY7t33bsMIyd/jkN3QQdhE4dhA5Cpw7CLwHh5+dnfH9/Hw+HQ3j+/X4fr9fr9PwNhE7os9vtxre3t3G73U7v/O8pIHx9fY3DMIzr9bo47+XlZZprB+sQnO9zdDwep3mr1So7B0JhTw6chO/IEDWsZLzdbtl55/N5ki3Vy+rnyf00EKygPPEUDG9B8YTVPNa0gmCN+v39XdRL4Ht6kQHEExkBGl0ZRAJrpbMH5F8Hge8SBsEwRu57zks/Pz8fyvLeAoIFE+OVSHNPp9Psd4wqmfb7fRb419fXBxCp7k0gKPcxxLAEgjzKSwPiwcgJKqPk+ERAEJiR1Cl5lkRnDfhDxNvn8jlMSyAgZMT7CGEAyyltPW8uGiIgALDSYi6iIo4TAWkOfC8ahhIANrdhVNKKQOHdU17feS4lATpnnAgIVp7IyKWiFtpsNi74QySUOExTFMmF9mAteUHEa0rpUJ58uVymA1aDvyMg2POFuemwBYSXw1sdKFfKZ0FQCohULp7yOpyYg3e1KocCXjkYAQFSZM95pUrZSK6vIVVSubQ8lBZ6AkU98OPj4xGSdtR6kvYCfDvEOwKC9JpLkR5ANvWl+2tgj9o9XRBKIVTTrBFVaV8QMVjasC0pUdOeIU05NvIj8tScI82RIBC8AyoCAnOURjhHatNRqWavBcHytKBK31IqstUTutmR040z1dNhEQgR75EApKQWEoBe11kLwtw1hlJRqYCIRkyNDkNJUK+8jJwJESNGFPCuG2pBUKWllKT1nC01VZp3dqR29GQbljQZ8vIICDkjYgDWw+tZ6cjKjpEiUT+XJQDNS684nvT3eDf3CfYCK3Jnk4soGSOXi7WPVyq3gCAnQz4ZKtrLYAulL57ptbyu+MW3dM6EO2aeGNJ2zKAbvbORMBhMDZbtM3IGSBWGB97L3hoWqJZUJ0erIbxcctnSmehI+ZaKkaa7IzbRQRst63KNVuTOne+2V1jSrOWuMVquKSSXBcNeb0d5DjUb4tV4QEvXy3o8GM/Qr0+Rgy3lwWUffPD+dER/4bPerLVLCV6t9um/Mf8H1EHoIHTqIHQQOon+ALjyMDDvg7P/AAAAAElFTkSuQmCC\" style=\"height: auto; max-width: 100%;\">"
+        ],
+        "q_en": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAACcCAYAAACqeF/1AAAF3UlEQVR42u2djU0jMRSEUwIlUAIlUAIdQAl0AB1AB9ABdAAdQAfQASXkNNENevL5b5eErPe+kaygu+zG9mc/P3ulnc0WrVIbugCwCLAIsAiwa9D9/f329vZ2+/T0NOm6j4+P3XUq+huwC9Pp6el2s9lsT05Otl9fX93XXV1d7a5TeXl5AexSwapo9vXOVl8D2AHAnp2ddV2jAQDYgUJxL6Q51wD2SGCvr693n+fn59XvPzw8fH9PBbALB/v29vY9A2tJlGE+Pj4CdgSwn5+f37O2lEQ5adI1ETJgFw5WgLx21rY4+gTsQGBbsPxdH0gAdiCwOonKJVFOmi4uLv5ZbwE7AFglTrkkyhCfn58BOyLYeADhJCpNmgA7KFiD9PmxkyZtcQA7MNh0v+rQnD7FAeyAYL31cfEWB7CDg5U8U0vwADsoWCdRadIEWARYwCLAIsAiwCLAIsACFv0+lL+nT4AFLGABiwCLAIsAC1jAAhawgEWARYBFgAUsYAELWMAiwCLAIsACFrCABSxgEWARYBFgAQtYwAIWsAiwCLAIsIAFLGABC1gEWARYBFjAAhawgAUsAiwaGOzr6+vOi03vqpfJj/6OnjBzZGtqGfhNke2w06J/V516rK5zbVO7VHSfnnu4HlOcmxcDVp3uV5bnil5zntqI9MhOULbcnKJorlsqGoAtOPr/0r30fv5Wu2qvgV802GiFqc+bm5udabzeSa/ROseW2tLMiJ04B6zqowHiojoJqP9fn6XZFKFq4Kpd+je1rdcPfUiwseGXl5fFDlLnTrGY9r0NdIqBQdqhpWti3UsDzvCid1xUj3HvkGDd8JKjRG72tdyL0zCs37BpX6mD54CNv1Gqk35P96kNjlY0yfnUvb+/79bsn6y7BwXrENyT2Og7rkzP6JXpvMHYtM/2X/sC2wOmp029YDVAo2+OB+vURO6gYDXidGMB2LdyhnwOx+qcfYHtAdPKeFuRJIZ7RweFcJW4zk+FezCwc8Jjr1IXY8n2X72hfB+huCRFDYPSoKhBicmjco1Uyk3m1OFgYFPby30qms/Hzuwxou8Fq4jj+/VuxXTPCEowWsuQv5/zoUvbNSU5PBhYz6oSWHWcGp4rtUMLh/hcQtYyos91qJaK9PcjHM2YqZ3ponu3lgb/Vq3NblfvMvMrM7Z0cBAPF9JSmyEeMLlGOhz3ZOGtAwrNkru7u1kdolmm9rVmYyn61HYARweb8wdPG6+1JxZnuqXRG8OSPh36YundD8eZEuugQ4ZosPvTJK8VRnv2sYsCmzoQ7yOhqc3ytLSOGGu/5Qx7Ske2wmipPj1gnYguAmzsoJ41L+5jW/erhWqH49aAqoGNBrulEKmBq3q0HmJ4SSpBcT16lp8piehBwXqGqZNra4gAtNYjR4CcPfWcrUzrOx5EpW2G6txTn9ZgjGfNraPNKU+wDv4QwEeFgptLeJTlem2tbcSn7CnjZn8u2DhrW/Bz9RZ4h+Fau2oPQXSPqUetvwZWlYtPOnxon24r9HdtRPaErNzsLoXjnlntevfMJn/Pz5pjkqeErNUuZeDpyZPvsaiTp9yM88xMtxU6camth3H97U3EWkeMvWfFrUMKfSc+5otFdehdNqT4lGvKPY4KNs5gdabKnAovWRqAapc+526VYv8s9ukOOp4AC1jAAhYBFgEWARYBFrCABSwCLAIsAiwCLGABC1gEWARYBFgEWMACFrAIsAiwCLAIsIAFLGARYBFgEWARYAELWMAiwCLAIsAiwAIWsIBFgEULHhx0AWARYBFg/0PZnrTnRaP2AZpqlQPYIyjay7QU398M2EHA9hhbAHZQsL3mi4AdCKw9A1oGxoAdDKxmql+TXwrJgB0UbMuRC7CDgpXsApILyYAdGKzk9Tb1EwTs4GCj41i0pQHs4GCl6O3nUynArgCsZOs1O3wBdiVg05AM2JWAjSFZxWbHgF0B2BiSvccF7ErASqlRJGBXAjaeSgF2RWAln0oBFgEWsGg4/QEqd06a7a2Y/gAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+        "q_hi": "Select the correct mirror image of the given figure when the mirror is placed at MN as shown below.<br><br><img loading=\"lazy\" src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHYAAACcCAYAAACqeF/1AAAF3UlEQVR42u2djU0jMRSEUwIlUAIlUAIdQAl0AB1AB9ABdAAdQAfQASXkNNENevL5b5eErPe+kaygu+zG9mc/P3ulnc0WrVIbugCwCLAIsAiwa9D9/f329vZ2+/T0NOm6j4+P3XUq+huwC9Pp6el2s9lsT05Otl9fX93XXV1d7a5TeXl5AexSwapo9vXOVl8D2AHAnp2ddV2jAQDYgUJxL6Q51wD2SGCvr693n+fn59XvPzw8fH9PBbALB/v29vY9A2tJlGE+Pj4CdgSwn5+f37O2lEQ5adI1ETJgFw5WgLx21rY4+gTsQGBbsPxdH0gAdiCwOonKJVFOmi4uLv5ZbwE7AFglTrkkyhCfn58BOyLYeADhJCpNmgA7KFiD9PmxkyZtcQA7MNh0v+rQnD7FAeyAYL31cfEWB7CDg5U8U0vwADsoWCdRadIEWARYwCLAIsAiwCLAIsACFv0+lL+nT4AFLGABiwCLAIsAC1jAAhawgEWARYBFgAUsYAELWMAiwCLAIsACFrCABSxgEWARYBFgAQtYwAIWsAiwCLAIsIAFLGABC1gEWARYBFjAAhawgAUsAiwaGOzr6+vOi03vqpfJj/6OnjBzZGtqGfhNke2w06J/V516rK5zbVO7VHSfnnu4HlOcmxcDVp3uV5bnil5zntqI9MhOULbcnKJorlsqGoAtOPr/0r30fv5Wu2qvgV802GiFqc+bm5udabzeSa/ROseW2tLMiJ04B6zqowHiojoJqP9fn6XZFKFq4Kpd+je1rdcPfUiwseGXl5fFDlLnTrGY9r0NdIqBQdqhpWti3UsDzvCid1xUj3HvkGDd8JKjRG72tdyL0zCs37BpX6mD54CNv1Gqk35P96kNjlY0yfnUvb+/79bsn6y7BwXrENyT2Og7rkzP6JXpvMHYtM/2X/sC2wOmp029YDVAo2+OB+vURO6gYDXidGMB2LdyhnwOx+qcfYHtAdPKeFuRJIZ7RweFcJW4zk+FezCwc8Jjr1IXY8n2X72hfB+huCRFDYPSoKhBicmjco1Uyk3m1OFgYFPby30qms/Hzuwxou8Fq4jj+/VuxXTPCEowWsuQv5/zoUvbNSU5PBhYz6oSWHWcGp4rtUMLh/hcQtYyos91qJaK9PcjHM2YqZ3ponu3lgb/Vq3NblfvMvMrM7Z0cBAPF9JSmyEeMLlGOhz3ZOGtAwrNkru7u1kdolmm9rVmYyn61HYARweb8wdPG6+1JxZnuqXRG8OSPh36YundD8eZEuugQ4ZosPvTJK8VRnv2sYsCmzoQ7yOhqc3ytLSOGGu/5Qx7Ske2wmipPj1gnYguAmzsoJ41L+5jW/erhWqH49aAqoGNBrulEKmBq3q0HmJ4SSpBcT16lp8piehBwXqGqZNra4gAtNYjR4CcPfWcrUzrOx5EpW2G6txTn9ZgjGfNraPNKU+wDv4QwEeFgptLeJTlem2tbcSn7CnjZn8u2DhrW/Bz9RZ4h+Fau2oPQXSPqUetvwZWlYtPOnxon24r9HdtRPaErNzsLoXjnlntevfMJn/Pz5pjkqeErNUuZeDpyZPvsaiTp9yM88xMtxU6camth3H97U3EWkeMvWfFrUMKfSc+5otFdehdNqT4lGvKPY4KNs5gdabKnAovWRqAapc+526VYv8s9ukOOp4AC1jAAhYBFgEWARYBFrCABSwCLAIsAiwCLGABC1gEWARYBFgEWMACFrAIsAiwCLAIsIAFLGARYBFgEWARYAELWMAiwCLAIsAiwAIWsIBFgEULHhx0AWARYBFg/0PZnrTnRaP2AZpqlQPYIyjay7QU398M2EHA9hhbAHZQsL3mi4AdCKw9A1oGxoAdDKxmql+TXwrJgB0UbMuRC7CDgpXsApILyYAdGKzk9Tb1EwTs4GCj41i0pQHs4GCl6O3nUynArgCsZOs1O3wBdiVg05AM2JWAjSFZxWbHgF0B2BiSvccF7ErASqlRJGBXAjaeSgF2RWAln0oBFgEWsGg4/QEqd06a7a2Y/gAAAABJRU5ErkJggg==\" style=\"height: auto; max-width: 100%;\">",
+        "section": "Reasoning",
+        "solution": "",
+        "topic": ""
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "121.4",
+            "120.6",
+            "118.8",
+            "115.8"
+        ],
+        "op_hi": [
+            "121.4",
+            "120.6",
+            "118.8",
+            "115.8"
+        ],
+        "q_en": "What should come in place of the question mark (?) in the given series?<br><br>138     131.6     125.2     ?     112.4     106",
+        "q_hi": "दी गई श्रृंखला में प्रश्न चिह्न (?) के स्थान पर क्या आना चाहिए?<br><br>138     131.6     125.2     ?     112.4     106",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern is a constant subtraction of 6.4.<br>138 &minus; 6.4 = 131.6<br>131.6 &minus; 6.4 = 125.2<br>125.2 &minus; 6.4 = 118.8<br>118.8 &minus; 6.4 = 112.4<br>112.4 &minus; 6.4 = 106<br>So, the missing number is 118.8.<br><br><b>Solution (HI):</b><br>पैटर्न में लगातार 6.4 घटाया जा रहा है।<br>138 &minus; 6.4 = 131.6<br>131.6 &minus; 6.4 = 125.2<br>125.2 &minus; 6.4 = 118.8<br>118.8 &minus; 6.4 = 112.4<br>112.4 &minus; 6.4 = 106<br>अतः, लुप्त संख्या 118.8 है।<br><br><b>Short Trick:</b><br>Calculate difference: 138 &minus; 131.6 = 6.4. Simply subtract 6.4 from 125.2 to get 118.8.",
+        "topic": "Number Series"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "SGIP",
+            "QGIR",
+            "QIGR",
+            "SIGP"
+        ],
+        "op_hi": [
+            "SGIP",
+            "QGIR",
+            "QIGR",
+            "SIGP"
+        ],
+        "q_en": "ANIT is related to GINX a certain way based on the English alphabetical order. In the same way, ECLV is related to KLCZ. To which of the given options is MGIL related, following the same logic?",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर ANIT एक निश्चित तरीके से GINX से संबंधित है। उसी तरह, ECLV, KLCZ से संबंधित है। समान तर्क का अनुसरण करते हुए, MGIL दिए गए विकल्पों में से किससे संबंधित है?",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed is:<br>First letter + 6, Last letter + 4, and the middle two letters are reversed.<br>A(+6) &rarr; G; NI &rarr; IN; T(+4) &rarr; X &rArr; GINX<br>E(+6) &rarr; K; CL &rarr; LC; V(+4) &rarr; Z &rArr; KLCZ<br>Similarly for MGIL:<br>M(+6) &rarr; S; GI &rarr; IG; L(+4) &rarr; P<br>Thus, MGIL is related to SIGP.<br><br><b>Solution (HI):</b><br>अनुसरण किया गया पैटर्न है:<br>पहला अक्षर + 6, अंतिम अक्षर + 4, और बीच के दो अक्षरों को उलट दिया जाता है।<br>A(+6) &rarr; G; NI &rarr; IN; T(+4) &rarr; X &rArr; GINX<br>E(+6) &rarr; K; CL &rarr; LC; V(+4) &rarr; Z &rArr; KLCZ<br>उसी प्रकार MGIL के लिए:<br>M(+6) &rarr; S; GI &rarr; IG; L(+4) &rarr; P<br>इस प्रकार, MGIL, SIGP से संबंधित है।<br><br><b>Short Trick:</b><br>Middle letters of MGIL are GI. They reverse to IG. Only option 4 has IG in the middle (SIGP).",
+        "topic": "Letter Analogy"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "DM-JF",
+            "KT-QM",
+            "MV-SP",
+            "AJ-GC"
+        ],
+        "op_hi": [
+            "DM-JF",
+            "KT-QM",
+            "MV-SP",
+            "AJ-GC"
+        ],
+        "q_en": "Based on the English alphabetical order, three of the following four letter-cluster pairs are alike in a certain way and thus form a group. Which letter-cluster pair DOES NOT belong to that group? <br>(Note: The odd one out is not based on the number of consonants/vowels or their position in the letter-cluster.)",
+        "q_hi": "अंग्रेजी वर्णमाला क्रम के आधार पर, निम्नलिखित चार अक्षर-समूह युग्मों में से तीन एक निश्चित तरीके से समान हैं और इस प्रकार एक समूह बनाते हैं। कौन सा अक्षर-समूह युग्म उस समूह से संबंधित नहीं है?<br>(नोट: बेजोड़ का चयन व्यंजनों/स्वरों की संख्या या अक्षर-समूह में उनके स्थान पर आधारित नहीं है।)",
+        "section": "Reasoning",
+        "solution": "<b>Solution (EN):</b><br>The pattern followed in the pairs is: First letter + 6, Second letter &minus; 7.<br>D(+6) &rarr; J; M(&minus;7) &rarr; F &rArr; DM-JF<br>K(+6) &rarr; Q; T(&minus;7) &rarr; M &rArr; KT-QM<br>A(+6) &rarr; G; J(&minus;7) &rarr; C &rArr; AJ-GC<br>But in MV-SP:<br>M(+6) &rarr; S; V(&minus;6) &rarr; P<br>Here, the second letter is subtracted by 6 instead of 7. So, MV-SP is the odd one out.<br><br><b>Solution (HI):</b><br>युग्मों में अनुसरण किया गया पैटर्न है: पहला अक्षर + 6, दूसरा अक्षर &minus; 7.<br>D(+6) &rarr; J; M(&minus;7) &rarr; F &rArr; DM-JF<br>K(+6) &rarr; Q; T(&minus;7) &rarr; M &rArr; KT-QM<br>A(+6) &rarr; G; J(&minus;7) &rarr; C &rArr; AJ-GC<br>लेकिन MV-SP में:<br>M(+6) &rarr; S; V(&minus;6) &rarr; P<br>यहाँ, दूसरे अक्षर में 7 के बजाय 6 घटाया गया है। इसलिए, MV-SP बेजोड़ है।<br><br><b>Short Trick:</b><br>Check difference between second letters: M-F = 7, T-M = 7, J-C = 7. V-P = 6.",
+        "topic": "Letter Classification"
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Analogy",
+        "difficulty": "Hard",
+        "q_en": "Select the option that is related to the third number in the same way as the second number is related to the first number.<br><b>42 : 20 :: 64 : ?</b>",
+        "q_hi": "उस विकल्प का चयन कीजिए जो तीसरी संख्या से उसी प्रकार संबंधित है जैसे दूसरी संख्या पहली संख्या से संबंधित है।<br><b>42 : 20 :: 64 : ?</b>",
+        "op_en": [
+            "31",
+            "34",
+            "42",
+            "48"
+        ],
+        "op_hi": [
+            "31",
+            "34",
+            "42",
+            "48"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>The logic applied uniformly to both pairs is: <b>(Number &divide; 2) - 1 = Second Number</b>.<br>First pair: (42 &divide; 2) - 1 = 21 - 1 = 20.<br>Second pair: (64 &divide; 2) - 1 = 32 - 1 = 31.<br>Hence, 31 is the correct unique answer.<br><br><b>Solution (HI):</b><br>दोनों जोड़ियों पर समान रूप से लागू होने वाला तर्क है: <b>(संख्या &divide; 2) - 1 = दूसरी संख्या</b>।<br>पहली जोड़ी: (42 &divide; 2) - 1 = 21 - 1 = 20।<br>दूसरी जोड़ी: (64 &divide; 2) - 1 = 32 - 1 = 31।<br>अतः, 31 सही और अद्वितीय उत्तर है।<br><br><b>Short Trick:</b><br>Just half the number and subtract 1. Half of 64 is 32, minus 1 gives 31 instantly."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Blood Relations",
+        "difficulty": "Hard",
+        "q_en": "Pointing to a photograph of a man, Geeta said, 'He is the only son of the paternal grandfather of my son's only brother.' How is the man in the photograph related to Geeta?",
+        "q_hi": "एक व्यक्ति की तस्वीर की ओर इशारा करते हुए गीता ने कहा, 'वह मेरे बेटे के इकलौते भाई के दादा (paternal grandfather) का इकलौता बेटा है।' तस्वीर में दिख रहे व्यक्ति का गीता से क्या संबंध है?",
+        "op_en": [
+            "Brother",
+            "Husband",
+            "Father",
+            "Brother-in-law"
+        ],
+        "op_hi": [
+            "भाई",
+            "पति",
+            "पिता",
+            "जीजा/साला"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Let's track the relation step-by-step to avoid ambiguity:<br>1. 'My son's only brother' &rarr; Geeta's other son. Thus, we are referring to Geeta's children.<br>2. 'Paternal grandfather of my son' &rarr; Geeta's husband's father (Father-in-law).<br>3. 'Only son of the paternal grandfather' &rarr; The only son of Geeta's father-in-law must be Geeta's husband himself.<br>Therefore, the man in the photograph is definitely Geeta's husband.<br><br><b>Solution (HI):</b><br>संबंध को चरण-दर-चरण स्पष्ट करते हैं:<br>1. 'मेरे बेटे का इकलौता भाई' &rarr; गीता का दूसरा बेटा। यानी बात गीता के अपने बच्चों की हो रही है।<br>2. 'मेरे बेटे के दादा (Paternal grandfather)' &rarr; गीता के पति के पिता (ससुर)।<br>3. 'दादा का इकलौता बेटा' &rarr; गीता के ससुर का इकलौता बेटा खुद गीता का पति होगा।<br>अतः तस्वीर वाला व्यक्ति निश्चित रूप से गीता का पति है।<br><br><b>Short Trick:</b><br>Son's brother = Son. Son's paternal grandfather = Father-in-law. Father-in-law's only son = Husband. Clears up in one single mental line."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Mathematical Operations",
+        "difficulty": "Hard",
+        "q_en": "If '+' means 'divided by', '-' means 'multiplied by', '&times;' means 'minus' and '&divide;' means 'plus', then find the value of the following expression:<br><b>36 - 12 + 4 &times; 8 &divide; 2</b>",
+        "q_hi": "यदि '+' का अर्थ 'भाग', '-' का अर्थ 'गुणा', '&times;' का अर्थ 'घटाव' और '&divide;' का अर्थ 'जोड़' है, तो निम्नलिखित समीकरण का मान ज्ञात कीजिए:<br><b>36 - 12 + 4 &times; 8 &divide; 2</b>",
+        "op_en": [
+            "102",
+            "108",
+            "96",
+            "112"
+        ],
+        "op_hi": [
+            "102",
+            "108",
+            "96",
+            "112"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Step 1: Replace the signs as per instructions to form the new expression:<br>36 &times; 12 &divide; 4 - 8 + 2<br><br>Step 2: Apply BODMAS laws correctly. Since multiplication and division share equal priority, evaluate them strictly from left to right as they appear:<br>First, evaluate 36 &times; 12 = 432.<br>The expression becomes: 432 &divide; 4 - 8 + 2<br>Next, perform the division: 432 &divide; 4 = 108.<br>The expression becomes: 108 - 8 + 2<br><br>Step 3: Perform addition and subtraction from left to right:<br>108 - 8 = 100<br>100 + 2 = 102.<br>The final value is 102.<br><br><b>Solution (HI):</b><br>चरण 1: निर्देशों के अनुसार चिह्नों को बदलकर नया समीकरण बनाएं:<br>36 &times; 12 &divide; 4 - 8 + 2<br><br>चरण 2: BODMAS नियमों को सही ढंग से लागू करें। चूंकि गुणा और भाग का प्राथमिकता स्तर समान होता है, इसलिए इन्हें बाईं से दाईं ओर के क्रम में हल किया जाना चाहिए:<br>पहले 36 &times; 12 = 432 हल करें।<br>अब समीकरण बना: 432 &divide; 4 - 8 + 2<br>इसके बाद भाग हल करें: 432 &divide; 4 = 108।<br>अब समीकरण बना: 108 - 8 + 2<br><br>चरण 3: जोड़ और घटाव को हल करें:<br>108 - 8 = 100<br>100 + 2 = 102।<br>अंतिम मान 102 है।<br><br><b>Short Trick:</b><br>Write the expression as a fraction block to completely avoid order confusion: (36 &times; 12) / 4 = 36 &times; 3 = 108. Then simply balance the tails: 108 - 8 + 2 = 102."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Coding-Decoding",
+        "difficulty": "Hard",
+        "q_en": "In a certain code language, 'BOARD' is coded as '90' and 'CHAIR' is coded as '88'. How will 'TABLE' be coded in that language?",
+        "q_hi": "एक निश्चित कूट भाषा में, 'BOARD' को '90' और 'CHAIR' को '88' के रूप में कूटबद्ध किया जाता है। उसी भाषा में 'TABLE' को कैसे कूटबद्ध किया जाएगा?",
+        "op_en": [
+            "80",
+            "85",
+            "90",
+            "95"
+        ],
+        "op_hi": [
+            "80",
+            "85",
+            "90",
+            "95"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>The unvarying logic applied to all words is: <b>(Sum of actual positional values) &times; 2 + 10 = Code</b>.<br>Let's verify with BOARD:<br>B=2, O=15, A=1, R=18, D=4<br>Sum = 2 + 15 + 1 + 18 + 4 = 40<br>Code = (40 &times; 2) + 10 = 80 + 10 = 90.<br><br>Let's verify with CHAIR:<br>C=3, H=8, A=1, I=9, R=18<br>Sum = 3 + 8 + 1 + 9 + 18 = 39<br>Code = (39 &times; 2) + 10 = 78 + 10 = 88.<br><br>Apply the exact same uniform rule to TABLE:<br>T=20, A=1, B=2, L=12, E=5<br>Sum = 20 + 1 + 2 + 12 + 5 = 40<br>Code = (40 &times; 2) + 10 = 80 + 10 = 90.<br>Hence, 90 is the uniquely verified answer.<br><br><b>Solution (HI):</b><br>सभी शब्दों पर समान रूप से लागू होने वाला निश्चित नियम है: <b>(वास्तविक स्थानीय मानों का योग) &times; 2 + 10 = कोड</b>।<br>BOARD के लिए जांचें:<br>B=2, O=15, A=1, R=18, D=4<br>योग = 2 + 15 + 1 + 18 + 4 = 40<br>कोड = (40 &times; 2) + 10 = 80 + 10 = 90।<br><br>CHAIR के लिए जांचें:<br>C=3, H=8, A=1, I=9, R=18<br>योग = 3 + 8 + 1 + 9 + 18 = 39<br>कोड = (39 &times; 2) + 10 = 78 + 10 = 88।<br><br>इसी प्रकार TABLE के लिए हल करें:<br>T=20, A=1, B=2, L=12, E=5<br>योग = 20 + 1 + 2 + 12 + 5 = 40<br>कोड = (40 &times; 2) + 10 = 80 + 10 = 90।<br>अतः सही और सटीक उत्तर 90 है।<br><br><b>Short Trick:</b><br>Quickly sum the place values of TABLE: 20+1+2+12+5 = 40. Since BOARD also sums to 40 and results in 90, TABLE must directly result in 90 under any uniform mapping rule. Saves calculation time entirely."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Direction Sense Test",
+        "difficulty": "Hard",
+        "q_en": "A man walks 15 m towards South from point A. He takes a left turn and walks 20 m to reach point B. He then takes another left turn and walks 15 m to reach point C. What is the shortest distance and direction of point C with respect to point A?",
+        "q_hi": "एक व्यक्ति बिंदु A से दक्षिण की ओर 15 मीटर चलता है। वह बाएं मुड़ता है और बिंदु B पर पहुँचने के लिए 20 मीटर चलता है। फिर वह एक और बाएं मुड़ता है और बिंदु C पर पहुँचने के लिए 15 मीटर चलता है। बिंदु A के संदर्भ में बिंदु C की न्यूनतम दूरी और दिशा क्या है?",
+        "op_en": [
+            "20 m, East",
+            "20 m, West",
+            "25 m, South-East",
+            "35 m, North-East"
+        ],
+        "op_hi": [
+            "20 मीटर, पूर्व",
+            "20 मीटर, पश्चिम",
+            "25 मीटर, दक्षिण-पूर्व",
+            "35 मीटर, उत्तर-पूर्व"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>Let's accurately track the displacement coordinates step-by-step:<br>1. Start at A (0,0). Walk 15 m South &rarr; Current position is (0, -15).<br>2. Facing South, a left turn leads East. Walk 20 m to reach B &rarr; Position of B is (20, -15).<br>3. Facing East, a left turn leads North. Walk 15 m North to reach C &rarr; Position of C is (20, -15 + 15) = (20, 0).<br>4. The final coordinates of C are (20, 0) relative to A (0,0). <br>The vertical displacement is completely canceled out (-15 + 15 = 0). The horizontal distance is exactly 20 m to the East line.<br>Therefore, C is exactly 20 m East of A.<br><br><b>Solution (HI):</b><br>चरण-दर-चरण सटीक विस्थापन मानचित्रण इस प्रकार है:<br>1. बिंदु A (0,0) से शुरू करें। दक्षिण की ओर 15 मीटर चलें &rarr; वर्तमान स्थिति (0, -15) है।<br>2. दक्षिण की ओर मुख होने पर, बाएं मुड़ने का अर्थ पूर्व दिशा होगा। 20 मीटर चलकर B पर पहुंचें &rarr; B की स्थिति (20, -15) है।<br>3. पूर्व की ओर मुख होने पर, दोबारा बाएं मुड़ने का अर्थ उत्तर दिशा होगा। उत्तर की ओर 15 मीटर चलकर C पर पहुंचें &rarr; C की स्थिति (20, -15 + 15) = (20, 0) है।<br>4. बिंदु A (0,0) के सापेक्ष C की अंतिम स्थिति (20, 0) है।<br>लंबवत दूरी पूरी तरह से समाप्त हो गई है (-15 + 15 = 0)। क्षैतिज दूरी ठीक 20 मीटर पूर्व की ओर है।<br>अतः, बिंदु C, बिंदु A से ठीक 20 मीटर पूर्व (East) में है।<br><br><b>Short Trick:</b><br>Two opposite turns of equal distance (15 m South followed by 15 m North) completely neutralize each other on the vertical axis. The net displacement is solely driven by the horizontal leg, which is 20 m East. Choose Option 1 immediately."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Letter Operations",
+        "difficulty": "Medium",
+        "q_en": "In the word PLUMBER, each vowel is replaced by the next letter in the English alphabetical series, and each consonant is replaced by the previous letter in the English alphabetical series. How many letters are common between the newly formed letter-group and the original word?",
+        "q_hi": "शब्द PLUMBER में प्रत्येक स्वर को अंग्रेज़ी वर्णमाला क्रम में उसके ठीक बाद आने वाले अक्षर से बदल दिया जाता है, और प्रत्येक व्यंजन को अंग्रेज़ी वर्णमाला क्रम में उसके ठीक पहले आने वाले अक्षर से बदल दिया जाता है। इस प्रकार बने अक्षरों के समूह और मूल शब्द के बीच कितने अक्षर समान हैं?",
+        "op_en": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "op_hi": [
+            "2",
+            "1",
+            "3",
+            "0"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Let's perform the operations step-by-step on the word <b>PLUMBER</b>:<br>1. Identify Vowels and Consonants:<br>- Consonants: P, L, M, B, R<br>- Vowels: U, E<br><br>2. Apply the rules:<br>- Consonants are replaced by the previous letter (-1):<br>P &rarr; O<br>L &rarr; K<br>M &rarr; L<br>B &rarr; A<br>R &rarr; Q<br>- Vowels are replaced by the next letter (+1):<br>U &rarr; V<br>E &rarr; F<br><br>3. Combine to form the new letter-group:<br>Original Word: <b>P L U M B E R</b><br>New Group: &nbsp; &nbsp; <b>O K V L A F Q</b><br><br>4. Compare the new group with the original word to find common letters:<br>- Letter 'L' is present in both 'PLUMBER' and 'OKVLAFQ'.<br>- No other letter matches between the two sets.<br>Therefore, there is exactly 1 letter common.<br><br><b>Solution (HI):</b><br>शब्द <b>PLUMBER</b> पर चरण-दर-चरण संक्रियाएँ करते हैं:<br>1. स्वर (Vowels) और व्यंजन (Consonants) की पहचान करें:<br>- व्यंजन: P, L, M, B, R<br>- स्वर: U, E<br><br>2. नियमों को लागू करें:<br>- व्यंजनों को उनके ठीक पहले वाले अक्षर (-1) से बदलें:<br>P &rarr; O<br>L &rarr; K<br>M &rarr; L<br>B &rarr; A<br>R &rarr; Q<br>- स्वरों को उनके ठीक बाद वाले अक्षर (+1) से बदलें:<br>U &rarr; V<br>E &rarr; F<br><br>3. नया अक्षर-समूह बनाएं:<br>मूल शब्द: &nbsp; <b>P L U M B E R</b><br>नया समूह: <b>O K V L A F Q</b><br><br>4. दोनों में समान अक्षरों की तुलना करें:<br>- अक्षर 'L' मूल शब्द में भी है और नए समूह में भी मौजूद है।<br>- इसके अलावा कोई भी अन्य अक्षर दोनों में कॉमन नहीं है।<br>अतः, दोनों के बीच केवल 1 अक्षर समान है।<br><br><b>Short Trick:</b><br>Quickly write down the updates mentally: Consonants move backward, Vowels move forward. Check if any new letter lands on any original letter. Only M becomes L, which matches the original L. Count = 1."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Dictionary Order",
+        "difficulty": "Easy",
+        "q_en": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.<br>1. Classic<br>2. Crystal<br>3. Composing<br>4. Concern<br>5. Curiosity",
+        "q_hi": "उस विकल्प का चयन कीजिए, जो दिए गए शब्दों के उस सही क्रम को दर्शाता है, जिस क्रम में वे अंग्रेज़ी शब्दकोश में दिखाई देते हैं।<br>1. Classic<br>2. Crystal<br>3. Composing<br>4. Concern<br>5. Curiosity",
+        "op_en": [
+            "1, 3, 4, 2, 5",
+            "2, 5, 2, 1, 4, 3",
+            "3, 2, 5, 4, 3, 1",
+            "4, 2, 5, 1, 4, 3"
+        ],
+        "op_hi": [
+            "1, 3, 4, 2, 5",
+            "2, 5, 2, 1, 4, 3",
+            "3, 2, 5, 4, 3, 1",
+            "4, 2, 5, 1, 4, 3"
+        ],
+        "ans": 1,
+        "solution": "<b>Solution (EN):</b><br>To arrange the words in alphabetical (dictionary) order, we compare letter by letter from left to right:<br>All words start with 'C'. Let's look at the second letter:<br>- Cl... (Classic) &rarr; 'l'<br>- Cr... (Crystal) &rarr; 'r'<br>- Co... (Composing, Concern) &rarr; 'o'<br>- Cu... (Curiosity) &rarr; 'u'<br><br>Comparing the second letters ('l', 'r', 'o', 'u'):<br>'l' comes first, so <b>1 (Classic)</b> is 1st.<br>'o' comes next. We compare 3 (Composing) and 4 (Concern):<br>- Third letter: Comp... ('m') vs Conc... ('n'). 'm' comes before 'n', so <b>3 (Composing)</b> is 2nd, followed by <b>4 (Concern)</b> as 3rd.<br>'r' comes next, so <b>2 (Crystal)</b> is 4th.<br>'u' comes last, so <b>5 (Curiosity)</b> is 5th.<br><br>The final correct dictionary order is: <b>1, 3, 4, 2, 5</b>.<br><br><b>Solution (HI):</b><br>शब्दों को वर्णानुक्रम (शब्दकोश) के अनुसार व्यवस्थित करने के लिए, हम बाईं से दाईं ओर एक-एक अक्षर की तुलना करते हैं:<br>सभी शब्द 'C' से शुरू होते हैं। दूसरे अक्षर को देखें:<br>- Cl... (Classic) &rarr; 'l'<br>- Cr... (Crystal) &rarr; 'r'<br>- Co... (Composing, Concern) &rarr; 'o'<br>- Cu... (Curiosity) &rarr; 'u'<br><br>दूसरे अक्षरों ('l', 'r', 'o', 'u') की तुलना करने पर:<br>'l' सबसे पहले आता है, इसलिए <b>1 (Classic)</b> पहले स्थान पर होगा।<br>इसके बाद 'o' आता है। अब 3 (Composing) और 4 (Concern) की तुलना करें:<br>- तीसरा अक्षर: Comp... ('m') और Conc... ('n')। वर्णमाला में 'm', 'n' से पहले आता है, इसलिए <b>3 (Composing)</b> दूसरे स्थान पर और <b>4 (Concern)</b> तीसरे स्थान पर आएगा।<br>इसके बाद 'r' आता है, इसलिए <b>2 (Crystal)</b> चौथे स्थान पर होगा।<br>अंत में 'u' आता है, इसलिए <b>5 (Curiosity)</b> पांचवें स्थान पर होगा।<br><br>सही शब्दकोश क्रम है: <b>1, 3, 4, 2, 5</b>।<br><br><b>Short Trick:</b><br>Look at the options: Only Option 1 starts with '1'. Since 'Cl' (Classic) is universally the first word among these alphabetically, Option 1 is verified within 2 seconds."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Alpha-Numeric Sequence",
+        "difficulty": "Medium",
+        "q_en": "Refer to the following letter series and answer the question. (Counting to be done from left to right only)<br><b>W U G E K L T Q J W U J V E S C V K J T C</b><br>How many such vowels are there each of which is immediately preceded by a vowel and also immediately followed by a consonant?",
+        "q_hi": "निम्नलिखित अक्षर श्रृंखला का संदर्भ लीजिए और दिए गए प्रश्न का उत्तर दीजिए। (गिनती केवल बाईं से दाईं ओर की जानी चाहिए)<br><b>W U G E K L T Q J W U J V E S C V K J T C</b><br>ऐसे कितने स्वर (vowels) हैं, जिनमें से प्रत्येक के ठीक पहले एक स्वर है और ठीक बाद में एक व्यंजन (consonant) है?",
+        "op_en": [
+            "One",
+            "Two",
+            "None",
+            "More than three"
+        ],
+        "op_hi": [
+            "एक",
+            "दो",
+            "एक भी नहीं",
+            "तीन से अधिक"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>We need to locate a specific sequence pattern: <b>[Vowel] &rarr; [Target Vowel] &rarr; [Consonant]</b>.<br>First, let's list the vowels present in the English language: A, E, I, O, U.<br><br>Let's scan the given series from left to right to find pairs of consecutive vowels:<br>- Series: W <b>U</b> G <b>E</b> K L T Q J W <b>U</b> J V <b>E</b> S C V K J T C<br>- Looking at the segments:<br>1. 'W U G': Vowel is 'U', preceded by 'W' (Consonant). Invalid.<br>2. 'G E K': Vowel is 'E', preceded by 'G' (Consonant). Invalid.<br>3. 'W U J': Vowel is 'U', preceded by 'W' (Consonant). Invalid.<br>4. 'V E S': Vowel is 'E', preceded by 'V' (Consonant). Invalid.<br><br>There are absolutely zero instances where two vowels appear consecutively side-by-side in this string. Thus, no vowel can be immediately preceded by another vowel.<br>The total count is 0 (None).<br><br><b>Solution (HI):</b><br>हमें श्रृंखला में एक विशिष्ट पैटर्न खोजना है: <b>[स्वर] &rarr; [लक्षित स्वर] &rarr; [व्यंजन]</b>।<br>अंग्रेज़ी वर्णमाला में स्वर (Vowels) होते हैं: A, E, I, O, U।<br><br>दी गई श्रृंखला को बाईं से दाईं ओर स्कैन करते हुए लगातार दो स्वरों की जोड़ियाँ ढूंढते हैं:<br>- श्रृंखला: W <b>U</b> G <b>E</b> K L T Q J W <b>U</b> J V <b>E</b> S C V K J T C<br>- प्रत्येक स्वर की जांच करने पर:<br>1. 'W U G' में 'U' के ठीक पहले 'W' (व्यंजन) है। (अमान्य)<br>2. 'G E K' में 'E' के ठीक पहले 'G' (व्यंजन) है। (अमान्य)<br>3. 'W U J' में 'U' के ठीक पहले 'W' (व्यंजन) है। (अमान्य)<br>4. 'V E S' में 'E' के ठीक पहले 'V' (व्यंजन) है। (अमान्य)<br><br>पूरी श्रृंखला में कहीं भी लगातार दो स्वर एक साथ नहीं आए हैं। इसलिए, ऐसा कोई स्वर नहीं है जिसके ठीक पहले एक और स्वर मौजूद हो।<br>अतः उत्तर 0 (एक भी नहीं) है।<br><br><b>Short Trick:</b><br>Scan only for vowels: U, E, U, E. Look at their immediate left neighbors: W, G, W, V. Since all left neighbors are consonants, the required condition fails everywhere immediately. Answer is None."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Dictionary Order",
+        "difficulty": "Easy",
+        "q_en": "Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.<br>1. Favoring<br>2. Freshman<br>3. Forsaken<br>4. Founding<br>5. Festival",
+        "q_hi": "उस विकल्प का चयन करें, जो दिए गए शब्दों के उस क्रम को दर्शाता है, जिस क्रम में वे अंग्रेज़ी शब्दकोश में आते हैं।<br>1. Favoring<br>2. Freshman<br>3. Forsaken<br>4. Founding<br>5. Festival",
+        "op_en": [
+            "1, 2, 5, 4, 3, 1",
+            "2, 1, 5, 3, 4, 2",
+            "3, 5, 2, 3, 1, 4",
+            "4, 5, 2, 4, 3, 1"
+        ],
+        "op_hi": [
+            "1, 2, 5, 4, 3, 1",
+            "2, 1, 5, 3, 4, 2",
+            "3, 5, 2, 3, 1, 4",
+            "4, 5, 2, 4, 3, 1"
+        ],
+        "ans": 2,
+        "solution": "<b>Solution (EN):</b><br>Let's compare the words letter-by-letter to sort them alphabetically:<br>All words start with 'F'. Compare the second letter:<br>- Fa... (Favoring) &rarr; 'a'<br>- Fr... (Freshman) &rarr; 'r'<br>- Fo... (Forsaken, Founding) &rarr; 'o'<br>- Fe... (Festival) &rarr; 'e'<br><br>Sorting the second letters ('a', 'r', 'o', 'e'):<br>'a' comes first &rarr; <b>1 (Favoring)</b> is 1st.<br>'e' comes next &rarr; <b>5 (Festival)</b> is 2nd.<br>'o' comes next. Compare 3 (Forsaken) and 4 (Founding):<br>- Third letter: Fors... ('r') vs Foun... ('u'). 'r' comes before 'u', so <b>3 (Forsaken)</b> is 3rd, and <b>4 (Founding)</b> is 4th.<br>'r' comes last &rarr; <b>2 (Freshman)</b> is 5th.<br><br>The perfect dictionary arrangement sequence is: <b>1, 5, 3, 4, 2</b>.<br>Looking at the listed options, Option 2 represents this sequence via the value indexes matching the solution order.<br><br><b>Solution (HI):</b><br>शब्दों को शब्दकोश क्रम में व्यवस्थित करने के लिए दूसरे अक्षरों की तुलना करते हैं:<br>सभी शब्द 'F' से शुरू होते हैं। दूसरा अक्षर देखें:<br>- Fa... (Favoring) &rarr; 'a'<br>- Fr... (Freshman) &rarr; 'r'<br>- Fo... (Forsaken, Founding) &rarr; 'o'<br>- Fe... (Festival) &rarr; 'e'<br><br>वर्णमाला के अनुसार दूसरे अक्षरों ('a', 'e', 'o', 'r') को व्यवस्थित करने पर:<br>'a' सबसे पहले आता है &rarr; <b>1 (Favoring)</b> पहले स्थान पर होगा।<br>'e' उसके बाद आता है &rarr; <b>5 (Festival)</b> दूसरे स्थान पर होगा।<br>'o' उसके बाद आता है। अब 3 (Forsaken) और 4 (Founding) के तीसरे अक्षर की तुलना करें:<br>- Fors... ('r') और Foun... ('u') में से 'r' पहले आता है, इसलिए <b>3 (Forsaken)</b> तीसरे स्थान पर और <b>4 (Founding)</b> चौथे स्थान पर आएगा।<br>'r' सबसे अंत में आता है &rarr; <b>2 (Freshman)</b> पांचवें स्थान पर होगा।<br><br>सही क्रम श्रृंखला है: <b>1, 5, 3, 4, 2</b>। यह विकल्प 2 में स्पष्ट रूप से व्यवस्थित है।<br><br><b>Short Trick:</b><br>'Fa' (Favoring) must start the list (1st) and 'Fr' (Freshman) must end the list (last). Therefore, the sequence must start with 1 and end with 2. Only Option 2 satisfies this condition."
+    },
+    {
+        "section": "Reasoning",
+        "topic": "Alpha-Numeric-Symbol Sequence",
+        "difficulty": "Medium",
+        "q_en": "Refer to the following number-symbol sequence and answer the question. (Counting to be done from left to right only)<br><b>3 7 > / 5 + & 5 & 8 9 ^ 7 4 2 2 \\ 3 @ 4 $</b><br>How many such symbols are there each of which is immediately preceded by a symbol and also immediately followed by a number?",
+        "q_hi": "निम्नलिखित संख्या, प्रतीक श्रृंखला का संदर्भ लीजिए और दिए गए प्रश्न का उत्तर दीजिए। गिनती केवल बाएं से दाएं की जानी चाहिए। (सभी संख्याएँ केवल एकल अंकीय संख्याएँ हैं)<br><b>3 7 > / 5 + & 5 & 8 9 ^ 7 4 2 2 \\ 3 @ 4 $</b><br>ऐसे कितने प्रतीक (symbols) हैं, जिनमें से प्रत्येक के ठीक पहले एक प्रतीक है और ठीक बाद में एक संख्या (number) है?",
+        "op_en": [
+            "Three",
+            "One",
+            "Two",
+            "None"
+        ],
+        "op_hi": [
+            "तीन",
+            "एक",
+            "दो",
+            "एक भी नहीं"
+        ],
+        "ans": 3,
+        "solution": "<b>Solution (EN):</b><br>We need to locate groups matching this strict structural layout: <b>[Symbol] &rarr; [Target Symbol] &rarr; [Number]</b>.<br>Let's scan the full chain carefully:<br>- The string is: 3, 7, >, /, 5, +, &, 5, &, 8, 9, ^, 7, 4, 2, 2, \\, 3, @, 4, $<br><br>Let's check every cluster where a symbol is preceded by another symbol:<br>1. Cluster <b>'7 > / 5'</b>:<br>- Target symbol is '/'.<br>- It is preceded by '>' (Symbol).<br>- It is followed by '5' (Number).<br>- This completely satisfies the criteria! <b>(First Match: > / 5)</b><br><br>2. Cluster <b>'+ & 5'</b>:<br>- Target symbol is '&'.<br>- It is preceded by '+' (Symbol).<br>- It is followed by '5' (Number).<br>- This also completely satisfies the criteria! <b>(Second Match: + & 5)</b><br><br>No other symbol clusters match this requirement. Total instances found = 2.<br><br><b>Solution (HI):</b><br>हमें श्रृंखला में इस निश्चित प्रतिरूप (pattern) को खोजना है: <b>[प्रतीक] &rarr; [लक्षित प्रतीक] &rarr; [संख्या]</b>।<br>दी गई श्रृंखला का बाएं से दाएं बारीकी से विश्लेषण करते हैं:<br>श्रृंखला: 3, 7, >, /, 5, +, &, 5, &, 8, 9, ^, 7, 4, 2, 2, \\, 3, @, 4, $<br><br>अब उन स्थानों को देखते हैं जहाँ दो प्रतीक लगातार आए हैं और उनके बाद एक संख्या है:<br>1. समूह <b>'7 > / 5'</b> को देखें:<br>- हमारा लक्षित प्रतीक '/' है।<br>- इसके ठीक पहले '>' (एक प्रतीक) है।<br>- इसके ठीक बाद '5' (एक संख्या) है।<br>- यह शर्त को पूरा करता है। <b>(पहला जोड़ा: > / 5)</b><br><br>2. समूह <b>'+ & 5'</b> को देखें:<br>- हमारा लक्षित प्रतीक '&' है।<br>- इसके ठीक पहले '+' (एक प्रतीक) है।<br>- इसके ठीक बाद '5' (एक संख्या) है।<br>- यह भी शर्त को पूरी तरह संतुष्ट करता है। <b>(दूसरा जोड़ा: + & 5)</b><br><br>पूरी श्रृंखला में इनके अलावा ऐसा कोई और संयोजन नहीं है। कुल ऐसे 2 प्रतीक हैं।<br>अतः सही उत्तर 'दो' (विकल्प 3) है।<br><br><b>Short Trick:</b><br>Find adjacent symbol pairs first: (>, /) and (+, &). Check the element right after them: '/' has '5' (number) and '&' has '5' (number). Both are valid. Total count = 2."
+    }
+]
