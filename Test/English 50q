@@ -1,0 +1,1052 @@
+[
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "red",
+            "happily",
+            "surprising",
+            "quickly"
+        ],
+        "op_hi": [
+            "red",
+            "happily",
+            "surprising",
+            "quickly"
+        ],
+        "q_en": "Select the most appropriate adjective to fill in the blank.<br><br>She received a ____________ gift on her birthday.",
+        "q_hi": "Select the most appropriate adjective to fill in the blank.<br><br>She received a ____________ gift on her birthday.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. 'Surprising' is a present participle adjective that logically modifies the noun 'gift' based on the given answer key. 'Happily' and 'quickly' are adverbs, hence incorrect.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'Surprising' (आश्चर्यजनक) एक विशेषण (adjective) है जो संज्ञा 'gift' की विशेषता बताने के लिए प्रयुक्त हुआ है। 'Happily' और 'quickly' क्रियाविशेषण (adverbs) हैं, इसलिए वे गलत हैं।",
+        "topic": "Fill in the Blanks"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "No article required",
+            "an",
+            "the",
+            "a"
+        ],
+        "op_hi": [
+            "No article required",
+            "an",
+            "the",
+            "a"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>The story was very explicit, and it did not leave anything to _____ imagination.",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is required, select ‘No article required’.<br><br>The story was very explicit, and it did not leave anything to _____ imagination.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. The phrase 'leave something to the imagination' is a standard English idiom meaning to not fully disclose all details. Thus, the definite article 'the' is used.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। अंग्रेजी में 'leave something to the imagination' एक स्थापित मुहावरा (idiom) है, जिसका अर्थ होता है कि किसी चीज के सभी विवरण प्रकट न करना। इस मुहावरे के निश्चित रूप में आर्टिकल 'the' का प्रयोग अनिवार्य है।",
+        "topic": "Articles"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            ", (comma)",
+            "- (hyphen)",
+            ": (colon)",
+            "; (semi-colon)"
+        ],
+        "op_hi": [
+            ", (comma)",
+            "- (hyphen)",
+            ": (colon)",
+            "; (semi-colon)"
+        ],
+        "q_en": "Select the most appropriate punctuation mark to fill in the blank.<br><br>Slowly_____ she entered her mother’s room and sat on the cot.",
+        "q_hi": "Select the most appropriate punctuation mark to fill in the blank.<br><br>Slowly_____ she entered her mother’s room and sat on the cot.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. A comma is placed immediately after an introductory adverb (like 'Slowly') at the beginning of a sentence to mark a slight structural pause.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य के आरंभ में आने वाले परिचयात्मक क्रियाविशेषण (introductory adverb) जैसे 'Slowly' के ठीक बाद एक संक्षिप्त ठहराव या विराम दर्शाने के लिए अल्पविराम (, - comma) का प्रयोग किया जाता है।",
+        "topic": "Punctuation"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "an",
+            "a",
+            "the",
+            "No article needed"
+        ],
+        "op_hi": [
+            "an",
+            "a",
+            "the",
+            "No article needed"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article needed'.<br>Mary said, \"I wish to live in __________ largest house which is situated near the river bank.\"<br>",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article needed'.<br>Mary said, \"I wish to live in __________ largest house which is situated near the river bank.\"<br>",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. Superlative degree adjectives (like 'largest') are always preceded by the definite article 'the' when identifying a specific item.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। सुपरलेटिव डिग्री वाले विशेषणों (superlative adjectives) जैसे 'largest' के पहले हमेशा निश्चित आर्टिकल 'the' का प्रयोग किया जाता है।",
+        "topic": "Articles"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "lovely",
+            "loveliest",
+            "more lovely",
+            "lovelier"
+        ],
+        "op_hi": [
+            "lovely",
+            "loveliest",
+            "more lovely",
+            "lovelier"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>She is a _______ lady.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>She is a _______ lady.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The presence of the indefinite article 'a' indicates that a positive degree adjective is required to qualify the singular noun 'lady'. 'Lovely' fits perfectly.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य में प्रयुक्त इंडेफिनिट आर्टिकल 'a' दर्शाता है कि यहाँ एकवचन संज्ञा 'lady' की विशेषता बताने के लिए पॉजिटिव डिग्री के विशेषण की आवश्यकता है, इसलिए 'lovely' सही उत्तर है।",
+        "topic": "Degrees of Comparison"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "cultivate",
+            "suppress",
+            "enrich",
+            "endow"
+        ],
+        "op_hi": [
+            "cultivate",
+            "suppress",
+            "enrich",
+            "endow"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 4.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 4.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. In the given context, 'enrich' is the most suitable verb as it means to improve or enhance the quality or value of something (intellectual discourse).<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। वाक्य के संदर्भ में 'enrich' सबसे उपयुक्त क्रिया है, जिसका अर्थ किसी चीज़ (बौद्धिक विमर्श/चर्चा) की गुणवत्ता या मूल्य को बढ़ाना या समृद्ध करना होता है।",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "inhibits",
+            "challenges",
+            "perpetuates",
+            "involves"
+        ],
+        "op_hi": [
+            "inhibits",
+            "challenges",
+            "perpetuates",
+            "involves"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 3.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 3.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. 'Perpetuates' means to make something (typically an undesirable situation or an unfounded belief) continue indefinitely. Here, it refers to continuing educational disparities.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'Perpetuates' का अर्थ किसी अवांछनीय स्थिति को अनिश्चित काल के लिए बनाए रखना या जारी रखना होता है। यहाँ यह प्रणालीगत असंतुलन शैक्षिक असमानताओं को निरंतर बनाए रखने का काम करता है।",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "bias",
+            "meritocracy",
+            "favouritism",
+            "inequality"
+        ],
+        "op_hi": [
+            "bias",
+            "meritocracy",
+            "favouritism",
+            "inequality"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 5.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 5.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. 'Meritocracy' is a social system, society, or organization in which people get success or power because of their abilities. A holistic framework ensures true meritocracy by contextualizing achievements.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। 'Meritocracy' (योग्यतातंत्र) एक ऐसी व्यवस्था को संदर्भित करता है जहाँ व्यक्तिगत योग्यता और प्रतिभा को अवसर का आधार बनाया जाता है। यह समग्र ढांचा योग्यतातंत्र सुनिश्चित करता है।",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "advantage",
+            "benefit",
+            "hinder",
+            "profit"
+        ],
+        "op_hi": [
+            "advantage",
+            "benefit",
+            "hinder",
+            "profit"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 2.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 2.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. 'Benefit' is used here as a verb meaning to bring advantage to. The traditional metrics 'often benefit' wealthy students due to their better access to learning resources.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। 'Benefit' का प्रयोग यहाँ एक क्रिया (verb) के रूप में हुआ है जिसका अर्थ लाभ पहुँचाना होता है। पारंपरिक मानदंड अक्सर अमीर पृष्ठभूमि के छात्रों को लाभ पहुँचाते हैं क्योंकि उनकी संसाधनों तक पहुँच बेहतर होती है।",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "isolation",
+            "division",
+            "exclusion",
+            "inclusion"
+        ],
+        "op_hi": [
+            "isolation",
+            "division",
+            "exclusion",
+            "inclusion"
+        ],
+        "q_en": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 1.",
+        "q_hi": "<b>Comprehension:</b><br>In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank. <br><br>Incorporating socioeconomic status into college admissions is imperative for fostering equity and (1) _______ in higher education. Traditional metrics — academic performance, standardised test scores, and extracurricular involvement — often (2) _______ students from affluent backgrounds with greater access to resources. This systemic imbalance (3) _______ educational disparities, restricting upward mobility for underprivileged students. By considering SES, institutions can mitigate these inequities, cultivate diverse learning environments, and (4) _______ intellectual discourse. A holistic admissions framework acknowledges systemic barriers while ensuring (5) _______. Ultimately, integrating SES as a criterion is not merely an act of fairness but a strategic approach to nurturing a more representative and just society.<br>Select the most appropriate option to fill in blank number 1.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. 'Equity and inclusion' is a standard and cohesive phrase used to describe practices that provide fair opportunities and welcome diverse groups within an educational system.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। 'Equity and inclusion' (समानता और समावेश) एक स्थापित वाक्यांश है जिसका उपयोग शैक्षणिक संस्थानों में सभी को समान अवसर देने और जोड़ने के संदर्भ में किया जाता है।",
+        "topic": "Cloze Test"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Balancing Technology with Real-Life Interactions",
+            "The Benefits of Technology in Education",
+            "The Impact of Social Media on Youth",
+            "Overcoming Mental Health Issues"
+        ],
+        "op_hi": [
+            "Balancing Technology with Real-Life Interactions",
+            "The Benefits of Technology in Education",
+            "The Impact of Social Media on Youth",
+            "Overcoming Mental Health Issues"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is the most suitable title for the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is the most suitable title for the passage?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The main premise of the passage is the need to find a balance between the continuous growth of technology and maintaining active real-world social relationships.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश का मुख्य विषय तकनीकी प्रगति को अपनाने और उसके साथ-साथ वास्तविक दुनिया के रिश्तों और बातचीत के बीच एक संतुलन (balance) खोजने की आवश्यकता पर केंद्रित है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "The social and mental health challenges posed by technology",
+            "How technology has improved communication and lifestyle",
+            "The benefits of modern technology in healthcare and interaction",
+            "The role of education in technology usage in the classrooms"
+        ],
+        "op_hi": [
+            "The social and mental health challenges posed by technology",
+            "How technology has improved communication and lifestyle",
+            "The benefits of modern technology in healthcare and interaction",
+            "The role of education in technology usage in the classrooms"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the central theme of the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the central theme of the passage?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The passage emphasizes the negative impacts of excessive technology usage, such as social isolation, reduced physical activity, and mental health challenges.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश का मुख्य विचार तकनीक के बढ़ते उपयोग से उत्पन्न होने वाली सामाजिक दूरियों और मानसिक स्वास्थ्य संबंधी चुनौतियों के गिर्द घूमता है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "The younger generation is facing challenges due to technology.",
+            "Technology leads to social isolation and mental health problems.",
+            "The physical activity levels have decreased because of technology.",
+            "It highlights the role of artificial intelligence (AI) in transforming industries."
+        ],
+        "op_hi": [
+            "The younger generation is facing challenges due to technology.",
+            "Technology leads to social isolation and mental health problems.",
+            "The physical activity levels have decreased because of technology.",
+            "It highlights the role of artificial intelligence (AI) in transforming industries."
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is NOT a fact given in the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Which of the following is NOT a fact given in the passage?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. The passage mentions advancements in medicine, education, and communication, but it does not mention artificial intelligence (AI) or industrial transformation anywhere.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। पूरे गद्यांश में कहीं भी आर्टिफिशियल इंटेलिजेंस (AI) या उद्योगों में इसके बदलाव लाने की भूमिका का कोई उल्लेख नहीं किया गया है, जबकि अन्य सभी तथ्य गद्यांश में दिए गए हैं।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Technology should be used in moderation for a healthy lifestyle.",
+            "Social isolation is not a concern for the younger generation.",
+            "Gadgets are the only cause of mental health issues.",
+            "Governments should ban all technology to protect mental health."
+        ],
+        "op_hi": [
+            "Technology should be used in moderation for a healthy lifestyle.",
+            "Social isolation is not a concern for the younger generation.",
+            "Gadgets are the only cause of mental health issues.",
+            "Governments should ban all technology to protect mental health."
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Based on the passage, which of the following inferences can be drawn?",
+        "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>Based on the passage, which of the following inferences can be drawn?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. Since the text explicitly states that a mindful approach incorporating physical activities and real-life connections is needed, it infers that moderation is key.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश में कहा गया है कि 'तकनीक के उपयोग के प्रति एक सचेत दृष्टिकोण (mindful approach)... समग्र स्वास्थ्य के लिए आवश्यक है,' जिससे यह निष्कर्ष निकाला जा सकता है कि स्वस्थ जीवन के लिए इसका संतुलित और सीमित उपयोग होना चाहिए।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Humorous",
+            "Informative",
+            "Optimistic",
+            "Critical"
+        ],
+        "op_hi": [
+            "Humorous",
+            "Informative",
+            "Optimistic",
+            "Critical"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the tone of the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the following passage carefully and answer the questions that follow. <br><br>In the modern era, technology has dramatically transformed our daily lives, bringing both opportunities and challenges. While it has greatly enhanced convenience, connectivity and access to information, it has also introduced concerns about mental health and social isolation. People, especially the younger generation, are spending more time on devices, often at the cost of face-to-face interactions. This increased screen time has been linked to problems, such as eye strain, reduced physical activity and weakened social bonds. On the positive side, technological advancements in medicine, education and communication have led to significant improvements in quality of life. However, the key challenge remains finding a balance between embracing technological progress and maintaining healthy, real-world relationships. Experts argue that a mindful approach to technology usage, incorporating time for physical activities and social connections, is essential for the overall well-being. As society continues to evolve, it is crucial that individuals and institutions work together to ensure that technology remains a tool for improvement rather than a source of detriment.<br>What is the tone of the passage?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. The author presents structured facts, challenges, and arguments from experts objectively to outline both sides of tech progression, which characterizes an 'Informative' tone.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। लेखक ने तकनीक के फायदे और नुकसान दोनों पक्षों को तथ्यों और विशेषज्ञों के तर्कों के साथ बिना किसी व्यक्तिगत पूर्वग्रह के प्रस्तुत किया है, इसलिए इसकी शैली 'Informative' (सूचनात्मक) है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "The Life Cycle of Honeybees",
+            "Imaginary Fears of Children",
+            "A Guide to Beekeeping at Home",
+            "Saylor and the Monsters in Her Wall"
+        ],
+        "op_hi": [
+            "The Life Cycle of Honeybees",
+            "Imaginary Fears of Children",
+            "A Guide to Beekeeping at Home",
+            "Saylor and the Monsters in Her Wall"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Which of the following is the most appropriate title for the passage?",
+        "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Which of the following is the most appropriate title for the passage?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. The story centers completely on Saylor, her persistent complaints about monsters inside her bedroom wall, and the discovery of thousands of real bees.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। यह पूरी कहानी छोटी बच्ची सायलर (Saylor) और उसकी बेडरूम की दीवार में होने वाली हलचल के इर्द-गिर्द घूमती है, जो बाद में मधुमक्खियों का छत्ता निकलती है। इसलिए यह शीर्षक सबसे सटीक है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "They believed she was influenced by a movie she had watched.",
+            "They didn’t hear the noises Saylor mentioned.",
+            "They assumed she was too young to understand fear.",
+            "They thought she was scared of the dark."
+        ],
+        "op_hi": [
+            "They believed she was influenced by a movie she had watched.",
+            "They didn’t hear the noises Saylor mentioned.",
+            "They assumed she was too young to understand fear.",
+            "They thought she was scared of the dark."
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What made Saylor’s parents initially dismiss her fears?",
+        "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What made Saylor’s parents initially dismiss her fears?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The passage explicitly highlights that her parents thought the 'monsters' came from her imagination because she had recently seen the animated movie 'Monsters, Inc.'<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। गद्यांश में साफ़ तौर पर लिखा गया है कि माता-पिता ने सोचा कि सायलर का यह डर काल्पनिक है क्योंकि उसने हाल ही में 'Monsters, Inc.' फिल्म देखी थी।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "They let her watch a movie that scared her.",
+            "They underestimated the severity of her fear.",
+            "They ignored her complaints for too long.",
+            "They didn’t notice the signs of the infestation earlier."
+        ],
+        "op_hi": [
+            "They let her watch a movie that scared her.",
+            "They underestimated the severity of her fear.",
+            "They ignored her complaints for too long.",
+            "They didn’t notice the signs of the infestation earlier."
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Why did Saylor's parents likely feel guilty after discovering the bees?",
+        "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>Why did Saylor's parents likely feel guilty after discovering the bees?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. The parents initially linked her fears to a cartoon film and assumed it was just childhood imagination, thereby underestimating the severity and reality of her distress.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। सायलर के माता-पिता को दोषी इसलिए महसूस हुआ होगा क्योंकि उन्होंने उसकी शिकायत को मात्र एक फिल्म का प्रभाव मानकर उसके वास्तविक डर और गम्भीरता को कम करके आँका था।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Dripping slowly from a narrow opening",
+            "Flowing out rapidly in large quantities",
+            "Being placed carefully into a container",
+            "Falling accidentally in all directions randomly"
+        ],
+        "op_hi": [
+            "Dripping slowly from a narrow opening",
+            "Flowing out rapidly in large quantities",
+            "Being placed carefully into a container",
+            "Falling accidentally in all directions randomly"
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What does the word 'pouring' most likely mean in the sentence, “They just came pouring out, like a horror movie”?",
+        "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What does the word 'pouring' most likely mean in the sentence, “They just came pouring out, like a horror movie”?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. In this context, 'pouring out' indicates that the bees were emerging rapidly and continuously in massive clusters or streams from the drilled hole.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। इस संदर्भ में 'pouring out' का अर्थ बड़ी संख्या में मधुमक्खियों के दीवार के छेद से बहुत तेजी से और लगातार बाहर निकलने (उमड़ पड़ने) से है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Watching scary movies can negatively affect children’s mental health.",
+            "Children’s fears should not be dismissed without investigation.",
+            "Beekeeping is an essential profession that requires skill.",
+            "Honeybees are more dangerous than most people assume."
+        ],
+        "op_hi": [
+            "Watching scary movies can negatively affect children’s mental health.",
+            "Children’s fears should not be dismissed without investigation.",
+            "Beekeeping is an essential profession that requires skill.",
+            "Honeybees are more dangerous than most people assume."
+        ],
+        "q_en": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What real-life lesson can be drawn from this story?",
+        "q_hi": "<b>Comprehension:</b><br>Read the passage, answer the questions that follow.<br><br>Children can be afraid of the dark and have nightmares. They hear noises at night or see imaginary monsters. For one little girl, the monster was real. Three-year-old Saylor told her parents about the 'monsters in the wall' of her bedroom. Her parents thought the 'monsters' came from Saylor's imagination because she had just seen the movie Monsters, Inc. Saylor's parents were shocked when they found 60,000 bees behind Saylor's bedroom wall.<br><br>A beekeeper said the insects were honeybees. The bees are protected in the USA, so these bees could not be killed. The beekeeper said he had never seen so many bees in a house. He drilled a hole in the bedroom wall. Saylor's mother said: \"They just came pouring out, like a horror movie.\" The beekeeper captured the bees. They are now living on a special honeybee farm. The bees caused more than $20,000 in damages to the house.<br>What real-life lesson can be drawn from this story?",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. The narrative underscores that parents should systematically evaluate or investigate claims of fear by children rather than passing them off instantly as imaginary tales.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। यह कहानी सिखाती है कि बच्चों के भय या उनकी बातों को बिना किसी जांच के केवल कल्पना मानकर खारिज नहीं कर देना चाहिए, क्योंकि उसके पीछे कोई वास्तविक समस्या भी हो सकती है।",
+        "topic": "Reading Comprehension"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "verbosity",
+            "brevity",
+            "eloquence",
+            "candor"
+        ],
+        "op_hi": [
+            "verbosity",
+            "brevity",
+            "eloquence",
+            "candor"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>He never wasted words; his style was admired for his <strong>use of very few words to express much</strong>.",
+        "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>He never wasted words; his style was admired for his <strong>use of very few words to express much</strong>.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The phrase \"use of very few words to express much\" refers to 'brevity'. It means concise and exact use of words in writing or speech.<br>1. <b>Verbosity:</b> Using more words than needed.<br>2. <b>Eloquence:</b> Fluent or persuasive speaking or writing.<br>3. <b>Candor:</b> The quality of being open and honest.<br><br><b>Solution (HI):</b><br>वाक्यांश \"use of very few words to express much\" (बहुत कम शब्दों में बहुत कुछ कहना) 'brevity' (संक्षिप्तता) को संदर्भित करता है।<br>1. <b>Verbosity:</b> आवश्यकता से अधिक शब्दों का प्रयोग।<br>2. <b>Eloquence:</b> सुवक्ता या वाक्पटुता।<br>3. <b>Candor:</b> स्पष्टवादिता या ईमानदारी।<br><br><b>Short Trick:</b><br>Brevity is related to 'Brief' (small/short).",
+        "topic": "One-word Substitution"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "an",
+            "the",
+            "No article required",
+            "a"
+        ],
+        "op_hi": [
+            "an",
+            "the",
+            "No article required",
+            "a"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>My uncle is ______ honest man who always speaks the truth.",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>My uncle is ______ honest man who always speaks the truth.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The word 'honest' begins with a silent 'h', so its pronunciation starts with a vowel sound (/&alpha;n&infin;st/). Therefore, the indefinite article 'an' is used before it.<br><br><b>Solution (HI):</b><br>'Honest' शब्द एक मूक (silent) 'h' से शुरू होता है, इसलिए इसका उच्चारण स्वर ध्वनि (/&alpha;n&infin;st/) से शुरू होता है। अतः इसके पहले अनिश्चित उपपद (indefinite article) 'an' का प्रयोग किया जाता है।<br><br><b>Short Trick:</b><br>Honest &rarr; Vowel Sound &rarr; An.",
+        "topic": "Articles"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "This is the more tall building in our city.",
+            "This is the most taller building in our city.",
+            "This is the tall building in our city.",
+            "This is the tallest building in our city."
+        ],
+        "op_hi": [
+            "This is the more tall building in our city.",
+            "This is the most taller building in our city.",
+            "This is the tall building in our city.",
+            "This is the tallest building in our city."
+        ],
+        "q_en": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>This is the most tallest building in our city.",
+        "q_hi": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>This is the most tallest building in our city.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The word 'tallest' is already in the superlative degree. Using 'most' before a superlative adjective creates a double superlative error, which is grammatically incorrect. The correct sentence should simply be \"This is the tallest building...\".<br><br><b>Solution (HI):</b><br>'Tallest' शब्द पहले से ही सुपरलेटिव डिग्री (superlative degree) में है। सुपरलेटिव विशेषण से पहले 'most' का उपयोग करना 'double superlative' की गलती है। सही वाक्य केवल \"This is the tallest building...\" होना चाहिए।<br><br><b>Short Trick:</b><br>Don't use 'most' with adjectives ending in '-est'.",
+        "topic": "Adjectives"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "the",
+            "a",
+            "an",
+            "No article required"
+        ],
+        "op_hi": [
+            "the",
+            "a",
+            "an",
+            "No article required"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>They crossed ______ Pacific Ocean during their voyage.",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>They crossed ______ Pacific Ocean during their voyage.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The definite article 'the' is always used before the names of oceans, seas, mountain ranges, and rivers. Thus, 'the Pacific Ocean' is correct.<br><br><b>Solution (HI):</b><br>निश्चित उपपद 'the' का प्रयोग हमेशा महासागरों, समुद्रों, पर्वत श्रृंखलाओं और नदियों के नाम के पहले किया जाता है। इसलिए, 'the Pacific Ocean' सही है।<br><br><b>Short Trick:</b><br>Names of Oceans &rarr; Always use 'The'.",
+        "topic": "Articles"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "most quickly",
+            "quickly",
+            "quickest",
+            "more quickly"
+        ],
+        "op_hi": [
+            "most quickly",
+            "quickly",
+            "quickest",
+            "more quickly"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>He completed the assignment _______ than his classmates.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>He completed the assignment _______ than his classmates.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The sentence involves a comparison between 'He' and 'his classmates', signaled by the word 'than'. For such comparisons using adverbs ending in '-ly', we use the comparative form 'more + adverb'.<br><br><b>Solution (HI):</b><br>वाक्य में 'He' और 'his classmates' के बीच तुलना की गई है, जिसे 'than' शब्द द्वारा दर्शाया गया है। '-ly' में समाप्त होने वाले क्रियाविशेषणों (adverbs) के लिए तुलनात्मक रूप 'more + adverb' का उपयोग किया जाता है।<br><br><b>Short Trick:</b><br>Than &rarr; Comparative degree (More + Adverb).",
+        "topic": "Adverbs"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "actively",
+            "lethargic",
+            "cheerful",
+            "costly"
+        ],
+        "op_hi": [
+            "actively",
+            "lethargic",
+            "cheerful",
+            "costly"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>The kitten is very _______ and plays all day long.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>The kitten is very _______ and plays all day long.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The context of \"plays all day long\" suggests a positive and high-energy state. 'Cheerful' (happy and optimistic) fits best. 'Lethargic' (lazy) is the opposite. 'Actively' is an adverb, while the sentence requires an adjective to describe the kitten.<br><br><b>Solution (HI):</b><br>\"Plays all day long\" (पूरे दिन खेलता है) का संदर्भ एक सकारात्मक और ऊर्जावान स्थिति का सुझाव देता है। 'Cheerful' (हंसमुख/खुशमिजाज) यहाँ सबसे उपयुक्त है। 'Lethargic' का अर्थ सुस्त होता है।<br><br><b>Short Trick:</b><br>Kitten + Play all day &rarr; Happy/Energetic &rarr; Cheerful.",
+        "topic": "Vocabulary"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "monarchy",
+            "oligarchy",
+            "matriarchy",
+            "patriarchy"
+        ],
+        "op_hi": [
+            "monarchy",
+            "oligarchy",
+            "matriarchy",
+            "patriarchy"
+        ],
+        "q_en": "Select the appropriate one-word substitute for the highlighted part. <br><br>The committee dissolved because no one could tolerate <strong>a society organised around female dominance in family and social structures</strong>.",
+        "q_hi": "Select the appropriate one-word substitute for the highlighted part. <br><br>The committee dissolved because no one could tolerate <strong>a society organised around female dominance in family and social structures</strong>.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>A society or system of government ruled by a woman or women is called a 'matriarchy'.<br>1. <b>Monarchy:</b> Rule by a king or queen.<br>2. <b>Oligarchy:</b> Rule by a small group of people.<br>3. <b>Patriarchy:</b> Rule by men.<br><br><b>Solution (HI):</b><br>महिलाओं द्वारा शासित समाज या शासन प्रणाली को 'matriarchy' (मातृसत्ता) कहा जाता है।<br>1. <b>Monarchy:</b> राजा या रानी का शासन।<br>2. <b>Oligarchy:</b> कुछ चुनिंदा लोगों का शासन।<br>3. <b>Patriarchy:</b> पितृसत्ता (पुरुषों का शासन)।<br><br><b>Short Trick:</b><br>Matri (Mother/Female) + Archy (Rule).",
+        "topic": "One-word Substitution"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "parricide",
+            "regicide",
+            "fratricide",
+            "homicide"
+        ],
+        "op_hi": [
+            "parricide",
+            "regicide",
+            "fratricide",
+            "homicide"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>Despite her efforts, she was accused of <strong>the murder of her own brother,</strong> a crime that shocked everyone in the village.",
+        "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>Despite her efforts, she was accused of <strong>the murder of her own brother,</strong> a crime that shocked everyone in the village.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>'Fratricide' is the act of killing one's own brother or sister.<br>1. <b>Parricide:</b> The killing of a parent or other near relative.<br>2. <b>Regicide:</b> The killing of a king.<br>3. <b>Homicide:</b> The killing of one person by another (general).<br><br><b>Solution (HI):</b><br>'Fratricide' (भ्रातृवध) अपने ही भाई या बहन की हत्या करने का कृत्य है।<br>1. <b>Parricide:</b> माता-पिता या किसी अन्य करीबी रिश्तेदार की हत्या।<br>2. <b>Regicide:</b> राजा की हत्या।<br>3. <b>Homicide:</b> मानव वध (सामान्य)।<br><br><b>Short Trick:</b><br>Frater (Brother) + Cide (Kill).",
+        "topic": "One-word Substitution"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Of the two players, Rohit is the skillful.",
+            "Of the two players, Rohit is more skillfuller.",
+            "Of the two players, Rohit is more skillful.",
+            "Of the two players, Rohit is much skillful."
+        ],
+        "op_hi": [
+            "Of the two players, Rohit is the skillful.",
+            "Of the two players, Rohit is more skillfuller.",
+            "Of the two players, Rohit is more skillful.",
+            "Of the two players, Rohit is much skillful."
+        ],
+        "q_en": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>Of the two players, Rohit is the most skillful.",
+        "q_hi": "Identify the option that rectifies the given sentence to make it grammatically correct.<br><br>Of the two players, Rohit is the most skillful.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>When comparing exactly two items or people, the comparative degree is used. The superlative degree ('most') is reserved for comparing three or more. Thus, \"more skillful\" is the correct form.<br><br><b>Solution (HI):</b><br>जब ठीक दो वस्तुओं या व्यक्तियों की तुलना की जाती है, तो तुलनात्मक डिग्री (comparative degree) का उपयोग किया जाता है। सुपरलेटिव डिग्री ('most') का उपयोग तीन या अधिक की तुलना के लिए किया जाता है। अतः \"more skillful\" सही रूप है।<br><br><b>Short Trick:</b><br>Two people &rarr; Comparative degree (More).",
+        "topic": "Adjectives"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "She most beautifully sings.",
+            "She sings beautifully.",
+            "She sings beauty.",
+            "She sings more beautiful."
+        ],
+        "op_hi": [
+            "She most beautifully sings.",
+            "She sings beautifully.",
+            "She sings beauty.",
+            "She sings more beautiful."
+        ],
+        "q_en": "Select the grammatically correct sentence.",
+        "q_hi": "Select the grammatically correct sentence.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>In this sentence, we need an adverb to describe the manner of the action 'sings'. 'Beautifully' is the adverbial form. The standard word order is Subject + Verb + Adverb.<br><br><b>Solution (HI):</b><br>इस वाक्य में, क्रिया 'sings' के ढंग का वर्णन करने के लिए एक क्रियाविशेषण (adverb) की आवश्यकता है। 'Beautifully' क्रियाविशेषण रूप है। सही क्रम 'Subject + Verb + Adverb' है।<br><br><b>Short Trick:</b><br>Verb (Sings) + Adverb (Beautifully).",
+        "topic": "Adverbs"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "a house divided cannot stand",
+            "too many cooks spoil the broth",
+            "actions speak louder than words",
+            "birds of a feather flock together"
+        ],
+        "op_hi": [
+            "a house divided cannot stand",
+            "too many cooks spoil the broth",
+            "actions speak louder than words",
+            "birds of a feather flock together"
+        ],
+        "q_en": "Select the most appropriate option that can substitute the underlined segment in the given sentence. <br><br><strong></strong>The team argued endlessly about the design and the project ultimately failed, proving that <u>lack of unity can weaken a group or organisation</u>.",
+        "q_hi": "Select the most appropriate option that can substitute the underlined segment in the given sentence. <br><br><strong></strong>The team argued endlessly about the design and the project ultimately failed, proving that <u>lack of unity can weaken a group or organisation</u>.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The proverb \"a house divided cannot stand\" means that if members of a group are in constant conflict, they will not be able to survive or succeed. This fits the context of the team failing due to arguments.<br><br><b>Solution (HI):</b><br>कहावत \"a house divided cannot stand\" का अर्थ है कि यदि किसी समूह के सदस्य निरंतर संघर्ष में रहते हैं, तो वे सफल नहीं हो पाएंगे। यह टीम की विफलता के संदर्भ में बिल्कुल सही है।<br><br><b>Short Trick:</b><br>Lack of unity &rarr; Divided &rarr; Cannot stand.",
+        "topic": "Idioms and Phrases"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "librarian",
+            "caretaker",
+            "custodian",
+            "curator"
+        ],
+        "op_hi": [
+            "librarian",
+            "caretaker",
+            "custodian",
+            "curator"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>She was appointed as the <strong>person who is responsible for the proper custody of the museum's collection</strong>.",
+        "q_hi": "Select the option that can be used as a one-word substitute for the highlighted phrase in the given sentence.<br><br>She was appointed as the <strong>person who is responsible for the proper custody of the museum's collection</strong>.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>A 'curator' is a person who oversees or manages a museum, art gallery, or library collection. While 'custodian' is a more general term for someone who looks after something, 'curator' is the specific professional term for a museum collection.<br><br><b>Solution (HI):</b><br>'Curator' (संग्रहाध्यक्ष) वह व्यक्ति होता है जो संग्रहालय या कला दीर्घा का प्रबंधन करता है। 'Librarian' पुस्तकालय के लिए होता है।<br><br><b>Short Trick:</b><br>Museum Collection manager &rarr; Curator.",
+        "topic": "One-word Substitution"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "at",
+            "in",
+            "on",
+            "over"
+        ],
+        "op_hi": [
+            "at",
+            "in",
+            "on",
+            "over"
+        ],
+        "q_en": "Select the most appropriate option to fill in the blank.<br><br>She is waiting ______ the bus stop.",
+        "q_hi": "Select the most appropriate option to fill in the blank.<br><br>She is waiting ______ the bus stop.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The preposition 'at' is used to indicate a specific point or location in space, such as 'at the bus stop' or 'at the door'.<br><br><b>Solution (HI):</b><br>पूर्वसर्ग (preposition) 'at' का उपयोग अंतरिक्ष में एक विशिष्ट बिंदु या स्थान को इंगित करने के लिए किया जाता है, जैसे 'at the bus stop'।<br><br><b>Short Trick:</b><br>Specific Point/Spot &rarr; At.",
+        "topic": "Prepositions"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "The",
+            "A",
+            "An",
+            "No article required"
+        ],
+        "op_hi": [
+            "The",
+            "A",
+            "An",
+            "No article required"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>_______ Himalayas are the highest mountain range in the world.",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>_______ Himalayas are the highest mountain range in the world.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The definite article 'the' is used before the names of mountain ranges (e.g., the Alps, the Himalayas). However, it is not used before the names of single mountain peaks (e.g., Mount Everest).<br><br><b>Solution (HI):</b><br>निश्चित उपपद 'the' का प्रयोग पर्वत श्रृंखलाओं (जैसे, the Himalayas) के नाम के पहले किया जाता है। एकल पर्वत चोटियों (जैसे, Mount Everest) के पहले इसका प्रयोग नहीं किया जाता।<br><br><b>Short Trick:</b><br>Mountain Range &rarr; The.",
+        "topic": "Articles"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "He is good at playing the guitar.",
+            "He is good to playing the guitar.",
+            "He is good in playing the guitar.",
+            "He is good on playing the guitar."
+        ],
+        "op_hi": [
+            "He is good at playing the guitar.",
+            "He is good to playing the guitar.",
+            "He is good in playing the guitar.",
+            "He is good on playing the guitar."
+        ],
+        "q_en": "Select the grammatically correct sentence.",
+        "q_hi": "Select the grammatically correct sentence.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The adjective 'good' is followed by the preposition 'at' when describing skill or talent in a specific activity. This is a fixed phrase: \"Good at + (verb-ing/noun)\".<br><br><b>Solution (HI):</b><br>विशेषण 'good' के बाद 'at' पूर्वसर्ग का उपयोग तब किया जाता है जब किसी विशिष्ट गतिविधि में कौशल या प्रतिभा का वर्णन किया जाता है। यह एक निश्चित वाक्यांश है: \"Good at + (verb-ing/noun)\"।<br><br><b>Short Trick:</b><br>Good/Bad + At.",
+        "topic": "Prepositions"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "He solved the puzzle easily.",
+            "He solved the puzzle easy.",
+            "He solved the puzzle easier.",
+            "He solved the puzzle ease."
+        ],
+        "op_hi": [
+            "He solved the puzzle easily.",
+            "He solved the puzzle easy.",
+            "He solved the puzzle easier.",
+            "He solved the puzzle ease."
+        ],
+        "q_en": "Select the grammatically correct sentence.",
+        "q_hi": "Select the grammatically correct sentence.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>In this sentence, the word modifies the verb 'solved'. Therefore, we must use the adverbial form 'easily'. 'Easy' is an adjective, and 'ease' is a noun.<br><br><b>Solution (HI):</b><br>इस वाक्य में, शब्द क्रिया 'solved' की विशेषता बताता है। इसलिए, हमें क्रियाविशेषण रूप 'easily' का उपयोग करना चाहिए।<br><br><b>Short Trick:</b><br>Modified Verb &rarr; Use Adverb (-ly).",
+        "topic": "Adverbs"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "CABD",
+            "ACBD",
+            "BCAD",
+            "BADC"
+        ],
+        "op_hi": [
+            "CABD",
+            "ACBD",
+            "BCAD",
+            "BADC"
+        ],
+        "q_en": "Sentences of a paragraph are given below. While the first and the last sentences (S1 and S6) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1) Climate change has emerged as one of the biggest challenges facing humanity.<br>A) This has led to erratic weather patterns, rising sea levels, and loss of biodiversity.<br>B) Scientists across the globe are working tirelessly to find sustainable solutions.<br>C) Human activities like deforestation and excessive use of fossil fuels are the main culprits.<br>D) Governments are also being urged to implement stricter environmental policies.<br>S6) Only collective and timely action can help mitigate the effects of this global crisis.",
+        "q_hi": "Sentences of a paragraph are given below. While the first and the last sentences (S1 and S6) are in the correct order, the sentences in between are jumbled up. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>S1) Climate change has emerged as one of the biggest challenges facing humanity.<br>A) This has led to erratic weather patterns, rising sea levels, and loss of biodiversity.<br>B) Scientists across the globe are working tirelessly to find sustainable solutions.<br>C) Human activities like deforestation and excessive use of fossil fuels are the main culprits.<br>D) Governments are also being urged to implement stricter environmental policies.<br>S6) Only collective and timely action can help mitigate the effects of this global crisis.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>S1 starts the topic. 'C' points out the causes of climate change. 'A' describes the effects of those causes. 'B' and 'D' list the efforts being made by experts and authorities to solve the problem. S6 concludes with the need for action. Correct sequence: CABD.<br><br><b>Solution (HI):</b><br>S1 विषय की शुरुआत करता है। 'C' जलवायु परिवर्तन के कारणों की ओर इशारा करता है। 'A' उन कारणों के प्रभावों का वर्णन करता है। 'B' और 'D' समस्या को हल करने के प्रयासों की सूची देते हैं। S6 निष्कर्ष निकालता है। सही क्रम: CABD है।<br><br><b>Short Trick:</b><br>Cause (C) &rarr; Effect (A). This link confirms the sequence.",
+        "topic": "Para Jumbles"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "an",
+            "a",
+            "No article required",
+            "the"
+        ],
+        "op_hi": [
+            "an",
+            "a",
+            "No article required",
+            "the"
+        ],
+        "q_en": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He bought ______ orange from the market.",
+        "q_hi": "Select the most appropriate article to fill in the blank. If no article is needed, select 'No article required'.<br><br>He bought ______ orange from the market.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>'Orange' starts with a vowel sound (/&infin;/) and is a singular countable noun. Therefore, the indefinite article 'an' is appropriate here.<br><br><b>Solution (HI):</b><br>'Orange' का उच्चारण स्वर ध्वनि (/&infin;/) से शुरू होता है और यह एकवचन गणनीय संज्ञा है। इसलिए, यहाँ अनिश्चित उपपद 'an' उपयुक्त है।<br><br><b>Short Trick:</b><br>Vowel sound start &rarr; An.",
+        "topic": "Articles"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "a stitch in time saves nine",
+            "Rome was not built in a day",
+            "don’t put all your eggs in one basket",
+            "every cloud has a silver lining"
+        ],
+        "op_hi": [
+            "a stitch in time saves nine",
+            "Rome was not built in a day",
+            "don’t put all your eggs in one basket",
+            "every cloud has a silver lining"
+        ],
+        "q_en": "Select the most appropriate proverb that can substitute the highlighted segment in the given sentence. <br><br>When her plan failed, she reminded herself that <strong>there is always something good to be found even in unpleasant situations.</strong>",
+        "q_hi": "Select the most appropriate proverb that can substitute the highlighted segment in the given sentence. <br><br>When her plan failed, she reminded herself that <strong>there is always something good to be found even in unpleasant situations.</strong>",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The proverb \"every cloud has a silver lining\" means that every difficult or unpleasant situation has some advantage or positive side to it.<br>1. <b>A stitch in time:</b> Solving a problem immediately prevents it from worsening.<br>2. <b>Rome wasn't built in a day:</b> Important work takes time.<br>3. <b>Eggs in one basket:</b> Don't risk everything on one single venture.<br><br><b>Solution (HI):</b><br>कहावत \"every cloud has a silver lining\" का अर्थ है कि हर कठिन या अप्रिय स्थिति का कुछ न कुछ लाभ या सकारात्मक पक्ष होता है।<br><br><b>Short Trick:</b><br>Silver lining &rarr; Good/Hope in bad times.",
+        "topic": "Idioms and Phrases"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "4231",
+            "1234",
+            "4321",
+            "3412"
+        ],
+        "op_hi": [
+            "4231",
+            "1234",
+            "4321",
+            "3412"
+        ],
+        "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Despite these complexities, avocados remain superfoods rich in healthy fats and potassium.<br>2. This unique quality is because it does not ripen until picked from the tree.<br>3. Consequently, the fruit must be harvested carefully for transportation.<br>4. The avocado, botanically a single-seeded berry, is unlike most fruits.",
+        "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>1. Despite these complexities, avocados remain superfoods rich in healthy fats and potassium.<br>2. This unique quality is because it does not ripen until picked from the tree.<br>3. Consequently, the fruit must be harvested carefully for transportation.<br>4. The avocado, botanically a single-seeded berry, is unlike most fruits.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>Sentence 4 introduces the avocado as an unusual fruit. Sentence 2 follows by explaining the 'unique quality' mentioned or implied in 4 (ripening only after picking). Sentence 3 explains the consequence ('Consequently') of that ripening process. Sentence 1 concludes with a positive summary despite the complexities.<br><br><b>Solution (HI):</b><br>वाक्य 4 एवोकैडो को एक असामान्य फल के रूप में पेश करता है। वाक्य 2 उस 'विशिष्ट गुणवत्ता' की व्याख्या करता है जिसका उल्लेख 4 में किया गया है। वाक्य 3 पकने की उस प्रक्रिया के परिणाम ('Consequently') की व्याख्या करता है। वाक्य 1 सकारात्मक सारांश के साथ समाप्त होता है।<br><br><b>Short Trick:</b><br>4 is the introductory sentence. Only option 4231 and 4321 start with it. 'Consequently' (3) follows the cause in 2.",
+        "topic": "Para Jumbles"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Yoga",
+            "Hibernation",
+            "Nap",
+            "Siesta"
+        ],
+        "op_hi": [
+            "Yoga",
+            "Hibernation",
+            "Nap",
+            "Siesta"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A relaxed, short sleep in the afternoon",
+        "q_hi": "Select the option that can be used as a one-word substitute for the given group of words.<br><br>A relaxed, short sleep in the afternoon",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. 'Siesta' explicitly refers to a short sleep or rest taken in the afternoon, especially in hot countries. While a 'Nap' can be taken at any time of the day, a dedicated afternoon rest or short sleep is formally called a siesta.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। विशेष रूप से दोपहर के समय आराम या थोड़ी देर की नींद लेने को 'Siesta' (दोपहर का विश्राम) कहा जाता है। यद्यपि 'Nap' (झपकी) दिन में कभी भी ली जा सकती है, दोपहर की विशिष्ट नींद के लिए 'Siesta' सबसे सटीक शब्द है।<br><br><b>Short Trick:</b><br>Afternoon + Rest/Sleep = Siesta.",
+        "topic": "One-Word Substitution"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "A – B – C – D",
+            "C – B – D – A",
+            "B – C – D – A",
+            "D – A – C – B"
+        ],
+        "op_hi": [
+            "A – B – C – D",
+            "C – B – D – A",
+            "B – C – D – A",
+            "D – A – C – B"
+        ],
+        "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) Each of these fields contributes to our understanding of the world in unique ways.<br>(B) Human knowledge is vast and constantly evolving across disciplines.<br>(C) While science explains the laws of nature, literature explores the depths of human experience.<br>(D) History, on the other hand, helps us interpret the lessons of the past.",
+        "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) Each of these fields contributes to our understanding of the world in unique ways.<br>(B) Human knowledge is vast and constantly evolving across disciplines.<br>(C) While science explains the laws of nature, literature explores the depths of human experience.<br>(D) History, on the other hand, helps us interpret the lessons of the past.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct sequence is 3 (B – C – D – A). Sentence (B) is the generic opening statement that introduces the main theme of 'Human knowledge'. Sentence (C) expands on this theme by detailing specific fields (science and literature). Sentence (D) uses the contrast connector 'on the other hand' to transition to another discipline (History). Sentence (A) concludes perfectly by summarizing all 'these fields'.<br><br><b>Solution (HI):</b><br>सही अनुक्रम 3 (B – C – D – A) है। वाक्य (B) एक सामान्य परिचयात्मक कथन है जो मुख्य विषय 'मानव ज्ञान' की शुरुआत करता है। वाक्य (C) विशिष्ट क्षेत्रों (विज्ञान और साहित्य) का विवरण देकर इसे आगे बढ़ाता है। वाक्य (D) विपरीत योजक 'on the other hand' का उपयोग करके इतिहास को जोड़ता है। अंत में, वाक्य (A) 'these fields' का उपयोग करके सभी क्षेत्रों का निष्कर्ष प्रस्तुत करता है।<br><br><b>Short Trick:</b><br>Sentence B acts as an introduction. The phrase 'on the other hand' in D indicates it must follow another sentence describing specific disciplines, making the C-D link mandatory.",
+        "topic": "Jumbled Sentences"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "a - iv, b - iii, c - ii, d - i",
+            "a - iii, b - iv, c - i, d - ii",
+            "a - i, b - ii, c - iii, d - iv",
+            "a - ii, b - i, c - iv, d - iii"
+        ],
+        "op_hi": [
+            "a - iv, b - iii, c - ii, d - i",
+            "a - iii, b - iv, c - i, d - ii",
+            "a - i, b - ii, c - iii, d - iv",
+            "a - ii, b - i, c - iv, d - iii"
+        ],
+        "q_en": "Match the words in Column A with their synonyms in Column B and select the correct option.<br> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><strong>Column A</strong></td>\t\t\t<td style=\"text-align: center;\"><strong>Column B</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>a. Amazing  </td>\t\t\t<td>i. Furious</td>\t\t</tr>\t\t<tr>\t\t\t<td>b. Angry</td>\t\t\t<td>ii. Incredible</td>\t\t</tr>\t\t<tr>\t\t\t<td>c. Beautiful</td>\t\t\t<td>iii. Tranquil</td>\t\t</tr>\t\t<tr>\t\t\t<td>d. Calm</td>\t\t\t<td>iv. Gorgeous</td>\t\t</tr>\t</tbody></table>",
+        "q_hi": "Match the words in Column A with their synonyms in Column B and select the correct option.<br> <table border=\"1\" cellpadding=\"1\" cellspacing=\"1\" style=\"width: 500px;\">\t<tbody>\t\t<tr>\t\t\t<td style=\"text-align: center;\"><strong>Column A</strong></td>\t\t\t<td style=\"text-align: center;\"><strong>Column B</strong></td>\t\t</tr>\t\t<tr>\t\t\t<td>a. Amazing  </td>\t\t\t<td>i. Furious</td>\t\t</tr>\t\t<tr>\t\t\t<td>b. Angry</td>\t\t\t<td>ii. Incredible</td>\t\t</tr>\t\t<tr>\t\t\t<td>c. Beautiful</td>\t\t\t<td>iii. Tranquil</td>\t\t</tr>\t\t<tr>\t\t\t<td>d. Calm</td>\t\t\t<td>iv. Gorgeous</td>\t\t</tr>\t</tbody></table>",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. The meanings and exact synonyms map as follows:<br>a. Amazing &rarr; ii. Incredible (unbelievable/wonderful)<br>b. Angry &rarr; i. Furious (extremely enraged)<br>c. Beautiful &rarr; iv. Gorgeous (strikingly attractive)<br>d. Calm &rarr; iii. Tranquil (peaceful/quiet)<br>This gives the combination a - ii, b - i, c - iv, d - iii.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। शब्दों का उनके पर्यायवाची (synonyms) के साथ मिलान इस प्रकार है:<br>a. Amazing &rarr; ii. Incredible (अद्भुत/अविश्वसनीय)<br>b. Angry &rarr; i. Furious (अत्यंत क्रोधित)<br>c. Beautiful &rarr; iv. Gorgeous (भव्य/अति सुंदर)<br>d. Calm &rarr; iii. Tranquil (शांत)<br>यह संयोजन a - ii, b - i, c - iv, d - iii को दर्शाता है।<br><br><b>Short Trick:</b><br>Match the most common pairs first: Angry pairs with Furious (b-i) and Calm pairs with Tranquil (d-iii). Only option 4 satisfies this structure.",
+        "topic": "Synonyms"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "seen → had seen",
+            "released → release",
+            "seen → saw",
+            "said → says"
+        ],
+        "op_hi": [
+            "seen → had seen",
+            "released → release",
+            "seen → saw",
+            "said → says"
+        ],
+        "q_en": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>She said that she seen the movie before it was released in theatres.",
+        "q_hi": "Identify the part of the sentence that contains an error and select the option that rectifies it.<br><br>She said that she seen the movie before it was released in theatres.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The sentence reports two past actions: 'seeing the movie' and 'the movie being released'. The action that happened earlier in the past must be expressed in the Past Perfect Tense ('had + past participle'). Therefore, 'seen' must be rectified to 'had seen'.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। वाक्य में भूतकाल की दो घटनाओं का संदर्भ है: 'फिल्म देखना' और 'सिनेमाघरों में रिलीज होना'। जो घटना भूतकाल में पहले घटित हुई हो, उसे Past Perfect Tense ('had + V3') में होना चाहिए। इसलिए 'seen' को 'had seen' में बदला जाएगा।<br><br><b>Short Trick:</b><br>When two related events happen in the past, the older event always uses 'had + third form of verb'.",
+        "topic": "Spotting Errors"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "B – C – A – D",
+            "D – A – C – B",
+            "C – B – A – D",
+            "A – D – C – B"
+        ],
+        "op_hi": [
+            "B – C – A – D",
+            "D – A – C – B",
+            "C – B – A – D",
+            "A – D – C – B"
+        ],
+        "q_en": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) This curiosity has driven discoveries from ancient astronomy to modern genetics.<br>(B) Human beings have always been curious about the mysteries of existence.<br>(C) Such curiosity often leads to exploration, experimentation and innovation.<br>(D) Without this persistent questioning, much of human progress would not have been possible.",
+        "q_hi": "Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.<br><br>(A) This curiosity has driven discoveries from ancient astronomy to modern genetics.<br>(B) Human beings have always been curious about the mysteries of existence.<br>(C) Such curiosity often leads to exploration, experimentation and innovation.<br>(D) Without this persistent questioning, much of human progress would not have been possible.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct sequence is 1 (B – C – A – D). Sentence (B) establishes the main topic about human curiosity. Sentence (C) uses the demonstrative pointer 'Such curiosity' to immediately follow and expand on (B). Sentence (A) continues the logical flow by tracing historical achievements driven by 'This curiosity'. Sentence (D) concludes by validating 'this persistent questioning' as the driver of human progress.<br><br><b>Solution (HI):</b><br>सही अनुक्रम 1 (B – C – A – D) है। वाक्य (B) बुनियादी विषय 'जिज्ञासा' (curiosity) का परिचय देता है। वाक्य (C) 'Such curiosity' वाक्यांश के माध्यम से सीधे (B) से जुड़ा हुआ है। वाक्य (A) 'This curiosity' का उपयोग करके ऐतिहासिक खोजों के उदाहरण देता है और वाक्य (D) 'this persistent questioning' के साथ निष्कर्ष निकालता है।<br><br><b>Short Trick:</b><br>Sentence B mentions 'curious' &rarr; Sentence C immediately links with 'Such curiosity'. This B-C pair is only found at the start of option 1.",
+        "topic": "Jumbled Sentences"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "quintessence",
+            "template",
+            "blueprint",
+            "anomaly"
+        ],
+        "op_hi": [
+            "quintessence",
+            "template",
+            "blueprint",
+            "anomaly"
+        ],
+        "q_en": "Select the option that can be used as a one-word substitute for the underlined phrase in the given sentence.<br><br>The painting captured the <u>most typical example</u> of the artist's vision.",
+        "q_hi": "Select the option that can be used as a one-word substitute for the underlined phrase in the given sentence.<br><br>The painting captured the <u>most typical example</u> of the artist's vision.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. 'Quintessence' means the most perfect or typical example of a quality, feature, or class. 'Template' and 'blueprint' signify preliminary structural plans, while 'anomaly' means an irregularity or deviation.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। 'Quintessence' का अर्थ किसी गुण या वर्ग का सबसे उत्कृष्ट या विशिष्ट उदाहरण (most typical example) होता है। 'Template' और 'blueprint' योजनाबद्ध प्रारूप को दर्शाते हैं, जबकि 'anomaly' सामान्य नियम से हटकर होने वाली विसंगति को दर्शाती है।<br><br><b>Short Trick:</b><br>Most typical/perfect example = Quintessence.",
+        "topic": "One-Word Substitution"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "I knew her address Roni said.",
+            "Roni said he knew her address.",
+            "Roni said that he had known her address.",
+            "Roni said he know her address."
+        ],
+        "op_hi": [
+            "I knew her address Roni said.",
+            "Roni said he knew her address.",
+            "Roni said that he had known her address.",
+            "Roni said he know her address."
+        ],
+        "q_en": "Select the option that expresses the given sentence in indirect speech.<br><br>“I know her address,” said Roni.",
+        "q_hi": "Select the option that expresses the given sentence in indirect speech.<br><br>“I know her address,” said Roni.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 2. The reporting verb is in the past tense ('said'), so the simple present verb 'know' inside quotes changes into the simple past tense 'knew'. The first-person pronoun 'I' changes to 'he' to reflect the speaker Roni.<br><br><b>Solution (HI):</b><br>सही विकल्प 2 है। चूँकि मुख्य reporting verb भूतकाल ('said') में है, इसलिए reported speech का Simple Present Tense ('know') बदलकर Simple Past Tense ('knew') में परिवर्तित हो जाएगा और 'I' के स्थान पर 'he' का प्रयोग होगा।<br><br><b>Short Trick:</b><br>Direct Present Tense ('know') always converts to Indirect Past Tense ('knew') when reporting verb is in the past tense.",
+        "topic": "Direct and Indirect Speech"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "take it with a grain of salt",
+            "take a rain check",
+            "be in a tight corner",
+            "look before you leap"
+        ],
+        "op_hi": [
+            "take it with a grain of salt",
+            "take a rain check",
+            "be in a tight corner",
+            "look before you leap"
+        ],
+        "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>You <u>don't have to take it too seriously</u> because she tends to exaggerate.",
+        "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>You <u>don't have to take it too seriously</u> because she tends to exaggerate.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 1. The classic phrase 'take something with a grain of salt' means to interpret a statement with skepticism and not accept it as completely serious, literal, or entirely true.<br><br><b>Solution (HI):</b><br>सही विकल्प 1 है। रेखांकित वाक्यांश 'don't have to take it too seriously' के स्थान पर मुहावरे 'take it with a grain of salt' का प्रयोग होगा, जिसका अर्थ होता है किसी बात को पूरी तरह से सच न मानना या संदेह के साथ देखना।<br><br><b>Short Trick:</b><br>Not take completely literally/seriously = Take with a grain of salt.",
+        "topic": "Idioms and Phrases"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "is due some respect",
+            "is done to death",
+            "is on the cards",
+            "is not worth his salt"
+        ],
+        "op_hi": [
+            "is due some respect",
+            "is done to death",
+            "is on the cards",
+            "is not worth his salt"
+        ],
+        "q_en": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>Shashank’s salary increase <u>is due</u>.",
+        "q_hi": "Select the most appropriate idiom that can substitute the underlined segment in the given sentence.<br><br>Shashank’s salary increase <u>is due</u>.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 3. The phrase 'on the cards' is an established English idiom meaning highly likely to happen, anticipated, or expected shortly. It accurately corresponds to 'is due' in this situation.<br><br><b>Solution (HI):</b><br>सही विकल्प 3 है। 'is due' (होने वाला या तय होना) को प्रतिस्थापित करने के लिए मुहावरा 'is on the cards' प्रयुक्त होगा, जिसका अर्थ होता है किसी घटना के घटित होने की पूरी संभावना होना।<br><br><b>Short Trick:</b><br>Likely to happen or due soon = On the cards.",
+        "topic": "Idioms and Phrases"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "The multiplex was being built by Mr. Alok and the team.",
+            "The multiplex is been built by Mr. Alok and the team.&nbsp;",
+            "The multiplex was been built by Mr. Alok and the team.&nbsp;",
+            "The multiplex is being built by Mr. Alok and the team."
+        ],
+        "op_hi": [
+            "The multiplex was being built by Mr. Alok and the team.",
+            "The multiplex is been built by Mr. Alok and the team.&nbsp;",
+            "The multiplex was been built by Mr. Alok and the team.&nbsp;",
+            "The multiplex is being built by Mr. Alok and the team."
+        ],
+        "q_en": "Select the option that expresses the given sentence in passive voice. <br><br>Mr. Alok and the team are building the multiplex.",
+        "q_hi": "Select the option that expresses the given sentence in passive voice. <br><br>Mr. Alok and the team are building the multiplex.",
+        "section": "English Language and Comprehension",
+        "solution": "<b>Solution (EN):</b><br>The correct option is 4. The active voice sentence is structured in the Present Continuous Tense ('are building'). Its conversion rules dictate the usage of 'is/am/are + being + V3'. As 'The multiplex' is a singular object, it seamlessly updates to 'is being built by Mr. Alok and the team'.<br><br><b>Solution (HI):</b><br>सही विकल्प 4 है। सक्रिय वाक्य Present Continuous Tense में है। इसे पैसिव वॉइस में बदलने के लिए नियम के अनुसार 'is/am/are + being + V3' रूप का उपयोग किया जाता है। 'The multiplex' एकवचन कर्म है, इसलिए यह 'is being built' में बदल जाएगा।<br><br><b>Short Trick:</b><br>Active Continuous ('is/are building') always converts into 'is/are being built' in Passive voice.",
+        "topic": "Active and Passive Voice"
+    }
+]
