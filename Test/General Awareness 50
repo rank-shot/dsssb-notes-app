@@ -1,0 +1,1052 @@
+[
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "ice creams and jellies",
+            "cake",
+            "cookies",
+            "juices"
+        ],
+        "op_hi": [
+            "आइसक्रीम और जेली",
+            "केक",
+            "कुकीज़",
+            "जूस"
+        ],
+        "q_en": "Gelidium and Gracilaria are used to grow microbes that are used in the preparation of ___________.",
+        "q_hi": "जैलिसियम (Gelidium) और ग्रेसीलेरिया (Gracilaria) का उपयोग उन सूक्ष्मजीवों को उगाने के लिए किया जाता है जिनका उपयोग ___________ की तैयारी में किया जाता है।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Gelidium and Gracilaria are types of red algae from which agar-agar is obtained. Agar is widely used to solidify microbial culture media and in the commercial preparation of ice creams and jellies to provide a smooth texture.<br><br><b>Solution (HI):</b><br>जैलिसियम और ग्रेसीलेरिया लाल शैवाल के प्रकार हैं जिनसे अगर-अगर प्राप्त होता है। अगर का उपयोग सूक्ष्मजीव संवर्धन माध्यम को ठोस बनाने और आइसक्रीम तथा जेली तैयार करने में व्यापक रूप से किया जाता है ताकि उन्हें एक चिकनी बनावट मिल सके।<br><br><b>Short Trick:</b><br>Remember: Gelidium/Gracilaria &rarr; Agar-agar &rarr; Jellies and Ice creams.",
+        "topic": "Biology"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Speaker of the Lok Sabha",
+            "Prime Minister of India",
+            "President of India",
+            "Chief Justice of India"
+        ],
+        "op_hi": [
+            "लोकसभा अध्यक्ष",
+            "भारत के प्रधानमंत्री",
+            "भारत के राष्ट्रपति",
+            "भारत के मुख्य न्यायाधीश"
+        ],
+        "q_en": "In case of a deadlock on a Bill between two houses, ____________ will summon the joint sitting of both houses.",
+        "q_hi": "दोनों सदनों के बीच किसी विधेयक पर गतिरोध की स्थिति में, दोनों सदनों की संयुक्त बैठक को ___________ बुलाएगा।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>According to Article 108 of the Indian Constitution, the President of India summons a joint sitting of both houses of Parliament to resolve a deadlock over an ordinary bill. Note that this joint sitting is presided over by the Speaker of the Lok Sabha.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद 108 के अनुसार, साधारण विधेयक पर गतिरोध को दूर करने के लिए भारत के राष्ट्रपति संसद के दोनों सदनों की संयुक्त बैठक बुलाते हैं। ध्यान दें कि इस संयुक्त बैठक की अध्यक्षता लोकसभा अध्यक्ष करते हैं।<br><br><b>Short Trick:</b><br>Summon (बुलाना) = President; Preside (अध्यक्षता करना) = Speaker.",
+        "topic": "Polity"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Hard",
+        "op_en": [
+            "63.57%",
+            "61.07%",
+            "66.07%",
+            "68.42%"
+        ],
+        "op_hi": [
+            "63.57%",
+            "61.07%",
+            "66.07%",
+            "68.42%"
+        ],
+        "q_en": "According to the Census of India 2011, what was the literacy rate among the Scheduled Caste (SC) population in India?",
+        "q_hi": "भारत की जनगणना 2011 के अनुसार, भारत में अनुसूचित जाति (SC) जनसंख्या की साक्षरता दर कितनी थी?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>According to the 2011 Census, the literacy rate of Scheduled Castes (SCs) in India stood at 66.07%. Among the SC population, the male literacy rate was around 75.17% and the female literacy rate was 56.46%.<br><br><b>Solution (HI):</b><br>2011 की जनगणना के अनुसार, भारत में अनुसूचित जातियों (SCs) की साक्षरता दर 66.07% थी। अनुसूचित जातियों में पुरुष साक्षरता दर लगभग 75.17% और महिला साक्षरता दर 56.46% थी।<br><br><b>Short Trick:</b><br>2011 SC Literacy is approximately 2/3rd of their population, which is 66.07%.",
+        "topic": "Census of India"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Hard",
+        "op_en": [
+            "Only 1",
+            "Neither 1 nor 2",
+            "Only 2",
+            "Both 1 and 2"
+        ],
+        "op_hi": [
+            "केवल 1",
+            "न तो 1 और न ही 2",
+            "केवल 2",
+            "1 और 2 दोनों"
+        ],
+        "q_en": "Consider the following statements regarding caste-based data collection in India:<br>1. The last comprehensive caste census in India, covering all castes, was conducted in 1931 during the British rule.<br>2. The inclusion of Other Backward Classes (OBCs) in reservation measures is based on recent detailed caste data collected through the decennial Census.<br><br>Which of the statement/s given above is/are correct?",
+        "q_hi": "भारत में जाति-आधारित डेटा संग्रह के संबंध में निम्नलिखित कथनों पर विचार कीजिए:<br>1. भारत में सभी जातियों को शामिल करने वाली अंतिम व्यापक जाति जनगणना ब्रिटिश शासन के दौरान 1931 में आयोजित की गई थी।<br>2. आरक्षण उपायों में अन्य पिछड़ा वर्ग (OBC) को शामिल करना दशकीय जनगणना के माध्यम से एकत्र किए गए हालिया विस्तृत जाति डेटा पर आधारित है।<br><br>उपरोक्त दिए गए कथनों में से कौन सा/से सही है/हैं?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Statement 1 is correct: The last full caste census map counting all castes was conducted in 1931. Statement 2 is incorrect: In independent India's decennial census, data is explicitly collected only for SCs and STs. OBC reservation provisions were originally formulated based on the Mandal Commission, which heavily relied on projections from the 1931 data.<br><br><b>Solution (HI):</b><br>कथन 1 सही है: सभी जातियों की गणना करने वाली अंतिम पूर्ण जाति जनगणना 1931 में की गई थी। कथन 2 गलत है: स्वतंत्र भारत की दशकीय जनगणना में केवल अनुसूचित जातियों (SC) और अनुसूचित जनजातियों (ST) के लिए डेटा एकत्र किया जाता है, ओबीसी के लिए अलग से विवरण नहीं आता है। ओबीसी आरक्षण मुख्य रूप से मंडल आयोग पर आधारित था जिसने 1931 के आंकड़ों का अनुमान लगाया था।<br><br><b>Short Trick:</b><br>Remember that post-independence India does not publish detailed caste data for OBCs in regular decennial censuses.",
+        "topic": "Census of India"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Paeophyta",
+            "Rhodophyta",
+            "Pyrrophyta",
+            "Chlorella"
+        ],
+        "op_hi": [
+            "फियोफाइटा (Paeophyta)",
+            "रोडोफाइटा (Rhodophyta)",
+            "पाइरोफाइटा (Pyrrophyta)",
+            "क्लोरेला (Chlorella)"
+        ],
+        "q_en": "Which of the following algae is used as a food supplement by space travellers?",
+        "q_hi": "निम्नलिखित में से किस शैवाल का उपयोग अंतरिक्ष यात्रियों द्वारा खाद्य पूरक के रूप में किया जाता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Chlorella is a single-celled green alga that is exceptionally rich in proteins, vitamins, and minerals. Because it yields a high amount of nutrients in a small volume, it is widely used as a key food supplement by space travellers.<br><br><b>Solution (HI):</b><br>क्लोरेला एक एककोशकीय हरा शैवाल है जो प्रोटीन, विटामिन और खनिजों से भरपूर होता है। क्योंकि यह कम मात्रा में उच्च पोषक तत्व प्रदान करता है, इसलिए इसका उपयोग अंतरिक्ष यात्रियों द्वारा एक मुख्य खाद्य पूरक के रूप में किया जाता है।<br><br><b>Short Trick:</b><br>Space Algae = Chlorella / Spirulina.",
+        "topic": "Biology"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Midnight's Children",
+            "A Suitable Boy",
+            "Interpreter of Maladies",
+            "The Glass Palace"
+        ],
+        "op_hi": [
+            "मिडनाइट्स चिल्ड्रन (Midnight's Children)",
+            "ए सूटेबल बॉय (A Suitable Boy)",
+            "इंटरप्रेटर ऑफ मैलेडीज (Interpreter of Maladies)",
+            "द ग्लास पैलेस (The Glass Palace)"
+        ],
+        "q_en": "What is the name of the Booker Prize-winning novel of Salman Rushdie?",
+        "q_hi": "सलमान रुश्दी के बुकर पुरस्कार विजेता उपन्यास का नाम क्या है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Salman Rushdie won the prestigious Booker Prize in 1981 for his critically acclaimed novel 'Midnight's Children'. The book deals with India's transition from British colonial rule to independence.<br><br><b>Solution (HI):</b><br>सलमान रुश्दी ने अपने बहुप्रशंसित उपन्यास 'मिडनाइट्स चिल्ड्रन' के लिए 1981 में प्रतिष्ठित बुकर पुरस्कार जीता था। यह पुस्तक ब्रिटिश औपनिवेशिक शासन से स्वतंत्रता तक भारत के परिवर्तन पर आधारित है।<br><br><b>Short Trick:</b><br>Rushdie + Booker Status = Midnight's Children (1981).",
+        "topic": "Books and Authors"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "budding",
+            "spores",
+            "vegetative propagation",
+            "thalli"
+        ],
+        "op_hi": [
+            "मुकुलन (budding)",
+            "बीजाणु (spores)",
+            "वानस्पतिक प्रवर्धन (vegetative propagation)",
+            "थैली/थैलस (thalli)"
+        ],
+        "q_en": "Asexual reproduction in liverworts takes place by the fragmentation of _______.",
+        "q_hi": "लिवरवर्ट्स (liverworts) में अलैंगिक जनन ___________ के विखंडन द्वारा होता है।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Liverworts are bryophytes. Asexual reproduction in them takes place by the fragmentation of their plant body, called the thalli (singular: thallus), or via specialized multicellular structures called gemmae contained within gemma cups.<br><br><b>Solution (HI):</b><br>लिवरवर्ट्स ब्रायोफाइट्स वर्ग के होते हैं। इनमें अलैंगिक जनन उनके मुख्य पौधे के शरीर, जिसे थैलस या थैली (thalli) कहा जाता है, के विखंडन द्वारा या जेम्मा कप के भीतर विशेष बहुकोशकीय संरचनाओं (gemmae) द्वारा होता है।<br><br><b>Short Trick:</b><br>Liverwort plant body format is a Thallus. Fragmentation breaks down the thalli.",
+        "topic": "Biology"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "President of India",
+            "Prime Minister of India",
+            "Advocate General of States",
+            "Speaker of Lok Sabha"
+        ],
+        "op_hi": [
+            "भारत के राष्ट्रपति",
+            "भारत के प्रधानमंत्री",
+            "राज्यों के महाधिवक्ता",
+            "लोकसभा अध्यक्ष"
+        ],
+        "q_en": "Who is empowered to appoint the acting Chief Justice of the Supreme Court?",
+        "q_hi": "सर्वोच्च न्यायालय के कार्यवाहक मुख्य न्यायाधीश को नियुक्त करने का अधिकार किसे है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Under Article 126 of the Indian Constitution, when the office of the Chief Justice of India is vacant or when the Chief Justice is unable to perform duties, the President of India is empowered to appoint an acting Chief Justice from among the other judges of the Supreme Court.<br><br><b>Solution (HI):</b><br>भारतीय संविधान के अनुच्छेद 126 के तहत, जब भारत के मुख्य न्यायाधीश का पद रिक्त हो या जब मुख्य न्यायाधीश अपने कर्तव्यों का पालन करने में असमर्थ हों, तो भारत के राष्ट्रपति को सर्वोच्च न्यायालय के अन्य न्यायाधीशों में से एक कार्यवाहक मुख्य न्यायाधीश नियुक्त करने का अधिकार है।<br><br><b>Short Trick:</b><br>All top-level constitutional and judicial appointments are executed directly by the President.",
+        "topic": "Polity"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "1, 3, 2",
+            "2, 1, 3",
+            "2, 3, 1",
+            "1, 2, 3"
+        ],
+        "op_hi": [
+            "1, 3, 2",
+            "2, 1, 3",
+            "2, 3, 1",
+            "1, 2, 3"
+        ],
+        "q_en": "Arrange the following languages in the order they were declared as Classical Languages in India.<br>1. Sanskrit<br>2. Tamil<br>3. Kannada",
+        "q_hi": "निम्नलिखित भाषाओं को भारत में शास्त्रीय भाषा (Classical Languages) घोषित किए जाने के क्रम में व्यवस्थित कीजिए।<br>1. संस्कृत<br>2. तमिल<br>3. कन्नड़",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The chronological order in which these languages were accorded classical status by the Government of India is:<br>1. Tamil &rarr; 2004<br>2. Sanskrit &rarr; 2005<br>3. Kannada &rarr; 2008<br>Therefore, the correct sequence is 2, 1, 3.<br><br><b>Solution (HI):</b><br>भारत सरकार द्वारा इन भाषाओं को शास्त्रीय दर्जा दिए जाने का कालानुक्रमिक क्रम इस प्रकार है:<br>1. तमिल &rarr; 2004<br>2. संस्कृत &rarr; 2005<br>3. कन्नड़ &rarr; 2008<br>इसलिए, सही क्रम 2, 1, 3 है।<br><br><b>Short Trick:</b><br>Tamil was the very first classical language (2004), followed immediately by Sanskrit (2005). Hence, it must start with 2 then 1.",
+        "topic": "Art and Culture"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Tamil and Sanskrit",
+            "Sanskrit and Malayalam",
+            "Kannada and Telugu",
+            "Malayalam and Odia"
+        ],
+        "op_hi": [
+            "तमिल और संस्कृत",
+            "संस्कृत और मरम्मत",
+            "कन्नड़ और तेलुगु",
+            "मलयालम और ओडिया"
+        ],
+        "q_en": "Which two languages were declared Classical Languages on the same day?",
+        "q_hi": "किन दो भाषाओं को एक ही दिन शास्त्रीय भाषा घोषित किया गया था?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Both Kannada and Telugu were officially accorded the status of Classical Languages by the Ministry of Tourism and Culture on the exact same declaration day in the year 2008.<br><br><b>Solution (HI):</b><br>कन्नड़ और तेलुगु दोनों को वर्ष 2008 में एक ही घोषणा पत्र के तहत पर्यटन और संस्कृति मंत्रालय द्वारा आधिकारिक तौर पर शास्त्रीय भाषा का दर्जा दिया गया था।<br><br><b>Short Trick:</b><br>Remember the southern duo pairing: Kannada and Telugu got the status together in 2008.",
+        "topic": "Art and Culture"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Tropical Evergreen Forests",
+            "Montane Forests",
+            "Mangrove Forests",
+            "Thorn Forests and Scrubs"
+        ],
+        "op_hi": [
+            "उष्णकटिबंधीय सदाबहार वन",
+            "पर्वतीय वन",
+            "मैंग्रोव वन",
+            "कांटेदार वन और झाड़ियाँ"
+        ],
+        "q_en": "Which of the following vegetation types is characterised by thorny trees and bushes, commonly found in regions with less than 50 cm of rainfall in India?",
+        "q_hi": "निम्नलिखित में से कौन सी वनस्पति कांटेदार पेड़ों और झाड़ियों की विशेषता है, जो आमतौर पर भारत में 50 सेमी से कम वर्षा वाले क्षेत्रों में पाई जाती है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Thorn Forests and Scrubs are located in semi-arid and arid regions that receive less than 70 cm (and often below 50 cm) of annual rainfall. Plants like Acacias, Cacti, and Euphorbias are common in states like Rajasthan and Gujarat.<br><br><b>Solution (HI):</b><br>कांटेदार वन और झाड़ियाँ उन अर्ध-शुष्क और शुष्क क्षेत्रों में स्थित हैं जहाँ वार्षिक वर्षा 70 सेमी (और अक्सर 50 सेमी से कम) से कम होती है। राजस्थान और गुजरात जैसे राज्यों में बबूल, कैक्टस और यूफोरबिया जैसे पौधे आम हैं।<br><br><b>Short Trick:</b><br>Rainfall < 50 cm implies an arid region, which matches with Thorn Forests and Scrubs.",
+        "topic": "Geography"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Navratri",
+            "Shamlaji Fair",
+            "Uttarayan",
+            "Tulsi Vivah"
+        ],
+        "op_hi": [
+            "नवरात्रि",
+            "शामलाजी मेला",
+            "उत्तरायण",
+            "तुलसी विवाह"
+        ],
+        "q_en": "Which festival in Gujarat involves decorating and worshipping the holy Tulsi plant?",
+        "q_hi": "गुजरात के किस त्योहार में पवित्र तुलसी के पौधे को सजाना और उसकी पूजा करना शामिल है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Tulsi Vivah is a significant festival performed in Gujarat and across India. It involves the ceremonial marriage of the holy Tulsi (basil plant) to Lord Vishnu or his avatar, Krishna, marking the beginning of the Hindu wedding season.<br><br><b>Solution (HI):</b><br>तुलसी विवाह गुजरात और पूरे भारत में मनाया जाने वाला एक महत्वपूर्ण त्योहार है। इसमें हिंदू विवाह सीजन की शुरुआत के प्रतीक के रूप में पवित्र तुलसी के पौधे का विवाह भगवान विष्णु या उनके अवतार कृष्ण के साथ औपचारिक रूप से कराया जाता है।<br><br><b>Short Trick:</b><br>Worshipping and decorating the Tulsi plant &rarr; Tulsi Vivah.",
+        "topic": "Art and Culture"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Comptroller and Auditor-General of India",
+            "Parliament",
+            "Legislative Council",
+            "Legislative Assembly"
+        ],
+        "op_hi": [
+            "भारत के नियंत्रक और महालेखापरीक्षक",
+            "संसद",
+            "विधान परिषद",
+            "विधानसभा"
+        ],
+        "q_en": "As per Article 125 of Indian Constitution, salaries of the Judges of the Supreme Court shall be determined by _____________________by law.",
+        "q_hi": "भारतीय संविधान के अनुच्छेद 125 के अनुसार, सर्वोच्च न्यायालय के न्यायाधीशों के वेतन का निर्धारण कानून द्वारा _____________________ द्वारा किया जाएगा।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Article 125 states that the salaries, allowances, and pensions of Supreme Court judges are determined by Parliament by law. These salaries are charged directly onto the Consolidated Fund of India.<br><br><b>Solution (HI):</b><br>अनुच्छेद 125 निर्दिष्ट करता है कि सर्वोच्च न्यायालय के न्यायाधीशों के वेतन, भत्ते और पेंशन कानून द्वारा संसद द्वारा निर्धारित किए जाते हैं। ये वेतन सीधे भारत की संचित निधि पर भारित होते हैं।<br><br><b>Short Trick:</b><br>Centralized allowances and salary provisions for federal courts are always regulated by the Parliament.",
+        "topic": "Polity"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "angiosperms",
+            "bryophytes",
+            "gymnosperms",
+            "pteridophytes"
+        ],
+        "op_hi": [
+            "आवृतबीजी (angiosperms)",
+            "ब्रायोफाइट्स (bryophytes)",
+            "अनावृतबीजी (gymnosperms)",
+            "टेरिडोफाइट्स (pteridophytes)"
+        ],
+        "q_en": "Plants that can live on soil but are dependent on water for sexual reproduction are called ________.",
+        "q_hi": "वे पौधे जो मिट्टी पर रह सकते हैं लेकिन लैंगिक जनन के लिए पानी पर निर्भर होते हैं, क्या कहलाते हैं?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Bryophytes are widely referred to as the \"amphibians of the plant kingdom\". Even though they grow on terrestrial soil, they absolutely require a thin film of water to facilitate sexual reproduction so that the flagellated male gametes can swim to the egg.<br><br><b>Solution (HI):</b><br>ब्रायोफाइट्स को पादप जगत का \"उभयचर\" कहा जाता है। भले ही वे स्थलीय मिट्टी पर उगते हैं, लेकिन उन्हें लैंगिक जनन के लिए पानी की एक पतली परत की आवश्यकता होती है ताकि नर युग्मक तैरकर मादा अंडे तक पहुंच सकें।<br><br><b>Short Trick:</b><br>Soil dweller + Water dependent for reproduction = Plant Amphibians &rarr; Bryophytes.",
+        "topic": "Biology"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Karnataka",
+            "Odisha",
+            "Madhya Pradesh",
+            "Maharashtra"
+        ],
+        "op_hi": [
+            "कर्नाटक",
+            "ओडिशा",
+            "मध्य प्रदेश",
+            "महाराष्ट्र"
+        ],
+        "q_en": "In which of the following states are the gold ore deposits of<span style=\"background-color: white;\"> Chitradurga </span>and Kolar located?",
+        "q_hi": "निम्नलिखित में से किस राज्य में चित्रदुर्ग और कोलार के स्वर्ण अयस्क भंडार स्थित हैं?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The major gold mining regions and ore reserves of India, specifically Kolar Gold Fields (KGF) and the Hutti/Chitradurga greenstone belts, are located in the state of Karnataka.<br><br><b>Solution (HI):</b><br>भारत के प्रमुख सोने के खनन क्षेत्र और अयस्क भंडार, विशेष रूप से कोलार गोल्ड फील्ड्स (KGF) और चित्रदुर्ग ग्रीनस्टोन बेल्ट, कर्नाटक राज्य में स्थित हैं।<br><br><b>Short Trick:</b><br>Kolar (famous via KGF) is situated directly in Karnataka.",
+        "topic": "Geography"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "World Peace Day",
+            "International Day of Non-Violence",
+            "Global Human Rights Day",
+            "Freedom Movement Day"
+        ],
+        "op_hi": [
+            "विश्व शांति दिवस",
+            "अंतर्राष्ट्रीय अहिंसा दिवस",
+            "वैश्विक मानवाधिकार दिवस",
+            "स्वतंत्रता आंदोलन दिवस"
+        ],
+        "q_en": "Internationally, Gandhi Jayanti is known as _______.",
+        "q_hi": "अंतर्राष्ट्रीय स्तर पर गांधी जयंती को किस रूप में जाना जाता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>In June 2007, the United Nations General Assembly officially declared October 2 (the birthday of Mahatma Gandhi) as the International Day of Non-Violence to propagate his message of peace globally.<br><br><b>Solution (HI):</b><br>जून 2007 में, संयुक्त राष्ट्र महासभा ने महात्मा गांधी के शांति के संदेश को वैश्विक स्तर पर प्रसारित करने के लिए आधिकारिक तौर पर 2 अक्टूबर (महात्मा गांधी के जन्मदिन) को अंतर्राष्ट्रीय अहिंसा दिवस के रूप में घोषित किया था।<br><br><b>Short Trick:</b><br>Mahatma Gandhi is globally synonymous with Ahimsa &rarr; International Day of Non-Violence.",
+        "topic": "Important Days"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "River basins",
+            "Longitudinal valleys",
+            "Mountain peaks",
+            "Desert areas"
+        ],
+        "op_hi": [
+            "नदी घाटियाँ",
+            "अनुदैर्ध्य घाटियाँ (Longitudinal valleys)",
+            "पर्वत चोटियाँ",
+            "मरुस्थलीय क्षेत्र"
+        ],
+        "q_en": "What are duns?",
+        "q_hi": "दून (duns) क्या हैं?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Duns are structural longitudinal valleys created between the Lesser Himalayas and the outer Shivalik range. Dehradun, Kotli Dun, and Patli Dun are well-known examples of this phenomenon.<br><br><b>Solution (HI):</b><br>दून संरचनात्मक अनुदैर्ध्य घाटियाँ (Longitudinal valleys) हैं जो लघु हिमालय और बाहरी शिवालिक श्रेणी के बीच बनती हैं। देहरादून, कोटली दून और पाटली दून इसके प्रसिद्ध उदाहरण हैं।<br><br><b>Short Trick:</b><br>Dehra'dun' is a famous valley layout embedded between mountains.",
+        "topic": "Geography"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Prime Minister of India",
+            "President of India",
+            "Chairman of Rajya Sabha",
+            "Speaker of Lok Sabha"
+        ],
+        "op_hi": [
+            "भारत के प्रधानमंत्री",
+            "भारत के राष्ट्रपति",
+            "राज्यसभा के सभापति",
+            "लोकसभा अध्यक्ष"
+        ],
+        "q_en": "Who among the following appoints Secretary General of Rajya Sabha?",
+        "q_hi": "निम्नलिखित में से कौन राज्यसभा के महासचिव की नियुक्ति करता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Secretary-General of the Rajya Sabha holds a administrative rank equivalent to the Cabinet Secretary of India and is appointed directly by the Chairman of the Rajya Sabha (the Vice-President of India).<br><br><b>Solution (HI):</b><br>राज्यसभा के महासचिव का प्रशासनिक पद भारत के कैबिनेट सचिव के समकक्ष होता है और उनकी नियुक्ति सीधे राज्यसभा के सभापति (भारत के उपराष्ट्रपति) द्वारा की जाती है।<br><br><b>Short Trick:</b><br>The administrative head of any parliamentary house is appointed by the presiding officer of that house (Chairman for Rajya Sabha).",
+        "topic": "Polity"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Quasi-Federal Constitution",
+            "Rigid Constitution",
+            "Flexible Constitution",
+            "Unitary Constitution"
+        ],
+        "op_hi": [
+            "अर्ध-संघीय संविधान (Quasi-Federal)",
+            "कठोर संविधान",
+            "लचीला संविधान",
+            "एकात्मक संविधान"
+        ],
+        "q_en": "Of which of the following types is the Indian Constitution?",
+        "q_hi": "भारतीय संविधान निम्नलिखित में से किस प्रकार का है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Indian Constitution is famously described as 'Quasi-Federal' (unitary in spirit but federal in structure) by constitutional expert K.C. Wheare. It provides a strong central bias alongside regular federal divisions.<br><br><b>Solution (HI):</b><br>भारतीय संविधान को संवैधानिक विशेषज्ञ के.सी. व्हीयर द्वारा 'अर्ध-संघीय' (भावना में एकात्मक लेकिन संरचना में संघीय) के रूप में वर्णित किया गया है। यह नियमित संघीय विभाजनों के साथ एक मजबूत केंद्रीय झुकाव प्रदान करता है।<br><br><b>Short Trick:</b><br>Indian federalism is unique and centrally inclined &rarr; Quasi-Federal.",
+        "topic": "Polity"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "Vikram Seth",
+            "Salman Rushdie",
+            "Jhumpa Lahiri",
+            "RK Narayan"
+        ],
+        "op_hi": [
+            "विक्रम सेठ (Vikram Seth)",
+            "सलमान रुश्दी (Salman Rushdie)",
+            "झुम्पा लाहिड़ी (Jhumpa Lahiri)",
+            "आरके नारायण (RK Narayan)"
+        ],
+        "q_en": "Who is the author of the novel ‘A Suitable Boy’?",
+        "q_hi": "‘A Suitable Boy’ उपन्यास के लेखक कौन हैं?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>'A Suitable Boy' is a highly celebrated massive novel published in 1993, written by Indian author Vikram Seth. It remains one of the longest single-volume English novels ever published.<br><br><b>Solution (HI):</b><br>'A Suitable Boy' 1993 में प्रकाशित भारतीय लेखक विक्रम सेठ द्वारा लिखित एक अत्यंत प्रसिद्ध और विशाल उपन्यास है। यह अंग्रेजी भाषा में प्रकाशित अब तक के सबसे लंबे एकल-खंड उपन्यासों में से एक है।<br><br><b>Short Trick:</b><br>Match phrase: Vikram Seth &rarr; A Suitable Boy.",
+        "topic": "Books and Authors"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Shivaliks",
+            "Aravalli",
+            "Himachal Range",
+            "Himadri"
+        ],
+        "op_hi": [
+            "शिवालिक",
+            "अरावली",
+            "हिमाचल श्रेणी",
+            "हिमाद्रि"
+        ],
+        "q_en": "Which of the following mountain ranges is NOT part of the Himalayas?",
+        "q_hi": "निम्नलिखित में से कौन सी पर्वत श्रृंखला हिमालय का हिस्सा नहीं है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Himalayas consist of three parallel ranges: the Himadri (Great Himalayas), Himachal (Lesser Himalayas), and Shivaliks (Outer Himalayas). The Aravalli Range is one of the oldest fold mountain systems in the world, located in western India (Rajasthan, Haryana, Gujarat), and is not part of the Himalayan system.<br><br><b>Solution (HI):</b><br>हिमालय में तीन समानांतर श्रेणियां शामिल हैं: हिमाद्रि (महान हिमालय), हिमाचल (लघु हिमालय), और शिवालिक (बाह्य हिमालय)। अरावली श्रेणी दुनिया की सबसे पुरानी वलित पर्वत प्रणालियों में से एक है, जो पश्चिमी भारत (राजस्थान, हरियाणा, गुजरात) में स्थित है, और हिमालयी प्रणाली का हिस्सा नहीं है।<br><br><b>Short Trick:</b><br>Himalayan layers: Himadri &rarr; Himachal &rarr; Shivalik. Aravalli is in Rajasthan/Oldest.",
+        "topic": "Indian Geography"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Soil restoration",
+            "Global warming",
+            "Biodiversity conservation",
+            "Climate stabilisation"
+        ],
+        "op_hi": [
+            "मिट्टी की बहाली",
+            "ग्लोबल वार्मिंग",
+            "जैव विविधता संरक्षण",
+            "जलवायु स्थिरीकरण"
+        ],
+        "q_en": "Which of the following is one of the negative consequences of the increasing adoption of industrial technology?",
+        "q_hi": "औद्योगिक तकनीक के बढ़ते उपयोग के नकारात्मक परिणामों में से कौन सा एक है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Industrial technology often involves the burning of fossil fuels and large-scale manufacturing, which leads to the emission of greenhouse gases like Carbon Dioxide (CO2). This results in global warming. Other options like soil restoration and biodiversity conservation are positive environmental outcomes.<br><br><b>Solution (HI):</b><br>औद्योगिक तकनीक में अक्सर जीवाश्म ईंधन को जलाना और बड़े पैमाने पर विनिर्माण शामिल होता है, जिससे कार्बन डाइऑक्साइड (CO2) जैसी ग्रीनहाउस गैसों का उत्सर्जन होता है। इसके परिणामस्वरूप ग्लोबल वार्मिंग होती है। मिट्टी की बहाली और जैव विविधता संरक्षण जैसे अन्य विकल्प सकारात्मक पर्यावरणीय परिणाम हैं।<br><br><b>Short Trick:</b><br>Industry &rarr; Pollution/CO2 &rarr; Global Warming.",
+        "topic": "Environment"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Kajal and Jyoti Berwal",
+            "Pooja Sihag and Tapasya Gahlawat",
+            "Saarika and Shruti Kundu",
+            "Reena and Priya Malik"
+        ],
+        "op_hi": [
+            "काजल और ज्योति बेरवाल",
+            "पूजा सिहाग और तपस्या गहलावत",
+            "सारिका और श्रुति कुंडू",
+            "रीना और प्रिया मलिक"
+        ],
+        "q_en": "In August 2025, which two Indian women wrestlers won silver medals at the U20 World Wrestling Championships in Bulgaria?",
+        "q_hi": "अगस्त 2025 में, बुल्गारिया में आयोजित U20 विश्व कुश्ती चैंपियनशिप में किन दो भारतीय महिला पहलवानों ने रजत पदक जीते?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>At the 2025 U20 World Wrestling Championships held in Bulgaria, Indian wrestlers Reena (57kg) and Priya Malik (76kg) secured silver medals, contributing to India's strong performance in the tournament.<br><br><b>Solution (HI):</b><br>बुल्गारिया में आयोजित 2025 U20 विश्व कुश्ती चैंपियनशिप में, भारतीय पहलवान रीना (57 किग्रा) और प्रिया मलिक (76 किग्रा) ने रजत पदक हासिल किए, जिससे टूर्नामेंट में भारत के मजबूत प्रदर्शन में योगदान मिला।<br><br><b>Short Trick:</b><br>Silver Duo 2025: Reena &amp; Priya.",
+        "topic": "Current Affairs - Sports"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Ganga, Yamuna and Tapi",
+            "Brahmaputra, Yamuna and Mahanadi",
+            "Yamuna, Godavari and Krishna",
+            "Indus, Ganga and Brahmaputra"
+        ],
+        "op_hi": [
+            "गंगा, यमुना और तापी",
+            "ब्रह्मपुत्र, यमुना और महानदी",
+            "यमुना, गोदावरी और कृष्णा",
+            "सिंधु, गंगा और ब्रह्मपुत्र"
+        ],
+        "q_en": "Which of the following major river systems contributes to the formation of the northern plain?",
+        "q_hi": "निम्नलिखित में से कौन सी प्रमुख नदी प्रणाली उत्तरी मैदान के निर्माण में योगदान देती है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Northern Plains of India (Indo-Gangetic-Brahmaputra plain) are formed by the alluvial deposits brought down by the three major Himalayan river systems: the Indus, the Ganga, and the Brahmaputra, along with their tributaries.<br><br><b>Solution (HI):</b><br>भारत के उत्तरी मैदान (सिंधु-गंगा-ब्रह्मपुत्र मैदान) तीन प्रमुख हिमालयी नदी प्रणालियों: सिंधु, गंगा और ब्रह्मपुत्र, उनकी सहायक नदियों के साथ, द्वारा लाए गए जलोढ़ निक्षेपों से बने हैं।<br><br><b>Short Trick:</b><br>IGB Plain = Indus + Ganga + Brahmaputra.",
+        "topic": "Indian Geography"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Basant Panchami",
+            "Guru Purab",
+            "Dol Jatra",
+            "Vaisakhi"
+        ],
+        "op_hi": [
+            "बसंत पंचमी",
+            "गुरु पूरब",
+            "डोल जात्रा",
+            "बैसाखी"
+        ],
+        "q_en": "What is the name of the festival that celebrates the anniversary of the ten Sikh Gurus?",
+        "q_hi": "उस त्योहार का नाम क्या है जो दस सिख गुरुओं की वर्षगांठ मनाता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Gurpurab (Guru Purab) refers to the celebration of the birth anniversary or martyrdom of the Sikh Gurus. The most famous one is Guru Nanak Gurpurab. Vaisakhi is the harvest festival and the anniversary of the formation of Khalsa Panth.<br><br><b>Solution (HI):</b><br>गुरुपुरब (गुरु पूरब) सिख गुरुओं की जयंती या शहादत के उत्सव को संदर्भित करता है। सबसे प्रसिद्ध गुरु नानक गुरुपुरब है। बैसाखी फसल उत्सव और खालसा पंथ की स्थापना की वर्षगांठ है।<br><br><b>Short Trick:</b><br>Guru + Purab (Occurrence/Festival) = Guru's Anniversary.",
+        "topic": "Culture & Religion"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Holi",
+            "Christmas Day",
+            "Eid",
+            "Navratri"
+        ],
+        "op_hi": [
+            "होली",
+            "क्रिसमस",
+            "ईद",
+            "नवरात्रि"
+        ],
+        "q_en": "Garba nights are significantly organised during which festival?",
+        "q_hi": "गरबा रातों का आयोजन मुख्य रूप से किस त्योहार के दौरान किया जाता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Garba is a traditional folk dance of Gujarat, performed during the nine nights of the Navratri festival in honor of Goddess Durga. It involves dancing in a circular pattern around a lamp or a picture of the Goddess.<br><br><b>Solution (HI):</b><br>गरबा गुजरात का एक पारंपरिक लोक नृत्य है, जो देवी दुर्गा के सम्मान में नवरात्रि उत्सव की नौ रातों के दौरान किया जाता है। इसमें एक दीपक या देवी की तस्वीर के चारों ओर गोलाकार पैटर्न में नृत्य करना शामिल है।<br><br><b>Short Trick:</b><br>Gujarat + Navratri = Garba/Dandiya.",
+        "topic": "Culture"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "the interaction between genes and nutrients",
+            "the marketing of dietary supplements",
+            "the economic impact of agriculture",
+            "the chemistry of artificial sweeteners"
+        ],
+        "op_hi": [
+            "जीन और पोषक तत्वों के बीच परस्पर क्रिया",
+            "आहार पूरक (dietary supplements) का विपणन",
+            "कृषि का आर्थिक प्रभाव",
+            "कृत्रिम मिठास का रसायन विज्ञान"
+        ],
+        "q_en": "Nutrigenomics is the study of __________.<br>",
+        "q_hi": "न्यूट्रीजेनोमिक्स (Nutrigenomics) __________ का अध्ययन है।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Nutrigenomics (also known as nutritional genomics) is a branch of science that studies the relationship between human genome, nutrition and health. It focuses on how individual genetic differences affect our response to nutrients and how nutrients affect our genes.<br><br><b>Solution (HI):</b><br>न्यूट्रीजेनोमिक्स (जिसे पोषण जीनोमिक्स के रूप में भी जाना जाता है) विज्ञान की एक शाखा है जो मानव जीनोम, पोषण और स्वास्थ्य के बीच संबंधों का अध्ययन करती है। यह इस बात पर ध्यान केंद्रित करता है कि व्यक्तिगत आनुवंशिक अंतर पोषक तत्वों के प्रति हमारी प्रतिक्रिया को कैसे प्रभावित करते हैं और पोषक तत्व हमारे जीन को कैसे प्रभावित करते हैं।<br><br><b>Short Trick:</b><br>Nutri (Nutrition) + Genomics (Genes) = Interaction of Food and Genes.",
+        "topic": "Science - Biology"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "1951",
+            "1881",
+            "1872",
+            "1865"
+        ],
+        "op_hi": [
+            "1951",
+            "1881",
+            "1872",
+            "1865"
+        ],
+        "q_en": "Which year marked India’s first coordinated nationwide population census?",
+        "q_hi": "किस वर्ष भारत की पहली समन्वित राष्ट्रव्यापी जनसंख्या जनगणना हुई थी?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The first non-synchronous census in India was held in 1872 under Lord Mayo. However, the first synchronous (coordinated/nationwide) census was conducted in 1881 under Lord Ripon. Since then, censuses have been conducted every 10 years.<br><br><b>Solution (HI):</b><br>भारत में पहली गैर-तुल्यकालिक जनगणना 1872 में लॉर्ड मेयो के तहत हुई थी। हालांकि, पहली तुल्यकालिक (समन्वित/राष्ट्रव्यापी) जनगणना 1881 में लॉर्ड रिपन के तहत आयोजित की गई थी। तब से, हर 10 साल में जनगणना की जाती है।<br><br><b>Short Trick:</b><br>First (Partial): 1872; First (Nationwide/Regular): 1881.",
+        "topic": "History - Census"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "243 G",
+            "243 I",
+            "243 J",
+            "243 F"
+        ],
+        "op_hi": [
+            "243 G",
+            "243 I",
+            "243 J",
+            "243 F"
+        ],
+        "q_en": "Which Article of the Indian Constitution mandates the establishment of a State Finance Commission (SFC) by the Governor every five years to review the financial position of Panchayats and Municipalities?",
+        "q_hi": "भारतीय संविधान का कौन सा अनुच्छेद राज्यपाल द्वारा पंचायतों और नगर पालिकाओं की वित्तीय स्थिति की समीक्षा के लिए हर पांच साल में राज्य वित्त आयोग (SFC) की स्थापना का आदेश देता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Article 243-I of the Constitution mandates the Governor of a state to constitute a State Finance Commission every five years to review the financial position of Panchayats and make recommendations. Article 243-Y does the same for Municipalities.<br><br><b>Solution (HI):</b><br>संविधान का अनुच्छेद 243-I राज्य के राज्यपाल को पंचायतों की वित्तीय स्थिति की समीक्षा करने और सिफारिशें करने के लिए हर पांच साल में एक राज्य वित्त आयोग गठित करने का आदेश देता है। अनुच्छेद 243-Y नगर पालिकाओं के लिए भी यही करता है।<br><br><b>Short Trick:</b><br>I &rarr; Income/Finance for Panchayats.",
+        "topic": "Indian Polity"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Governor",
+            "Block Development officer",
+            "Chief Minister",
+            "District Collector"
+        ],
+        "op_hi": [
+            "राज्यपाल",
+            "खंड विकास अधिकारी",
+            "मुख्यमंत्री",
+            "जिला कलेक्टर"
+        ],
+        "q_en": "In a state, who is responsible for supervising the functioning of Panchayats?",
+        "q_hi": "किसी राज्य में पंचायतों के कामकाज के पर्यवेक्षण के लिए कौन जिम्मेदार है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>At the district level, the District Collector (or District Magistrate) is generally responsible for the overall supervision, coordination, and control over the functioning of the Panchayati Raj Institutions (PRIs).<br><br><b>Solution (HI):</b><br>जिला स्तर पर, जिला कलेक्टर (या जिला मजिस्ट्रेट) आम तौर पर पंचायती राज संस्थानों (PRIs) के कामकाज के समग्र पर्यवेक्षण, समन्वय और नियंत्रण के लिए जिम्मेदार होता है।<br><br><b>Short Trick:</b><br>Head of District Admin = Collector.",
+        "topic": "Indian Polity"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "Udta Punjab",
+            "Dear Zindagi",
+            "Gangubai Kathiawadi",
+            "Raazi"
+        ],
+        "op_hi": [
+            "उड़ता पंजाब",
+            "डियर जिंदगी",
+            "गंगूबाई काठियावाड़ी",
+            "राजी"
+        ],
+        "q_en": "For which film did Alia Bhatt win the 'Best Actress' National Award in 2023?",
+        "q_hi": "आलिया भट्ट ने 2023 में किस फिल्म के लिए 'सर्वश्रेष्ठ अभिनेत्री' का राष्ट्रीय पुरस्कार जीता?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Alia Bhatt won the Best Actress award at the 69th National Film Awards (2023) for her performance in the film 'Gangubai Kathiawadi'. She shared the award with Kriti Sanon (for Mimi).<br><br><b>Solution (HI):</b><br>आलिया भट्ट ने फिल्म 'गंगूबाई काठियावाड़ी' में अपने प्रदर्शन के लिए 69वें राष्ट्रीय फिल्म पुरस्कार (2023) में सर्वश्रेष्ठ अभिनेत्री का पुरस्कार जीता। उन्होंने यह पुरस्कार कृति सेनन (मिमी के लिए) के साथ साझा किया।<br><br><b>Short Trick:</b><br>Alia &rarr; Gangubai (National Award 2023).",
+        "topic": "Awards"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "air pollution",
+            "soil erosion",
+            "deforestation",
+            "water scarcity"
+        ],
+        "op_hi": [
+            "वायु प्रदूषण",
+            "मृदा अपरदन",
+            "वनों की कटाई",
+            "पानी की कमी"
+        ],
+        "q_en": "Desalination technology primarily addresses the problem of _______.<br>",
+        "q_hi": "डिसेलिनेशन (Desalination) तकनीक मुख्य रूप से _______ की समस्या का समाधान करती है।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Desalination is the process of removing mineral components (salts) from saline water (usually seawater) to make it suitable for human consumption or irrigation. It is used in regions facing extreme water scarcity.<br><br><b>Solution (HI):</b><br>डिसेलिनेशन खारे पानी (आमतौर पर समुद्री पानी) से खनिज घटकों (लवण) को हटाने की प्रक्रिया है ताकि इसे मानव उपभोग या सिंचाई के लिए उपयुक्त बनाया जा सके। इसका उपयोग अत्यधिक पानी की कमी का सामना करने वाले क्षेत्रों में किया जाता है।<br><br><b>Short Trick:</b><br>De (Remove) + Saline (Salt) &rarr; Fresh Water &rarr; Fixes Scarcity.",
+        "topic": "Science - Technology"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Ramakant Achrekar",
+            "Salim Durani",
+            "Ajit Wadekar",
+            "Cottari Kanakaiya Nayudu"
+        ],
+        "op_hi": [
+            "रमाकांत अचरेकर",
+            "सलीम दुरानी",
+            "अजीत वाडेकर",
+            "कोट्टारी कनकैया नायडू"
+        ],
+        "q_en": "Who among the following was the first Indian male cricketer to win the Arjuna Award?",
+        "q_hi": "निम्नलिखित में से कौन अर्जुन पुरस्कार जीतने वाले पहले भारतीय पुरुष क्रिकेटर थे?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Salim Durani was the first male cricketer to be honored with the Arjuna Award in 1961, which was the inception year of the award. He was known for his ability to hit sixes on public demand.<br><br><b>Solution (HI):</b><br>सलीम दुरानी 1961 में अर्जुन पुरस्कार से सम्मानित होने वाले पहले पुरुष क्रिकेटर थे, जो इस पुरस्कार का स्थापना वर्ष था। वे जनता की मांग पर छक्के मारने की अपनी क्षमता के लिए जाने जाते थे।<br><br><b>Short Trick:</b><br>First Cricket Arjuna: Salim Durani (1961).",
+        "topic": "Sports - Awards"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Article 18",
+            "Article 16",
+            "Article 15",
+            "Article 14"
+        ],
+        "op_hi": [
+            "अनुच्छेद 18",
+            "अनुच्छेद 16",
+            "अनुच्छेद 15",
+            "अनुच्छेद 14"
+        ],
+        "q_en": "Which Article in the Indian Constitution states that the state cannot discriminate against anyone in the matter of public employment?",
+        "q_hi": "भारतीय संविधान के किस अनुच्छेद में कहा गया है कि राज्य सार्वजनिक रोजगार के मामले में किसी के साथ भेदभाव नहीं कर सकता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Article 16 of the Indian Constitution provides for equality of opportunity for all citizens in matters relating to employment or appointment to any office under the State and prohibits discrimination on grounds of religion, race, caste, sex, descent, place of birth, or residence.<br><br><b>Solution (HI):</b><br>भारतीय संविधान का अनुच्छेद 16 राज्य के अधीन किसी भी कार्यालय में रोजगार या नियुक्ति से संबंधित मामलों में सभी नागरिकों के लिए अवसर की समानता प्रदान करता है और धर्म, मूलवंश, जाति, लिंग, वंश, जन्म स्थान या निवास के आधार पर भेदभाव को रोकता है।<br><br><b>Short Trick:</b><br>Article 16 = Employment Equality.",
+        "topic": "Indian Polity"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Only manual data entry",
+            "No reference date given",
+            "Coverage limited to five states",
+            "Digital census with caste data"
+        ],
+        "op_hi": [
+            "केवल मैनुअल डेटा प्रविष्टि",
+            "कोई संदर्भ तिथि नहीं दी गई",
+            "कवरेज पांच राज्यों तक सीमित",
+            "जाति डेटा के साथ डिजिटल जनगणना"
+        ],
+        "q_en": "Which feature distinguishes Census 2027 from earlier censuses since independence?",
+        "q_hi": "कौन सी विशेषता जनगणना 2027 को आजादी के बाद की पिछली जनगणनाओं से अलग करती है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The next census (planned for 2027) is expected to be India's first digital census, where data will be collected via mobile apps. There is also a significant demand and focus on including detailed caste data in this exercise.<br><br><b>Solution (HI):</b><br>अगली जनगणना (2027 के लिए योजनाबद्ध) भारत की पहली डिजिटल जनगणना होने की उम्मीद है, जहां मोबाइल ऐप के माध्यम से डेटा एकत्र किया जाएगा। इस अभ्यास में विस्तृत जाति डेटा शामिल करने पर भी महत्वपूर्ण मांग और ध्यान है।<br><br><b>Short Trick:</b><br>2027 Census &rarr; Digital + Caste focus.",
+        "topic": "Current Affairs - Census"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Committee on Privileges",
+            "Estimates Committee",
+            "Rules Committee",
+            "Public Accounts Committee"
+        ],
+        "op_hi": [
+            "विशेषाधिकार समिति",
+            "प्राक्कलन समिति",
+            "नियम समिति",
+            "लोक लेखा समिति"
+        ],
+        "q_en": "Which Parliamentary Committee examines whether government spending is within the authority granted by the Parliament?",
+        "q_hi": "कौन सी संसदीय समिति इस बात की जांच करती है कि क्या सरकारी खर्च संसद द्वारा दी गई अनुमति के भीतर है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Public Accounts Committee (PAC) examines the annual audit reports of the Comptroller and Auditor General (CAG). Its primary role is to check if the money spent by the government was legally available and used for the purpose it was intended for.<br><br><b>Solution (HI):</b><br>लोक लेखा समिति (PAC) भारत के नियंत्रक और महालेखा परीक्षक (CAG) की वार्षिक ऑडिट रिपोर्ट की जांच करती है। इसकी प्राथमिक भूमिका यह जांचना है कि सरकार द्वारा खर्च किया गया पैसा कानूनी रूप से उपलब्ध था और उसी उद्देश्य के लिए उपयोग किया गया था जिसके लिए इसका इरादा था।<br><br><b>Short Trick:</b><br>Spend Audit = PAC (Public Accounts Committee).",
+        "topic": "Indian Polity"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "Increasing screen addiction",
+            "Managing hospital waste",
+            "Nanoparticle and vibration therapy",
+            "Continuous monitoring of vital signs"
+        ],
+        "op_hi": [
+            "स्क्रीन की लत बढ़ाना",
+            "अस्पताल के कचरे का प्रबंधन",
+            "नैनोकण और कंपन चिकित्सा",
+            "महत्वपूर्ण संकेतों (vital signs) की निरंतर निगरानी"
+        ],
+        "q_en": "Which of the following best represents the primary function of wearable health devices?",
+        "q_hi": "निम्नलिखित में से कौन पहनने योग्य स्वास्थ्य उपकरणों (wearable health devices) के प्राथमिक कार्य का सबसे अच्छा प्रतिनिधित्व करता है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Wearable health devices (like smartwatches and fitness trackers) are used for real-time and continuous monitoring of physiological parameters such as heart rate, blood pressure, sleep patterns, and physical activity.<br><br><b>Solution (HI):</b><br>पहनने योग्य स्वास्थ्य उपकरण (जैसे स्मार्टवॉच और फिटनेस ट्रैकर) हृदय गति, रक्तचाप, नींद के पैटर्न और शारीरिक गतिविधि जैसे शारीरिक मापदंडों की वास्तविक समय और निरंतर निगरानी के लिए उपयोग किए जाते हैं।<br><br><b>Short Trick:</b><br>Wearable = Real-time monitoring.",
+        "topic": "Science - Technology"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "David Silva",
+            "Rohan Kumar",
+            "Liam O'Connell",
+            "Hitesh Gulia"
+        ],
+        "op_hi": [
+            "डेविड सिल्वा",
+            "रोहन कुमार",
+            "लियाम ओ'कोनेल",
+            "हितेश गुलिया"
+        ],
+        "q_en": "At the 2025 World Boxing Cup in Foz do Iguaçu, Brazil, which athlete secured the gold medal in the Men's 70 kg division?",
+        "q_hi": "ब्राजील के फोज डो इगुआकु में आयोजित 2025 विश्व मुक्केबाजी कप में, किस एथलीट ने पुरुषों के 70 किग्रा वर्ग में स्वर्ण पदक जीता?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>In the 2025 World Boxing Cup held in Brazil, Indian boxer Hitesh Gulia delivered an outstanding performance to win the gold medal in the Men's 70 kg weight category.<br><br><b>Solution (HI):</b><br>ब्राजील में आयोजित 2025 विश्व मुक्केबाजी कप में, भारतीय मुक्केबाज हितेश गुलिया ने पुरुषों के 70 किग्रा भार वर्ग में स्वर्ण पदक जीतने के लिए उत्कृष्ट प्रदर्शन किया।<br><br><b>Short Trick:</b><br>Hitesh &rarr; 70kg Gold &rarr; Boxing 2025.",
+        "topic": "Current Affairs - Sports"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Nanda Devi",
+            "Manas",
+            "Sundarvan",
+            "Gulf of Mannar"
+        ],
+        "op_hi": [
+            "नंदा देवी",
+            "मानस",
+            "सुंदरवन",
+            "मन्नार की खाड़ी"
+        ],
+        "q_en": "Which of the following bio-reserves of India is NOT included in the World Network of Biosphere Reserves?",
+        "q_hi": "भारत के निम्नलिखित जैव-आरक्षित क्षेत्रों (bio-reserves) में से कौन विश्व नेटवर्क ऑफ बायोस्फीयर रिजर्व में शामिल नहीं है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>While India has 18 Biosphere Reserves, only 12 are currently part of the UNESCO World Network of Biosphere Reserves (WNBR). Manas (Assam) is a Biosphere Reserve but is NOT included in the WNBR. Nanda Devi, Sundarban, and Gulf of Mannar are included.<br><br><b>Solution (HI):</b><br>जबकि भारत में 18 बायोस्फीयर रिजर्व हैं, केवल 12 वर्तमान में यूनेस्को के वर्ल्ड नेटवर्क ऑफ बायोस्फीयर रिजर्व (WNBR) का हिस्सा हैं। मानस (असम) एक बायोस्फीयर रिजर्व है लेकिन WNBR में शामिल नहीं है। नंदा देवी, सुंदरवन और मन्नार की खाड़ी इसमें शामिल हैं।<br><br><b>Short Trick:</b><br>Manas = Biosphere Reserve &ne; UNESCO WNBR list.",
+        "topic": "Indian Geography - Environment"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Easy",
+        "op_en": [
+            "30",
+            "25",
+            "15",
+            "20"
+        ],
+        "op_hi": [
+            "30",
+            "25",
+            "15",
+            "20"
+        ],
+        "q_en": "The total number of ministers, including the Prime Minister, in the Council of Ministers shall not exceed ________% of the total number of members of the House of the People.",
+        "q_hi": "मंत्रिपरिषद में प्रधान मंत्री सहित मंत्रियों की कुल संख्या लोकसभा के सदस्यों की कुल संख्या के ________% से अधिक नहीं होगी।",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>As per the 91st Amendment Act, 2003, the size of the Council of Ministers (at both Union and State levels) was limited to 15% of the total strength of the Lok Sabha (Union) or the Legislative Assembly (State).<br><br><b>Solution (HI):</b><br>91वें संशोधन अधिनियम, 2003 के अनुसार, मंत्रिपरिषद का आकार (केंद्र और राज्य दोनों स्तरों पर) लोकसभा (केंद्र) या विधानसभा (राज्य) की कुल शक्ति के 15% तक सीमित कर दिया गया था।<br><br><b>Short Trick:</b><br>Max Ministers = 15% of House Members.",
+        "topic": "Indian Polity"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "1995",
+            "2004",
+            "2009",
+            "2001"
+        ],
+        "op_hi": [
+            "1995",
+            "2004",
+            "2009",
+            "2001"
+        ],
+        "q_en": "Which year marked the creation of the category 'Classical Languages' by the Government of India?",
+        "q_hi": "भारत सरकार द्वारा 'शास्त्रीय भाषाएँ' श्रेणी के निर्माण को किस वर्ष चिह्नित किया गया था?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>In 2004, the Government of India created the category of \"Classical Languages\" for languages that met specific historical and literary criteria. Tamil was the first language to be granted this status in 2004.<br><br><b>Solution (HI):</b><br>2004 में, भारत सरकार ने उन भाषाओं के लिए \"शास्त्रीय भाषा\" की श्रेणी बनाई, जो विशिष्ट ऐतिहासिक और साहित्यिक मानदंडों को पूरा करती थीं। 2004 में यह दर्जा पाने वाली पहली भाषा तमिल थी।",
+        "topic": "Art and Culture"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Sourav Kothari",
+            "Pankaj Advani",
+            "B Bhaskar",
+            "Aditya Mehta"
+        ],
+        "op_hi": [
+            "सौरव कोठारी",
+            "पंकज आडवाणी",
+            "बी भास्कर",
+            "आदित्य मेहता"
+        ],
+        "q_en": "Who won the 2025 CCI Billiards Classic title by defeating Dhruv Sitwala in the final held in Mumbai in May 2025?",
+        "q_hi": "मई 2025 में मुंबई में आयोजित फाइनल में ध्रुव सितवाला को हराकर 2025 CCI बिलियर्ड्स क्लासिक का खिताब किसने जीता?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Pankaj Advani won the 2025 CCI Billiards Classic title by defeating Dhruv Sitwala in the final held at the Cricket Club of India (CCI) in Mumbai.<br><br><b>Solution (HI):</b><br>पंकज आडवाणी ने मुंबई में क्रिकेट क्लब ऑफ इंडिया (CCI) में आयोजित फाइनल में ध्रुव सितवाला को हराकर 2025 CCI बिलियर्ड्स क्लासिक का खिताब जीता।",
+        "topic": "Sports Current Affairs"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Ministry of Finance",
+            "District Micro Finance Committee",
+            "State Micro Finance Council",
+            "Reserve Bank of India"
+        ],
+        "op_hi": [
+            "वित्त मंत्रालय",
+            "जिला सूक्ष्म वित्त समिति",
+            "राज्य सूक्ष्म वित्त परिषद",
+            "भारतीय रिजर्व बैंक"
+        ],
+        "q_en": "A micro finance institution, which intends to carry on the activity of providing micro finance services in India, shall make an application for registration to which of the following agencies?",
+        "q_hi": "एक सूक्ष्म वित्त संस्थान, जो भारत में सूक्ष्म वित्त सेवाएं प्रदान करने की गतिविधि को जारी रखने का इरादा रखता है, को पंजीकरण के लिए निम्नलिखित में से किस एजेंसी को आवेदन करना होगा?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>In India, any institution intending to carry out microfinance services (as an NBFC-MFI) must apply for registration with the Reserve Bank of India (RBI).<br><br><b>Solution (HI):</b><br>भारत में, सूक्ष्म वित्त सेवाएं (NBFC-MFI के रूप में) प्रदान करने के इच्छुक किसी भी संस्थान को भारतीय रिजर्व बैंक (RBI) के पास पंजीकरण के लिए आवेदन करना आवश्यक है।",
+        "topic": "Economy"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Easy",
+        "op_en": [
+            "To create a fixed revenue system and collect taxes from zamindars",
+            "To promote industrial development in rural areas",
+            "To reduce the tax burden on zamindars",
+            "To distribute land equally among peasants"
+        ],
+        "op_hi": [
+            "एक निश्चित राजस्व प्रणाली बनाना और जमींदारों से कर एकत्र करना",
+            "ग्रामीण क्षेत्रों में औद्योगिक विकास को बढ़ावा देना",
+            "जमींदारों पर कर का बोझ कम करना",
+            "किसानों के बीच समान रूप से भूमि वितरित करना"
+        ],
+        "q_en": "What was the primary objective of the British introducing the Permanent Settlement system in India?",
+        "q_hi": "भारत में अंग्रेजों द्वारा स्थायी बंदोबस्त प्रणाली (Permanent Settlement system) शुरू करने का मुख्य उद्देश्य क्या था?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Introduced by Lord Cornwallis in 1793, the Permanent Settlement aimed to fix the land revenue amount and ensure a steady and guaranteed income for the East India Company by collecting it through Zamindars.<br><br><b>Solution (HI):</b><br>1793 में लॉर्ड कॉर्नवॉलिस द्वारा शुरू किए गए स्थायी बंदोबस्त का उद्देश्य भू-राजस्व की राशि तय करना और जमींदारों के माध्यम से इसे एकत्र करके ईस्ट इंडिया कंपनी के लिए एक स्थिर और निश्चित आय सुनिश्चित करना था।",
+        "topic": "Modern History"
+    },
+    {
+        "ans": 3,
+        "difficulty": "Hard",
+        "op_en": [
+            "Shiva Thapa",
+            "Amit Panghal",
+            "Hitesh Gulia",
+            "Odel Kamara"
+        ],
+        "op_hi": [
+            "शिव थापा",
+            "अमित पंघाल",
+            "हितेश गुलिया",
+            "ओडेल कामरा"
+        ],
+        "q_en": "Who won the gold medal in the Men’s 70 kg category at the World Boxing Cup 2025 held in Brazil in April 2025?",
+        "q_hi": "अप्रैल 2025 में ब्राजील में आयोजित विश्व मुक्केबाजी कप 2025 में पुरुषों के 70 किलोग्राम वर्ग में स्वर्ण पदक किसने जीता?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Indian boxer Hitesh Gulia won the gold medal in the Men's 70 kg category at the World Boxing Cup 2025 held in Brazil.<br><br><b>Solution (HI):</b><br>भारतीय मुक्केबाज हितेश गुलिया ने ब्राजील में आयोजित विश्व मुक्केबाजी कप 2025 में पुरुषों के 70 किग्रा वर्ग में स्वर्ण पदक जीता।",
+        "topic": "Sports Current Affairs"
+    },
+    {
+        "ans": 4,
+        "difficulty": "Easy",
+        "op_en": [
+            "1845",
+            "1855",
+            "1865",
+            "1875"
+        ],
+        "op_hi": [
+            "1845",
+            "1855",
+            "1865",
+            "1875"
+        ],
+        "q_en": "In which year was the Arya Samaj founded by Dayanand Saraswati in Bombay?",
+        "q_hi": "बॉम्बे में दयानंद सरस्वती द्वारा आर्य समाज की स्थापना किस वर्ष की गई थी?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>Swami Dayanand Saraswati founded the Arya Samaj in Bombay on 7 April 1875 to promote the values and practices based on the belief in the infallible authority of the Vedas.<br><br><b>Solution (HI):</b><br>स्वामी दयानंद सरस्वती ने वेदों के अचूक अधिकार में विश्वास के आधार पर मूल्यों और प्रथाओं को बढ़ावा देने के लिए 7 अप्रैल 1875 को बॉम्बे में आर्य समाज की स्थापना की थी।",
+        "topic": "Modern History"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Moderate",
+        "op_en": [
+            "1919",
+            "1883",
+            "1935",
+            "1857"
+        ],
+        "op_hi": [
+            "1919",
+            "1883",
+            "1935",
+            "1857"
+        ],
+        "q_en": "In which year was the Ilbert Bill proposed by the Government of India?",
+        "q_hi": "भारत सरकार द्वारा इल्बर्ट बिल किस वर्ष प्रस्तावित किया गया था?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Ilbert Bill was introduced in 1883 during the viceroyalty of Lord Ripon. It controversially proposed to allow Indian judges to try British offenders.<br><br><b>Solution (HI):</b><br>इल्बर्ट बिल 1883 में लॉर्ड रिपन के वायसराय काल में पेश किया गया था। इसमें विवादास्पद रूप से भारतीय न्यायाधीशों को ब्रिटिश अपराधियों पर मुकदमा चलाने की अनुमति देने का प्रस्ताव था।",
+        "topic": "Modern History"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Hard",
+        "op_en": [
+            "₹3 billion",
+            "₹2.5 billion",
+            "₹5 billion",
+            "₹1 billion"
+        ],
+        "op_hi": [
+            "₹3 बिलियन",
+            "₹2.5 बिलियन",
+            "₹5 बिलियन",
+            "₹1 बिलियन"
+        ],
+        "q_en": "What is the minimum start-up capital requirement for foreign banks for setting up of a Wholly Owned Banking Subsidiary (WOS) in India?",
+        "q_hi": "भारत में पूर्ण स्वामित्व वाली बैंकिंग सहायक कंपनी (WOS) स्थापित करने के लिए विदेशी बैंकों के लिए न्यूनतम स्टार्ट-अप पूंजी आवश्यकता क्या है?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>As per the provided options and specific RBI subsidiary guidelines referenced for this context, the minimum start-up capital requirement for setting up a Wholly Owned Banking Subsidiary (WOS) is marked at ₹3 billion.<br><br><b>Solution (HI):</b><br>दिए गए विकल्पों और इस संदर्भ के लिए संदर्भित विशिष्ट आरबीआई सहायक दिशानिर्देशों के अनुसार, पूर्ण स्वामित्व वाली बैंकिंग सहायक कंपनी (WOS) स्थापित करने के लिए न्यूनतम स्टार्ट-अप पूंजी की आवश्यकता ₹3 बिलियन है।",
+        "topic": "Economy"
+    },
+    {
+        "ans": 1,
+        "difficulty": "Moderate",
+        "op_en": [
+            "Onboard the International Space Station during the AXIOM‑4 mission",
+            "At ISRO’s human spaceflight training centre in Bengaluru",
+            "Onboard India’s Gaganyaan spacecraft",
+            "At the National Centre for Polar and Ocean Research in Goa"
+        ],
+        "op_hi": [
+            "AXIOM-4 मिशन के दौरान अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर",
+            "बेंगलुरु में इसरो के मानव अंतरिक्ष उड़ान प्रशिक्षण केंद्र में",
+            "भारत के गगनयान अंतरिक्ष यान पर",
+            "गोवा में राष्ट्रीय ध्रुवीय और महासागर अनुसंधान केंद्र में"
+        ],
+        "q_en": "Where will India’s first-ever biological experiments under the BioE3 Biotechnology policy be conducted?",
+        "q_hi": "BioE3 जैव प्रौद्योगिकी नीति के तहत भारत का पहला जैविक प्रयोग कहाँ आयोजित किया जाएगा?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>India's first-ever biological experiments under the BioE3 policy are planned to be conducted onboard the International Space Station (ISS) during the joint ISRO-NASA AXIOM-4 mission.<br><br><b>Solution (HI):</b><br>BioE3 नीति के तहत भारत का पहला जैविक प्रयोग संयुक्त ISRO-NASA AXIOM-4 मिशन के दौरान अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (ISS) पर आयोजित करने की योजना है।",
+        "topic": "Science and Technology"
+    },
+    {
+        "ans": 2,
+        "difficulty": "Easy",
+        "op_en": [
+            "Lord Auckland",
+            "Lord Dalhousie",
+            "Lord Cornwallis",
+            "Lord Bentick"
+        ],
+        "op_hi": [
+            "लॉर्ड ऑकलैंड",
+            "लॉर्ड डलहौजी",
+            "लॉर्ड कॉर्नवॉलिस",
+            "लॉर्ड बेंटिक"
+        ],
+        "q_en": "Who introduced the annexation policy called the Doctrine of Lapse?",
+        "q_hi": "व्यपगत का सिद्धांत (Doctrine of Lapse) नामक विलय की नीति किसने पेश की थी?",
+        "section": "General Awareness1",
+        "solution": "<b>Solution (EN):</b><br>The Doctrine of Lapse was an annexation policy heavily used by Lord Dalhousie, the Governor-General of India between 1848 and 1856. According to this, any princely state without a natural biological heir would be annexed by the British.<br><br><b>Solution (HI):</b><br>व्यपगत का सिद्धांत 1848 और 1856 के बीच भारत के गवर्नर-जनरल लॉर्ड डलहौजी द्वारा बड़े पैमाने पर इस्तेमाल की जाने वाली एक विलय नीति थी। इसके अनुसार, बिना प्राकृतिक जैविक उत्तराधिकारी वाले किसी भी रियासत को अंग्रेजों द्वारा अधिग्रहित कर लिया जाएगा।",
+        "topic": "Modern History"
+    }
+]
