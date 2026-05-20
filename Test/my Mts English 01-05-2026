@@ -1,0 +1,843 @@
+[
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Vocabulary",
+    "difficulty": "Easy",
+    "q_en": "He felt ________ after working all day without a break.",
+    "q_hi": "He felt ________ after working all day without a break.",
+    "op_en": [
+      "excited",
+      "energized",
+      "happy",
+      "tired"
+    ],
+    "op_hi": [
+      "excited",
+      "energized",
+      "happy",
+      "tired"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> The context of 'working all day without a break' naturally leads to a state of fatigue. Therefore, 'tired' is the correct word to complete the sentence. <br> <b>Solution (HI):</b> 'working all day without a break' का संदर्भ स्वाभाविक रूप से थकान की स्थिति की ओर ले जाता है। इसलिए, वाक्य को पूरा करने के लिए 'tired' सही शब्द है। <br> <b>Short Trick:</b> Identify the cause-and-effect relationship: long duration of work without rest = fatigue (tired)."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Prepositions",
+    "difficulty": "Medium",
+    "q_en": "She was deeply engrossed on her book and didn't notice the time.",
+    "q_hi": "She was deeply engrossed on her book and didn't notice the time.",
+    "op_en": [
+      "in",
+      "at",
+      "about",
+      "with"
+    ],
+    "op_hi": [
+      "in",
+      "at",
+      "about",
+      "with"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> The fixed preposition used with 'engrossed' is 'in'. The phrase 'engrossed in' means to be completely absorbed or occupied by something. <br> <b>Solution (HI):</b> 'engrossed' के साथ उपयोग किया जाने वाला निश्चित प्रीपोजिशन 'in' है। 'engrossed in' वाक्यांश का अर्थ है किसी चीज़ में पूरी तरह से तल्लीन होना। <br> <b>Short Trick:</b> Remember the phrasal combination: 'engrossed in' something."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "They are____ best players on the team.",
+    "q_hi": "They are____ best players on the team.",
+    "op_en": [
+      "an",
+      "the",
+      "None of the given options",
+      "a"
+    ],
+    "op_hi": [
+      "an",
+      "the",
+      "None of the given options",
+      "a"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> 'Best' is the superlative form of the adjective 'good'. The definite article 'the' is always used before superlative degrees. <br> <b>Solution (HI):</b> 'Best', 'good' विशेषण का सुपरलेटिव रूप है। सुपरलेटिव डिग्री से पहले हमेशा निश्चित आर्टिकल 'the' का उपयोग किया जाता है। <br> <b>Short Trick:</b> Rule: Superlative degree (best, tallest, smartest) always takes 'the' before it."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Determiners",
+    "difficulty": "Medium",
+    "q_en": "She does not have some money to buy a new dress for this party.",
+    "q_hi": "She does not have some money to buy a new dress for this party.",
+    "op_en": [
+      "She does not have any money to buy a new dress for this party.",
+      "She does not have many money to buy a new dress for this party.",
+      "She does not have lesser money to buy a new dress for this party.",
+      "She does not have little money to buy a new dress for this party."
+    ],
+    "op_hi": [
+      "She does not have any money to buy a new dress for this party.",
+      "She does not have many money to buy a new dress for this party.",
+      "She does not have lesser money to buy a new dress for this party.",
+      "She does not have little money to buy a new dress for this party."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> In negative sentences and questions, 'any' is used instead of 'some' to indicate an indefinite amount. Thus, 'any' is correct here. <br> <b>Solution (HI):</b> नकारात्मक वाक्यों और प्रश्नों में, अनिश्चित मात्रा को इंगित करने के लिए 'some' के स्थान पर 'any' का उपयोग किया जाता है। इसलिए, यहाँ 'any' सही है। <br> <b>Short Trick:</b> Positive sentence = use 'some'; Negative/Interrogative sentence = use 'any'."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Prepositions",
+    "difficulty": "Easy",
+    "q_en": "I will meet you ____ the station ____ 3 PM.",
+    "q_hi": "I will meet you ____ the station ____ 3 PM.",
+    "op_en": [
+      "at, at",
+      "in, on",
+      "on, at",
+      "at, in"
+    ],
+    "op_hi": [
+      "at, at",
+      "in, on",
+      "on, at",
+      "at, in"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> Use 'at' for specific locations (the station) and 'at' for specific points in time (3 PM). Therefore, 'at, at' is the correct pair. <br> <b>Solution (HI):</b> विशिष्ट स्थानों (the station) के लिए 'at' का उपयोग करें और समय के विशिष्ट बिंदुओं (3 PM) के लिए भी 'at' का उपयोग करें। इसलिए, 'at, at' सही जोड़ा है। <br> <b>Short Trick:</b> Point of place = 'at', Point of time = 'at'."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Medium",
+    "q_en": "If we look at the given graph, we can see ____ steep rise in the prices of ____ commodities.",
+    "q_hi": "If we look at the given graph, we can see ____ steep rise in the prices of ____ commodities.",
+    "op_en": [
+      "no article needed, a",
+      "the, a",
+      "a, no article needed",
+      "an, a"
+    ],
+    "op_hi": [
+      "no article needed, a",
+      "the, a",
+      "a, no article needed",
+      "an, a"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> 'A' is used before 'steep rise' because it is a singular countable noun. No article is required before 'commodities' as it refers to commodities in general. <br> <b>Solution (HI):</b> 'A' का प्रयोग 'steep rise' से पहले किया जाता है क्योंकि यह एक एकवचन गणनीय संज्ञा है। 'commodities' से पहले किसी आर्टिकल की आवश्यकता नहीं है क्योंकि यह सामान्य रूप से वस्तुओं को संदर्भित करता है। <br> <b>Short Trick:</b> Countable singular noun gets 'a/an', general plural noun usually takes no article."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Tenses",
+    "difficulty": "Easy",
+    "q_en": "She ____ to the market every morning.",
+    "q_hi": "She ____ to the market every morning.",
+    "op_en": [
+      "go",
+      "has gone",
+      "goes",
+      "was going"
+    ],
+    "op_hi": [
+      "go",
+      "has gone",
+      "goes",
+      "was going"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The phrase 'every morning' indicates a habitual action, which requires the Present Simple tense. Since the subject is 'She' (third-person singular), we use 'goes'. <br> <b>Solution (HI):</b> 'every morning' वाक्यांश एक आदतन क्रिया (habitual action) को दर्शाता है, जिसके लिए प्रेजेंट सिंपल टेंस की आवश्यकता होती है। चूँकि कर्ता 'She' (तीसरा व्यक्ति एकवचन) है, इसलिए हम 'goes' का उपयोग करते हैं। <br> <b>Short Trick:</b> Look for habitual frequency adverbs (every day/morning/etc.) -> Use Present Simple verb form."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Medium",
+    "q_en": "__ relentless pursuit of knowledge led __ scientist to make groundbreaking discoveries.",
+    "q_hi": "__ relentless pursuit of knowledge led __ scientist to make groundbreaking discoveries.",
+    "op_en": [
+      "The, the",
+      "A, a",
+      "No article required, an",
+      "An, the"
+    ],
+    "op_hi": [
+      "The, the",
+      "A, a",
+      "No article required, an",
+      "An, the"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> 'The' is used before 'relentless pursuit' as it is a specific pursuit mentioned. 'The' is also used before 'scientist' because it specifies a particular scientist. <br> <b>Solution (HI):</b> 'The' का प्रयोग 'relentless pursuit' से पहले किया जाता है क्योंकि यह एक विशिष्ट खोज है। 'The' का प्रयोग 'scientist' से पहले भी किया जाता है क्योंकि यह एक विशेष वैज्ञानिक को निर्दिष्ट करता है। <br> <b>Short Trick:</b> Use 'the' when referring to specific nouns or unique concepts."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Medium",
+    "q_en": "The following sentence has been divided into different segments. Rearrange all the segments to form a coherent sentence. A. as the sun set / B. of orange, pink, and purple / C. the sky turned shades / D. stunning everyone",
+    "q_hi": "The following sentence has been divided into different segments. Rearrange all the segments to form a coherent sentence. A. as the sun set / B. of orange, pink, and purple / C. the sky turned shades / D. stunning everyone",
+    "op_en": [
+      "BCAD",
+      "ABCD",
+      "ACBD",
+      "CBDA"
+    ],
+    "op_hi": [
+      "BCAD",
+      "ABCD",
+      "ACBD",
+      "CBDA"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The logical sequence is 'As the sun set (A), the sky turned shades (C) of orange, pink, and purple (B), stunning everyone (D).' However, based on the provided options in the image, ACBD is marked as the correct answer. <br> <b>Solution (HI):</b> तार्किक अनुक्रम 'As the sun set (A), the sky turned shades (C) of orange, pink, and purple (B), stunning everyone (D)' है। हालाँकि, छवि में दिए गए विकल्पों के आधार पर, ACBD को सही उत्तर के रूप में चिह्नित किया गया है। <br> <b>Short Trick:</b> Identify the subject (the sky) and the verb (turned) first, then connect the descriptive phrases logically."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Articles",
+    "difficulty": "Easy",
+    "q_en": "Shashi is going to borrow some books from ____ central library.",
+    "q_hi": "Shashi is going to borrow some books from ____ central library.",
+    "op_en": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "op_hi": [
+      "an",
+      "a",
+      "No article required",
+      "the"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> The definite article 'the' is used before names of specific institutions or buildings like 'central library'. <br> <b>Solution (HI):</b> निश्चित आर्टिकल 'the' का प्रयोग 'central library' जैसी विशिष्ट संस्थाओं या इमारतों के नाम से पहले किया जाता है। <br> <b>Short Trick:</b> Specific places and institutions generally take 'the' before them."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Determiners",
+    "difficulty": "Easy",
+    "q_en": "Choose the word that best completes the sentence. There is a ________ milk left in the fridge.",
+    "q_hi": "Choose the word that best completes the sentence. There is a ________ milk left in the fridge.",
+    "op_en": [
+      "little",
+      "littleness",
+      "least",
+      "less"
+    ],
+    "op_hi": [
+      "little",
+      "littleness",
+      "least",
+      "less"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> 'Little' is used with uncountable nouns (like milk) to mean a small amount. 'Less' is a comparative. 'Least' is a superlative. 'Littleness' is an abstract noun. <br> <b>Solution (HI):</b> 'Little' का उपयोग अनकाउंटेबल संज्ञाओं (जैसे दूध) के साथ थोड़ी मात्रा बताने के लिए किया जाता है। 'Less' तुलनात्मक है। 'Least' सुपरलेटिव है। 'Littleness' एक भाववाचक संज्ञा है। <br> <b>Short Trick:</b> 'Little' denotes a small positive amount of an uncountable noun."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Hard",
+    "q_en": "In the given question, a statement divided into different segments is given. Rearrange all the segments to form a coherent statement. A. at 9 a.m. and all attendees / B. are expected to arrive on time / C. other planned activities / D. the meeting will start promptly / E. the schedule and affect / F. as any delay could disrupt",
+    "q_hi": "In the given question, a statement divided into different segments is given. Rearrange all the segments to form a coherent statement. A. at 9 a.m. and all attendees / B. are expected to arrive on time / C. other planned activities / D. the meeting will start promptly / E. the schedule and affect / F. as any delay could disrupt",
+    "op_en": [
+      "BFDECA",
+      "EBFACD",
+      "CBAEDF",
+      "DABFEC"
+    ],
+    "op_hi": [
+      "BFDECA",
+      "EBFACD",
+      "CBAEDF",
+      "DABFEC"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> The logical order is: 'The meeting will start promptly (D) at 9 a.m. and all attendees (A) are expected to arrive on time (B) as any delay could disrupt (F) the schedule and affect (E) other planned activities (C).' <br> <b>Solution (HI):</b> तार्किक क्रम है: 'The meeting will start promptly (D) at 9 a.m. and all attendees (A) are expected to arrive on time (B) as any delay could disrupt (F) the schedule and affect (E) other planned activities (C).' <br> <b>Short Trick:</b> Identify the main subject/verb (The meeting will start) and look for connecting conjunctions like 'as' or 'and' to chain the clauses."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Vocabulary",
+    "difficulty": "Medium",
+    "q_en": "Choose the most appropriate option to complete the following sentence. Despite being fully aware of the consequences, Aniket ________ violated the confidentiality agreement.",
+    "q_hi": "Choose the most appropriate option to complete the following sentence. Despite being fully aware of the consequences, Aniket ________ violated the confidentiality agreement.",
+    "op_en": [
+      "inadvertently",
+      "deliberately",
+      "hesitantly",
+      "occasionally"
+    ],
+    "op_hi": [
+      "inadvertently",
+      "deliberately",
+      "hesitantly",
+      "occasionally"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> 'Despite being fully aware of the consequences' implies an intentional action. Therefore, 'deliberately' (intentionally) is the correct fit. <br> <b>Solution (HI):</b> 'Despite being fully aware of the consequences' एक जानबूझकर की गई कार्रवाई का संकेत देता है। इसलिए, 'deliberately' (जानबूझकर) यहाँ सही शब्द है। <br> <b>Short Trick:</b> Look for clue phrases like 'fully aware' -> suggests intent."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Tenses",
+    "difficulty": "Hard",
+    "q_en": "Fill in the blank with the correct option. By the time she ________ her assignment, the deadline ________.",
+    "q_hi": "Fill in the blank with the correct option. By the time she ________ her assignment, the deadline ________.",
+    "op_en": [
+      "will finish / had passed",
+      "finished / will have passed",
+      "will have finished / will pass",
+      "will have finished / will have passed"
+    ],
+    "op_hi": [
+      "will finish / had passed",
+      "finished / will have passed",
+      "will have finished / will pass",
+      "will have finished / will have passed"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> In sentences starting with 'By the time', if the main action is in the future, we use Future Perfect ('will have finished') and Future Perfect for the other event ('will have passed') to show completion before a specific time. <br> <b>Solution (HI):</b> 'By the time' से शुरू होने वाले वाक्यों में, यदि मुख्य क्रिया भविष्य में है, तो हम फ्यूचर परफेक्ट ('will have finished') और दूसरी घटना के लिए भी फ्यूचर परफेक्ट ('will have passed') का उपयोग करते हैं। <br> <b>Short Trick:</b> 'By the time' + present/future context often pairs with future perfect tenses."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Vocabulary",
+    "difficulty": "Easy",
+    "q_en": "Complete the following sentence by using the correct option. Amit handled the customer complaints ________, ensuring satisfaction for all clients.",
+    "q_hi": "Complete the following sentence by using the correct option. Amit handled the customer complaints ________, ensuring satisfaction for all clients.",
+    "op_en": [
+      "lazily",
+      "efficiently",
+      "reluctantly",
+      "carelessly"
+    ],
+    "op_hi": [
+      "lazily",
+      "efficiently",
+      "reluctantly",
+      "carelessly"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> 'Ensuring satisfaction' indicates a positive outcome. Only 'efficiently' describes a positive way of handling complaints. <br> <b>Solution (HI):</b> 'Ensuring satisfaction' एक सकारात्मक परिणाम का संकेत देता है। केवल 'efficiently' ही शिकायतों को संभालने के सकारात्मक तरीके का वर्णन करता है। <br> <b>Short Trick:</b> Context clues: 'ensuring satisfaction' -> positive adverb required."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What challenge did Aslam's business face?",
+    "q_hi": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What challenge did Aslam's business face?",
+    "op_en": [
+      "Shortage of spices",
+      "Competition from malls",
+      "Heavy taxation",
+      "Fire damage"
+    ],
+    "op_hi": [
+      "Shortage of spices",
+      "Competition from malls",
+      "Heavy taxation",
+      "Fire damage"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> The passage explicitly mentions, \"Malls had emerged, and old stalls began vanishing.\" This indicates that the emergence of malls created a competitive environment for traditional stalls. <br> <b>Solution (HI):</b> गद्यांश स्पष्ट रूप से उल्लेख करता है, \"Malls had emerged, and old stalls began vanishing.\" यह इंगित करता है कि मॉल के उद्भव ने पारंपरिक स्टालों के लिए एक प्रतिस्पर्धी वातावरण तैयार किया। <br> <b>Short Trick:</b> Direct retrieval: Look for keywords like 'malls' and 'vanishing' in the text."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> How did Aslam respond to change?",
+    "q_hi": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> How did Aslam respond to change?",
+    "op_en": [
+      "He sold to a company.",
+      "He closed his shop.",
+      "He shifted to a mall.",
+      "He preserved tradition and expanded."
+    ],
+    "op_hi": [
+      "He sold to a company.",
+      "He closed his shop.",
+      "He shifted to a mall.",
+      "He preserved tradition and expanded."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> Aslam maintained his traditional methods (\"arranging jars with the same care\") while expanding his reach to \"kitchens far away,\" thereby evolving without losing his heritage. <br> <b>Solution (HI):</b> असलम ने अपनी पारंपरिक विधियों (\"arranging jars with the same care\") को बनाए रखा और साथ ही \"kitchens far away\" तक अपनी पहुँच का विस्तार किया, जिससे वह अपनी विरासत को खोए बिना आगे बढ़ा। <br> <b>Short Trick:</b> Inferential reasoning: He adapted by scaling (expanding) while staying true to his roots (preserving tradition)."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What is the central theme of the passage?",
+    "q_hi": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What is the central theme of the passage?",
+    "op_en": [
+      "Loss of small businesses",
+      "Decline of spice trade",
+      "Tradition adapting to modern opportunities",
+      "Resistance to modernity"
+    ],
+    "op_hi": [
+      "Loss of small businesses",
+      "Decline of spice trade",
+      "Tradition adapting to modern opportunities",
+      "Resistance to modernity"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The passage highlights how Aslam successfully integrates his traditional business methods with the modern demands of high-end restaurants, demonstrating that tradition can survive and even thrive by adapting to new opportunities. <br> <b>Solution (HI):</b> गद्यांश इस बात पर प्रकाश डालता है कि कैसे असलम ने अपने पारंपरिक व्यावसायिक तरीकों को उच्च-स्तरीय रेस्तरां की आधुनिक मांगों के साथ सफलतापूर्वक एकीकृत किया, यह दर्शाता है कि परंपरा नए अवसरों के अनुकूल होकर जीवित रह सकती है और यहां तक कि फल-फूल सकती है। <br> <b>Short Trick:</b> Look for the progression in the story: Traditional setup -> Threat of modernity -> Adaptation -> Success."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What is the tone of the passage?",
+    "q_hi": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What is the tone of the passage?",
+    "op_en": [
+      "Aggressive",
+      "Sentimental",
+      "Indifferent",
+      "Ironic"
+    ],
+    "op_hi": [
+      "Aggressive",
+      "Sentimental",
+      "Indifferent",
+      "Ironic"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> The author uses emotive language like 'relic from another era', 'quietly, humbly', and 'scent of heritage', which conveys a sense of nostalgia, admiration, and warmth, characterizing a sentimental tone. <br> <b>Solution (HI):</b> लेखक 'relic from another era', 'quietly, humbly', और 'scent of heritage' जैसी भावनात्मक भाषा का उपयोग करता है, जो पुरानी यादों, प्रशंसा और गर्मजोशी की भावना व्यक्त करता है, जो एक भावुक (sentimental) स्वर को दर्शाता है। <br> <b>Short Trick:</b> Identify emotive adjectives and phrases that evoke feelings rather than presenting cold, objective facts."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What real-world lesson can be drawn from the passage?",
+    "q_hi": "In a narrow by-lane of the old city, Aslam's spice stall stood like a relic from another era. His family had sold spices there for nearly a century, passing down trade secrets and stories. The aromas of cardamom, cinnamon, and saffron drifted into the street, drawing regulars and curious tourists alike. But times were changing. Malls had emerged, and old stalls began vanishing. Yet Aslam opened his stall each morning, arranging jars with the same care his grandfather once did. One rainy evening, a young chef from a five-star hotel stopped by. Fascinated, he offered to source authentic spices directly from Aslam for his restaurant chain. Orders began pouring in, and soon, Aslam was shipping his family's blends across the country. He didn't leave the lane; he simply extended it to kitchens far away. The last stall didn't close. It evolved — quietly, humbly — without banners or boards, just the scent of heritage that never faded, whispering through every spice.<br><br><b>Question:</b> What real-world lesson can be drawn from the passage?",
+    "op_en": [
+      "Modern exposure can uplift tradition",
+      "Rely on tourists",
+      "Avoid old business models",
+      "Heritage sells in disguise"
+    ],
+    "op_hi": [
+      "Modern exposure can uplift tradition",
+      "Rely on tourists",
+      "Avoid old business models",
+      "Heritage sells in disguise"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> The passage demonstrates that Aslam's traditional spice stall, which was threatened by modern competitors (malls), survived and grew because he embraced a new opportunity (the chef from a modern five-star hotel). This shows that modern exposure can actually revitalize and uplift traditional practices. <br> <b>Solution (HI):</b> गद्यांश यह दर्शाता है कि असलम का पारंपरिक मसाला स्टाल, जिसे आधुनिक प्रतिस्पर्धियों (मॉल) से खतरा था, जीवित रहा और बढ़ा क्योंकि उसने एक नए अवसर (एक आधुनिक पांच सितारा होटल के शेफ) को अपनाया। यह दिखाता है कि आधुनिक एक्सपोज़र वास्तव में पारंपरिक प्रथाओं को पुनर्जीवित और उन्नत कर सकता है। <br> <b>Short Trick:</b> Focus on the core outcome: The business (tradition) succeeded through collaboration with the modern world (the chef)."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Proverbs",
+    "difficulty": "Medium",
+    "q_en": "Choose the option which correctly expresses the meaning of the following proverb: A rolling stone gathers no moss.",
+    "q_hi": "Choose the option which correctly expresses the meaning of the following proverb: A rolling stone gathers no moss.",
+    "op_en": [
+      "Rolling stones are valuable",
+      "Stones are easy to roll",
+      "Stability is necessary for growth in life",
+      "Moss grows on rolling stones"
+    ],
+    "op_hi": [
+      "Rolling stones are valuable",
+      "Stones are easy to roll",
+      "Stability is necessary for growth in life",
+      "Moss grows on rolling stones"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The proverb implies that people who are always moving and changing jobs or places do not settle down enough to accumulate wealth, status, or commitments. <br> <b>Solution (HI):</b> यह कहावत बताती है कि जो लोग हमेशा घूमते रहते हैं और अपनी नौकरी या स्थान बदलते रहते हैं, वे धन, स्थिति या प्रतिबद्धताओं को जमा करने के लिए पर्याप्त रूप से स्थिर नहीं हो पाते हैं। <br> <b>Short Trick:</b> Think of a stone rolling constantly - it cannot accumulate anything on its surface."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Proverbs",
+    "difficulty": "Easy",
+    "q_en": "Select the alternative which best expresses the meaning of the given proverb: A closed mouth catches no flies.",
+    "q_hi": "Select the alternative which best expresses the meaning of the given proverb: A closed mouth catches no flies.",
+    "op_en": [
+      "If you do not want to catch flies, you better keep quiet",
+      "It is always beneficial to speak at length and clearly",
+      "It is better to keep one's mouth closed than to say something inappropriate",
+      "It is always better to keep the mouth shut to keep bugs away"
+    ],
+    "op_hi": [
+      "If you do not want to catch flies, you better keep quiet",
+      "It is always beneficial to speak at length and clearly",
+      "It is better to keep one's mouth closed than to say something inappropriate",
+      "It is always better to keep the mouth shut to keep bugs away"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> This proverb advises that it is often better to remain silent than to risk saying something foolish or getting into trouble by speaking too much. <br> <b>Solution (HI):</b> यह कहावत सलाह देती है कि अक्सर मूर्खतापूर्ण बात कहने या बहुत अधिक बोलकर मुसीबत में पड़ने का जोखिम उठाने के बजाय चुप रहना बेहतर होता है। <br> <b>Short Trick:</b> Relate it to 'discretion'—speaking less prevents inadvertent mistakes."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Proverbs",
+    "difficulty": "Easy",
+    "q_en": "Select the option that best explains the meaning of the given proverb: Like father, like son.",
+    "q_hi": "Select the option that best explains the meaning of the given proverb: Like father, like son.",
+    "op_en": [
+      "People sometimes ignore advice given by experienced elders",
+      "People always depend on others for their personal choices",
+      "People often reflect the character of those who guide them",
+      "People rarely change their habits without strong pressure"
+    ],
+    "op_hi": [
+      "People sometimes ignore advice given by experienced elders",
+      "People always depend on others for their personal choices",
+      "People often reflect the character of those who guide them",
+      "People rarely change their habits without strong pressure"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> This proverb suggests that children often behave or have the same traits as their parents, reflecting the influence of their upbringing and guidance. <br> <b>Solution (HI):</b> यह कहावत बताती है कि बच्चे अक्सर अपने माता-पिता के समान व्यवहार करते हैं या उनके समान लक्षण रखते हैं, जो उनके पालन-पोषण और मार्गदर्शन के प्रभाव को दर्शाता है। <br> <b>Short Trick:</b> 'Like parent, like child' - focuses on inherited characteristics or learned behavior."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Sentence Rearrangement",
+    "difficulty": "Hard",
+    "q_en": "Rearrange the following sentence fragments to form a meaningful sentence.<br>(A) witnessed in a competitive environment / (B) such unwavering commitment and discipline / (C) I ever / (D) rarely have",
+    "q_hi": "Rearrange the following sentence fragments to form a meaningful sentence.<br>(A) witnessed in a competitive environment / (B) such unwavering commitment and discipline / (C) I ever / (D) rarely have",
+    "op_en": [
+      "BACD",
+      "CABD",
+      "DCAB",
+      "ABCD"
+    ],
+    "op_hi": [
+      "BACD",
+      "CABD",
+      "DCAB",
+      "ABCD"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The logical sequence is 'Rarely have (D) I ever (C) witnessed in a competitive environment (A) such unwavering commitment and discipline (B).' <br> <b>Solution (HI):</b> तार्किक क्रम है 'Rarely have (D) I ever (C) witnessed in a competitive environment (A) such unwavering commitment and discipline (B).' <br> <b>Short Trick:</b> Start with the inversion structure 'Rarely have I ever...' to form the subject-verb clause."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate antonym for the word 'Improve.'",
+    "q_hi": "Select the most appropriate antonym for the word 'Improve.'",
+    "op_en": [
+      "Enhance",
+      "Worsen",
+      "Better",
+      "Strengthen"
+    ],
+    "op_hi": [
+      "Enhance",
+      "Worsen",
+      "Better",
+      "Strengthen"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> 'Improve' means to make better. 'Worsen' means to make something worse, which is its direct antonym. <br> <b>Solution (HI):</b> 'Improve' का अर्थ है बेहतर बनाना। 'Worsen' का अर्थ है किसी चीज़ को खराब करना, जो इसका सीधा विलोम है। <br> <b>Short Trick:</b> Improve/Enhance/Better (Positive) vs. Worsen (Negative)."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Vocabulary",
+    "difficulty": "Medium",
+    "q_en": "Choose the word that best describes the sentence given below.<br>The ancient Greeks believed in stories about gods and supernatural beings that explained natural events.",
+    "q_hi": "Choose the word that best describes the sentence given below.<br>The ancient Greeks believed in stories about gods and supernatural beings that explained natural events.",
+    "op_en": [
+      "Legends",
+      "Folklore",
+      "Myths",
+      "Fables"
+    ],
+    "op_hi": [
+      "Legends",
+      "Folklore",
+      "Myths",
+      "Fables"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> 'Myths' are traditional stories, especially concerning the early history of a people or explaining some natural or social phenomenon, typically involving supernatural beings. <br> <b>Solution (HI):</b> 'Myths' पारंपरिक कहानियाँ हैं, विशेष रूप से लोगों के प्रारंभिक इतिहास से संबंधित या किसी प्राकृतिक या सामाजिक घटना की व्याख्या करने वाली, जिसमें आमतौर पर अलौकिक जीव शामिल होते हैं। <br> <b>Short Trick:</b> Stories about 'gods' and 'supernatural beings' explaining 'natural events' = Myths."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Antonyms",
+    "difficulty": "Easy",
+    "q_en": "Select the most appropriate antonym of the given word.<br>Admire",
+    "q_hi": "Select the most appropriate antonym of the given word.<br>Admire",
+    "op_en": [
+      "Despise",
+      "Regard",
+      "Relate",
+      "Reverence"
+    ],
+    "op_hi": [
+      "Despise",
+      "Regard",
+      "Relate",
+      "Reverence"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> 'Admire' means to respect or approve. 'Despise' means to feel contempt or deep dislike, making it the antonym. <br> <b>Solution (HI):</b> 'Admire' का अर्थ है सम्मान करना या सराहना करना। 'Despise' का अर्थ है घृणा महसूस करना या नापसंद करना, जो इसका विलोम है। <br> <b>Short Trick:</b> Admire/Regard/Reverence are synonyms relating to respect; Despise is the outlier."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Antonyms",
+    "difficulty": "Medium",
+    "q_en": "In the following question choose the word opposite in meaning to the given word.<br>Defiant",
+    "q_hi": "In the following question choose the word opposite in meaning to the given word.<br>Defiant",
+    "op_en": [
+      "Stubborn",
+      "Adamant",
+      "Amiable",
+      "Mischievous"
+    ],
+    "op_hi": [
+      "Stubborn",
+      "Adamant",
+      "Amiable",
+      "Mischievous"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> 'Defiant' means showing resistance or disobedience. 'Amiable' means having a friendly and pleasant manner, which contrasts with the nature of being defiant. <br> <b>Solution (HI):</b> 'Defiant' का अर्थ है प्रतिरोध या अवज्ञा दिखाना। 'Amiable' का अर्थ है मैत्रीपूर्ण और सुखद व्यवहार होना, जो अवज्ञाकारी होने के स्वभाव के विपरीत है। <br> <b>Short Trick:</b> Stubborn and Adamant are synonyms of Defiant. Amiable is the positive, non-resistant antonym."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "One-Word Substitution",
+    "difficulty": "Easy",
+    "q_en": "He is known as a/an ________ person.",
+    "q_hi": "He is known as a/an ________ person.",
+    "note": "Highlighted phrase: one who cannot be corrected or reformed",
+    "op_en": [
+      "incorrigible",
+      "immutable",
+      "irreversible",
+      "indelible"
+    ],
+    "op_hi": [
+      "incorrigible",
+      "immutable",
+      "irreversible",
+      "indelible"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> 'Incorrigible' is used for a person who cannot be reformed or corrected. 'Immutable' means unchangeable, 'irreversible' means cannot be undone, and 'indelible' means cannot be removed. <br> <b>Solution (HI):</b> 'Incorrigible' का उपयोग उस व्यक्ति के लिए किया जाता है जिसे सुधारा या सुधारा नहीं जा सकता है। <br> <b>Short Trick:</b> 'In' (not) + 'corrigible' (can be corrected) = Cannot be corrected."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Proverbs",
+    "difficulty": "Easy",
+    "q_en": "Select the option that best explains the meaning of the given proverb: The early bird catches the worm.",
+    "q_hi": "Select the option that best explains the meaning of the given proverb: The early bird catches the worm.",
+    "op_en": [
+      "Opportunities come to those who wait patiently",
+      "People who act promptly gain an advantage",
+      "Success depends on careful observation",
+      "Hard work matters more than timing"
+    ],
+    "op_hi": [
+      "Opportunities come to those who wait patiently",
+      "People who act promptly gain an advantage",
+      "Success depends on careful observation",
+      "Hard work matters more than timing"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> This proverb means that people who act early or are proactive have a better chance of achieving success than those who delay. <br> <b>Solution (HI):</b> इस कहावत का अर्थ है कि जो लोग जल्दी कार्य करते हैं या सक्रिय होते हैं, उन्हें उन लोगों की तुलना में सफलता मिलने की बेहतर संभावना होती है जो देरी करते हैं। <br> <b>Short Trick:</b> 'Early' = Prompt/Active; 'Catches worm' = Gains advantage."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Spelling",
+    "difficulty": "Medium",
+    "q_en": "Identify the misspelt word:",
+    "q_hi": "Identify the misspelt word:",
+    "op_en": [
+      "Adjudicate",
+      "Scrupulous",
+      "Itinaray",
+      "Indigenous"
+    ],
+    "op_hi": [
+      "Adjudicate",
+      "Scrupulous",
+      "Itinaray",
+      "Indigenous"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> The correct spelling is 'Itinerary'. The word 'Itinaray' in the option is misspelled. <br> <b>Solution (HI):</b> सही वर्तनी 'Itinerary' है। विकल्प में दिया गया शब्द 'Itinaray' गलत वर्तनी वाला है। <br> <b>Short Trick:</b> Phonetic breakdown: I-ti-ne-ra-ry."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "One-Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "Substitute one word for the given underlined segment from the following options: He suffers from a fear of heights.",
+    "q_hi": "Substitute one word for the given underlined segment from the following options: He suffers from a fear of heights.",
+    "op_en": [
+      "hydrophobia",
+      "acrophobia",
+      "agoraphobia",
+      "claustrophobia"
+    ],
+    "op_hi": [
+      "hydrophobia",
+      "acrophobia",
+      "agoraphobia",
+      "claustrophobia"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> 'Acrophobia' is the specific term for the fear of heights. Hydrophobia is the fear of water, agoraphobia is the fear of open spaces, and claustrophobia is the fear of enclosed spaces. <br> <b>Solution (HI):</b> 'Acrophobia' ऊंचाइयों के डर के लिए विशिष्ट शब्द है। <br> <b>Short Trick:</b> Root 'Acro' refers to height/top/summit."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Spelling",
+    "difficulty": "Easy",
+    "q_en": "Select the wrongly spelt word:",
+    "q_hi": "Select the wrongly spelt word:",
+    "op_en": [
+      "Laurel",
+      "Etiquetee",
+      "Forty",
+      "Grammar"
+    ],
+    "op_hi": [
+      "Laurel",
+      "Etiquetee",
+      "Forty",
+      "Grammar"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> The correct spelling is 'Etiquette'. 'Etiquetee' is incorrect. <br> <b>Solution (HI):</b> सही वर्तनी 'Etiquette' है। 'Etiquetee' गलत है। <br> <b>Short Trick:</b> Commonly confused double letters; remember French origin 'Etiquette' ends in '-ette'."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Synonyms",
+    "difficulty": "Easy",
+    "q_en": "In the following question, out of the four alternatives, choose the one which best expresses the meaning of the given word: Vivacious",
+    "q_hi": "In the following question, out of the four alternatives, choose the one which best expresses the meaning of the given word: Vivacious",
+    "op_en": [
+      "Dull",
+      "Poisonous",
+      "Slow",
+      "Cheerful"
+    ],
+    "op_hi": [
+      "Dull",
+      "Poisonous",
+      "Slow",
+      "Cheerful"
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> 'Vivacious' means attractively lively and animated. Therefore, 'Cheerful' is the best synonym among the given choices. 'Dull' and 'Slow' are antonyms. <br> <b>Solution (HI):</b> 'Vivacious' का अर्थ है आकर्षक रूप से जीवंत और एनिमेटेड। इसलिए, दिए गए विकल्पों में 'Cheerful' सबसे अच्छा पर्यायवाची है। 'Dull' और 'Slow' विलोम शब्द हैं। <br> <b>Short Trick:</b> Root word 'Viv' relates to 'life' or 'living' (like 'vivid' or 'revive') -> indicates being full of life/cheerful."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "One-Word Substitution",
+    "difficulty": "Medium",
+    "q_en": "In the following sentence, a phrase is underlined. Replace it with the most appropriate one-word substitute: Riya is a person who talks excessively and often dominates every conversation.",
+    "q_hi": "In the following sentence, a phrase is underlined. Replace it with the most appropriate one-word substitute: Riya is a person who talks excessively and often dominates every conversation.",
+    "op_en": [
+      "garrulous",
+      "belligerent",
+      "taciturn",
+      "bellicose"
+    ],
+    "op_hi": [
+      "garrulous",
+      "belligerent",
+      "taciturn",
+      "bellicose"
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> 'Garrulous' means excessively talkative, especially on trivial matters. 'Taciturn' is the opposite (reserved/silent). 'Belligerent' and 'Bellicose' mean aggressive or war-like. <br> <b>Solution (HI):</b> 'Garrulous' का अर्थ है अत्यधिक बातूनी। 'Taciturn' इसके विपरीत (आरक्षित/शांत) है। 'Belligerent' और 'Bellicose' का अर्थ आक्रामक या युद्धप्रिय होता है। <br> <b>Short Trick:</b> 'Garrulous' sounds like 'garble' (words tumbling out) -> talks too much."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> Which of the following best reflects a real-life situation related to the passage?",
+    "q_hi": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> Which of the following best reflects a real-life situation related to the passage?",
+    "op_en": [
+      "A company increases discounts to attract more customers.",
+      "A person prefers shopping from local markets instead of online platforms.",
+      "A company saves money by compromising on the quality of their products.",
+      "A shopper frequently buys unnecessary items during flash sales and later faces financial stress."
+    ],
+    "op_hi": [
+      "A company increases discounts to attract more customers.",
+      "A person prefers shopping from local markets instead of online platforms.",
+      "A company saves money by compromising on the quality of their products.",
+      "A shopper frequently buys unnecessary items during flash sales and later faces financial stress."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> The passage focuses on the drawbacks of impulsive online shopping. Option 4 perfectly illustrates the consequence mentioned in the text (impulsive buying leading to financial stress). <br> <b>Solution (HI):</b> गद्यांश ऑनलाइन शॉपिंग की आवेगपूर्ण खरीद (impulsive shopping) के नुकसानों पर केंद्रित है। विकल्प 4 पाठ में उल्लिखित परिणाम (वित्तीय तनाव) का सटीक चित्रण करता है। <br> <b>Short Trick:</b> Identify the central theme (financial risk of impulse buying) and select the option that mirrors this behavior."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Easy",
+    "q_en": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What is the most appropriate title for the passage?",
+    "q_hi": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What is the most appropriate title for the passage?",
+    "op_en": [
+      "Changing Trends in Modern Retail Systems",
+      "Online Shopping: Convenience versus Financial Vulnerability",
+      "The Evolution of E-Commerce Platforms",
+      "The Psychology of Advertising in Online Markets"
+    ],
+    "op_hi": [
+      "Changing Trends in Modern Retail Systems",
+      "Online Shopping: Convenience versus Financial Vulnerability",
+      "The Evolution of E-Commerce Platforms",
+      "The Psychology of Advertising in Online Markets"
+    ],
+    "ans": 2,
+    "solution": "<b>Solution (EN):</b> The passage discusses the dual nature of online shopping: it provides convenience, but also poses risks like financial vulnerability. Option 2 encapsulates both sides. <br> <b>Solution (HI):</b> गद्यांश ऑनलाइन शॉपिंग की दोहरी प्रकृति पर चर्चा करता है: यह सुविधा प्रदान करता है, लेकिन वित्तीय भेद्यता (financial vulnerability) जैसे जोखिम भी पैदा करता है। विकल्प 2 दोनों पहलुओं को शामिल करता है। <br> <b>Short Trick:</b> Find the title that covers both the positive aspects (convenience) and negative consequences (risks) discussed."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What is the central theme of the passage?",
+    "q_hi": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What is the central theme of the passage?",
+    "op_en": [
+      "The psychological influence of marketing strategies on consumers",
+      "The technological advancement of payment systems",
+      "The need for financial discipline in the age of online shopping",
+      "The growing dominance of digital marketplaces in everyday life"
+    ],
+    "op_hi": [
+      "The psychological influence of marketing strategies on consumers",
+      "The technological advancement of payment systems",
+      "The need for financial discipline in the age of online shopping",
+      "The growing dominance of digital marketplaces in everyday life"
+    ],
+    "ans": 3,
+    "solution": "<b>Solution (EN):</b> While the passage discusses aspects of marketing and technology, its primary focus is on the cautionary aspect: that consumers need to practice responsible usage, planning, and self-control to avoid the financial pitfalls of online shopping. <br> <b>Solution (HI):</b> हालांकि गद्यांश मार्केटिंग और तकनीक के पहलुओं पर चर्चा करता है, लेकिन इसका मुख्य ध्यान चेतावनीपूर्ण पहलू पर है: कि उपभोक्ताओं को ऑनलाइन शॉपिंग के वित्तीय नुकसान से बचने के लिए जिम्मेदार उपयोग, योजना और आत्म-नियंत्रण का अभ्यास करने की आवश्यकता है। <br> <b>Short Trick:</b> Identify the author's purpose: The concluding advice ('Thus, responsible usage is essential...') provides the central theme."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> Which of the following is a fact mentioned in the passage?",
+    "q_hi": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> Which of the following is a fact mentioned in the passage?",
+    "op_en": [
+      "Digital payment methods reduce the perceived impact of spending.",
+      "Online shopping inevitably leads to financial instability.",
+      "Discounts guarantee financial savings for buyers.",
+      "Consumers always regret their online purchases."
+    ],
+    "op_hi": [
+      "Digital payment methods reduce the perceived impact of spending.",
+      "Online shopping inevitably leads to financial instability.",
+      "Discounts guarantee financial savings for buyers.",
+      "Consumers always regret their online purchases."
+    ],
+    "ans": 1,
+    "solution": "<b>Solution (EN):</b> The passage states: 'the use of digital payment methods makes spending feel less tangible compared to cash.' This equates to digital payment methods reducing the perceived impact (tangibility) of spending. <br> <b>Solution (HI):</b> गद्यांश में कहा गया है: 'the use of digital payment methods makes spending feel less tangible compared to cash.' यह खर्च के कथित प्रभाव (tangibility) को कम करने के बराबर है। <br> <b>Short Trick:</b> Look for exact evidence in the text; ensure the option isn't an over-generalization (like 'inevitably' or 'always')."
+  },
+  {
+    "section": "Test of English Language and Comprehension",
+    "topic": "Reading Comprehension",
+    "difficulty": "Medium",
+    "q_en": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What inference can be drawn from the passage?",
+    "q_hi": "Online shopping has transformed the way people purchase goods, offering convenience, variety, and easy access to products. With just a few clicks, consumers can buy items from the comfort of their homes. However, this ease of access has also led to a rise in impulsive buying and excessive spending. Many users are attracted by discounts, flash sales, and advertisements, which often encourage them to purchase items they do not actually need. As a result, people may end up emptying their bank accounts without realizing it. Additionally, the use of digital payment methods makes spending feel less tangible compared to cash, leading to reduced financial awareness. There are also risks of online fraud and scams, which can result in financial loss. While online shopping offers undeniable benefits, it requires careful planning and self-control. Consumers must be aware of their spending habits and prioritize needs over wants. Thus, responsible usage is essential to prevent online shopping from becoming a financial burden.<br><br><b>Question:</b> What inference can be drawn from the passage?",
+    "op_en": [
+      "Online shopping platforms should be completely regulated.",
+      "Discounts are the primary cause of financial loss so avoiding online shopping is the only solution.",
+      "Consumers are generally aware of their financial decisions.",
+      "Technological convenience often requires responsible usage to avoid negative outcomes."
+    ],
+    "op_hi": [
+      "Online shopping platforms should be completely regulated.",
+      "Discounts are the primary cause of financial loss so avoiding online shopping is the only solution.",
+      "Consumers are generally aware of their financial decisions.",
+      "Technological convenience often requires responsible usage to avoid negative outcomes."
+    ],
+    "ans": 4,
+    "solution": "<b>Solution (EN):</b> The passage presents a balanced view: online shopping is convenient but carries risks like impulsive spending. Therefore, the inference is that while the technology is beneficial, it requires responsible user behavior to avoid negative financial outcomes. <br> <b>Solution (HI):</b> गद्यांश एक संतुलित दृष्टिकोण प्रस्तुत करता है: ऑनलाइन शॉपिंग सुविधाजनक है लेकिन इसमें आवेगपूर्ण खर्च जैसे जोखिम भी हैं। इसलिए, यह निष्कर्ष निकलता है कि हालांकि तकनीक फायदेमंद है, लेकिन नकारात्मक वित्तीय परिणामों से बचने के लिए इसे जिम्मेदार उपयोगकर्ता व्यवहार की आवश्यकता है। <br> <b>Short Trick:</b> Look for the middle ground; the passage doesn't condemn online shopping entirely (options 1 & 2), nor does it claim consumers are already aware (option 3), but emphasizes the *need* for responsibility."
+  }
+]
